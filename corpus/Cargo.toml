@@ -1,0 +1,17 @@
+[package]
+name = "corpus"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+polars = { version = "0.24.1", features = ["dtype-full", "object"] }
+# polars = "0.24.0"
+csv = "1.1.6"
+serde = { version = "1.0.144", features = ["derive"] }
+chrono = { version = "0.4.22", features = ["serde"] }
+regex = "1.6.0"
+tokenizers = "0.13.0"
+serde_json = "1.0"
+# pyo3 = "0.17.1"
