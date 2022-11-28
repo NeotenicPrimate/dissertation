@@ -1,7 +1,7 @@
 use polars::prelude::{PolarsError, Utf8Chunked, Series, IntoSeries};
 
-pub static STOPWORDS: [&str; 136] = ["ourselves", "hers", "between", "yourself", "but", "again", "there", "about", "once", 
-"during", "out", "very", "from", "re", "edu", "use", "published", "a", "has", "elsevier", "may", 
+pub static STOPWORDS: [&str; 139] = ["ourselves", "hers", "between", "yourself", "but", "again", "there", "about", "once", 
+"during", "out", "very", "from", "re", "edu", "use", "published", "a", "has", "elsevier", "may", "paper", "studi", "discuss",
 "having", "with", "they", "own", "an", "be", "some", "for", "do", "its", "yours", "such", "into", "of", "most", 
 "itself", "other", "off", "is", "s", "am", "or", "who", "as", "from", "him", "each", "the", "themselves", "until", 
 "below", "are", "we", "these", "your", "his", "through", "don", "nor", "me", "were", "her", "more", "himself", 

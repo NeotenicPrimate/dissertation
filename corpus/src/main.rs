@@ -20,7 +20,9 @@ async fn main() -> Result<(), PolarsError> {
 
     let now = std::time::Instant::now();
 
-    let df = import_files("./data/organizations").await?;
+    let dir_name = "genomics";
+    let dir_path = format!("./data/{}", dir_name);
+    let df = import_files(dir_path).await?;
     println!("Import: {} secs", now.elapsed().as_secs());
 
     let df = df
@@ -115,12 +117,13 @@ async fn main() -> Result<(), PolarsError> {
 
     println!("Collected: {} secs", now.elapsed().as_secs());
 
+    let file_path = format!("../output/{}_df.parquet", dir_name);
     ParquetWriter::new(
         OpenOptions::new()
             .write(true)
             .create(true)
             .truncate(true)
-            .open("../output/df.parquet")?
+            .open(file_path)?
     ).finish(&mut df)?;
 
     println!("Write to parquet: {} secs", now.elapsed().as_secs());

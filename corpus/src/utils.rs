@@ -7,13 +7,12 @@ use std::collections::HashMap;
 use crate::OLD_COLS;
 
 async fn import_file(file_path: String) -> Result<DataFrame, PolarsError> {
-    let df = CsvReader::from_path(file_path)
-        .unwrap()
+    let df = CsvReader::from_path(file_path)?
         .has_header(true)
         .with_delimiter(b'\t')
         .with_columns(Some(OLD_COLS.into_iter().map(String::from).collect()))
-        .finish()
-        .unwrap();
+        .finish()?;
+    // println!("{}", df);
     Ok(df)
 }
 
@@ -21,7 +20,7 @@ fn is_savedrec(dir_entry: &DirEntry) -> bool {
     dir_entry.file_name().into_string().unwrap().starts_with("savedrecs")
 }
 
-pub async fn import_files(dir_path: &'static str) -> Result<DataFrame, PolarsError> {
+pub async fn import_files(dir_path: String) -> Result<DataFrame, PolarsError> {
     let dir_entries = std::fs::read_dir(dir_path)?;
     let df = Arc::new(Mutex::new(DataFrame::empty()));
     let mut handles = vec![];
