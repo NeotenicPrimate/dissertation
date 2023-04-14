@@ -1,0 +1,45 @@
+Exponential Random Graph Models are used to model and test different hypotheses about the 
+structural features of social networks. This approach enables us to investigate the different 
+local and global properties of a network and establish their importance in explaining its 
+formation. By testing for various network properties, such as triangles or the average shortest 
+path between nodes, we can determine whether these properties played a significant role in the 
+network's formation.
+
+According to the Hammersly and Clifford Theorem (1971), any network model can be expressed in the 
+exponential family with counts of graph statistics. The probability of observing a particular graph 
+$y$ on $n$ nodes out of the set of all possible graphs on $n$ nodes, $Y$, denoted as $P$, can be 
+calculated using a set of network statistics $S$ and corresponding parameters $\theta$.
+
+$$
+P_{y,\theta}(Y=y|\theta) = \frac{exp\{\theta^T S(y)\}}{\sum\limits_{y' \in Y} exp\{\theta^T S(y')\}}
+$$
+
+The denominator is a normalizing constant that guarantees the distribution adds up to one. 
+This constant requires summing over space of possible networks on $n$ nodes. However, the number 
+of possible configurations (size of $Y$) grows exponentially with the number of nodes, specifically 
+to $2^{(n(n-1)/2)}$ for undirected graphs and $2^{(n(n-1))}$ for directed graphs. Thus, an exact 
+computation of this sum is not feasible.
+
+Because of this, it is custommary to use Marcov Chain Monte Carlo method to generate samples. It 
+estimate the values of the parameters that maximize the likelihood of the observed network. These 
+estimates represent the strength and direction of the effects of various network statistics on the 
+likelihood of observing the network.
+
+The above formula can be rewritten in terms of the covariate vector $\theta$:
+
+$$
+logit(Y_{ij} | y_{ij}^c) = \theta' \delta(y_{ij})
+$$
+
+Where
+\begin{itemize}
+\item $y_{ij}^c$ is the complement of $y_{ij}$, i.e. all dyads in the network other than $y_{ij}$
+\item $y_{ij}^+$ as the same network as $y$ except that $y_{ij} = 1$
+\item $y_{ij}^-$ as the same network as $y$ except that $y_{ij} = 0$
+\item $\delta(y_{ij})$ is given by $g(y_{ij}^+) - g(y_{ij}^-)$ which measures how the sufficient 
+statistic $g(y)$ changes if the $(i, j)$th edge is "toggled" on or off.
+\end{itemize}
+
+In sum, for each of the following sufficient statistics a $n \times n$ matrix $s$ is constructed. 
+The entry $s_{ij}$ indicates how the presence of the edge between $i$ and $j$ changes the network 
+statistic, holding the rest of the network constant.

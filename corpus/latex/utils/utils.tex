@@ -1,0 +1,21 @@
+\newcommand{\insertimage}[2]{
+    \begin{center}
+        \begin{figure}[H]
+            \caption{#2}
+            \label{image:#1}
+            \includegraphics[width=\textwidth]{#1}
+        \end{figure}
+    \end{center}
+}
+
+\newcommand{\inserttable}[2]{
+    \begin{center}
+        \begin{table}[H]
+            \caption{#2}
+            \label{table:#1}
+            \resizebox{\textwidth}{!}{
+                \input{tables/#1}
+            }
+        \end{table}
+    \end{center}
+}

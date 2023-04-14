@@ -1,0 +1,58 @@
+\begin{thebibliography}{}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem[\protect\citeauthoryear{Beam, Appelbaum, Jack, Moody, and Huettel}{Beam et~al.}{2014}]{beam2014}
+Beam, Elizabeth, L.~Gregory Appelbaum, Jordynn Jack, James Moody, and Scott~A. Huettel. 2014.
+\newblock \enquote{Mapping the {{Semantic Structure}} of {{Cognitive Neuroscience}}.}
+\newblock {\em Journal of Cognitive Neuroscience\/} 26:1949--1965.
+
+\bibitem[\protect\citeauthoryear{Borrett, Moody, and Edelmann}{Borrett et~al.}{2014}]{borrett2014}
+Borrett, Stuart~R., James Moody, and Achim Edelmann. 2014.
+\newblock \enquote{The Rise of {{Network Ecology}}: {{Maps}} of the Topic Diversity and Scientific Collaboration.}
+\newblock {\em Ecological Modelling\/} 293:111--127.
+
+\bibitem[\protect\citeauthoryear{Burt}{Burt}{2000}]{burt2000}
+Burt, Ronald~S. 2000.
+\newblock \enquote{The {{Network Structure Of Social Capital}}.}
+\newblock {\em Research in Organizational Behavior\/} 22:345--423.
+
+\bibitem[\protect\citeauthoryear{Callon, Courtial, and Laville}{Callon et~al.}{2005}]{callon2005}
+Callon, M., J.~Courtial, and F.~Laville. 2005.
+\newblock \enquote{Co-Word Analysis as a Tool for Describing the Network of Interactions between Basic and Technological Research: {{The}} Case of Polymer Chemsitry.}
+\newblock {\em Scientometrics\/} 22:155--205.
+
+\bibitem[\protect\citeauthoryear{Chavalarias and Cointet}{Chavalarias and Cointet}{2013}]{chavalarias2013}
+Chavalarias, David and Jean-Philippe Cointet. 2013.
+\newblock \enquote{Phylomemetic {{Patterns}} in {{Science Evolution}}\textemdash{{The Rise}} and {{Fall}} of {{Scientific Fields}}.}
+\newblock {\em PLOS ONE\/} 8:e54847.
+
+\bibitem[\protect\citeauthoryear{Hagberg, Schult, and Swart}{Hagberg et~al.}{2008}]{hagberg2008}
+Hagberg, Aric~A, Daniel~A Schult, and Pieter~J Swart. 2008.
+\newblock \enquote{Exploring {{Network Structure}}, {{Dynamics}}, and {{Function}} Using {{NetworkX}}.} .
+
+\bibitem[\protect\citeauthoryear{Kossinets and Watts}{Kossinets and Watts}{2006}]{kossinets2006}
+Kossinets, Gueorgi and Duncan~J. Watts. 2006.
+\newblock \enquote{Empirical {{Analysis}} of an {{Evolving Social Network}}.}
+\newblock {\em Science\/} 311:88--90.
+
+\bibitem[\protect\citeauthoryear{Moody and Light}{Moody and Light}{2006}]{moody2006}
+Moody, James and Ryan Light. 2006.
+\newblock \enquote{A View from above: {{The}} Evolving Sociological Landscape.}
+\newblock {\em The American Sociologist\/} 37:67--86.
+
+\bibitem[\protect\citeauthoryear{Newman}{Newman}{2018}]{newman2018}
+Newman, Mark. 2018.
+\newblock {\em Networks\/}.
+\newblock {Oxford, New York}: {Oxford University Press}, second edition, new to this edition:, second edition, new to this edition: edition.
+
+\bibitem[\protect\citeauthoryear{Salvatier, Wiecki, and Fonnesbeck}{Salvatier et~al.}{2016}]{salvatier2016}
+Salvatier, John, Thomas~V. Wiecki, and Christopher Fonnesbeck. 2016.
+\newblock \enquote{Probabilistic Programming in {{Python}} Using {{PyMC3}}.}
+\newblock {\em PeerJ Computer Science\/} 2:e55.
+
+\bibitem[\protect\citeauthoryear{van Rossum and Drake}{van Rossum and Drake}{2010}]{rossum2010}
+van Rossum, Guido and Fred~L. Drake. 2010.
+\newblock {\em The {{Python}} Language Reference\/}.
+\newblock Number Pt. 2 in Python Documentation Manual / {{Guido}} van {{Rossum}}; {{Fred L}}. {{Drake}} [Ed.]. {Hampton, NH}: {Python Software Foundation}, release 3.0.1 [repr.] edition.
+
+\end{thebibliography}
