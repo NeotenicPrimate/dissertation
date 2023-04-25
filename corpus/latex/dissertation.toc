@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {2}Theory}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Revolutionary Science}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Fractal Science}{2}{}%
+\contentsline {subsection}{\numberline {2.3}High Consensus, Rapid Discovery Science}{2}{}%
+\contentsline {subsection}{\numberline {2.4}Attention in Science}{2}{}%
+\contentsline {subsection}{\numberline {2.5}Phases of Science}{2}{}%
+\contentsline {section}{\numberline {3}Methods}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Data}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Sample}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Fields}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Tools}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Networks}{5}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Citation}{5}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Co-Citation}{5}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}Co-Occurrence}{5}{}%
+\contentsline {subsection}{\numberline {3.3}ERGMs}{6}{}%
+\contentsline {subsection}{\numberline {3.4}Measurements}{7}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Density effect (Edges)}{7}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Small-World effect (Triangles)}{7}{}%
+\contentsline {subsubsection}{\numberline {3.4.3}Closure effect (Transitivity)}{8}{}%
+\contentsline {subsubsection}{\numberline {3.4.4}Clique effect (Cliques)}{8}{}%
+\contentsline {subsubsection}{\numberline {3.4.5}Silo effect (Components)}{8}{}%
+\contentsline {subsubsection}{\numberline {3.4.6}Popularity effect ($k$-star)}{8}{}%
+\contentsline {subsubsection}{\numberline {3.4.7}Mediating effect (betweenness centrality)}{9}{}%
+\contentsline {subsubsection}{\numberline {3.4.8}Community effect (Louvain)}{9}{}%
+\contentsline {section}{\numberline {4}Results}{9}{}%
+\contentsline {subsection}{\numberline {4.1}Desciptive Statistics}{9}{}%
+\contentsline {subsection}{\numberline {4.2}Co-Citation}{10}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Density Effect (Edges)}{10}{}%
+\contentsline {subsubsection}{\numberline {4.2.2} (Triangles)}{10}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Small-World effect (Transitivity)}{10}{}%
+\contentsline {subsection}{\numberline {4.3}Co-Occurrence}{10}{}%

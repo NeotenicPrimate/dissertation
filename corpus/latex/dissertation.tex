@@ -4,11 +4,32 @@
 
 \input{utils/utils}
 
+% \tikzstyle{vertex}=[draw,fill=black!15,circle,minimum size=18pt,inner sep=0pt]
 
 
 \begin{document}
 
+% High -> Low -> High Centrlization (cycles)
+% Number of communities
+
+% Likert scale (High, Medium Low) on each dimension
+
+% There are n patterns along which fields develop
+
+    \pagenumbering{gobble}
+
     \subfile{sections/title_page}
+
+    \tableofcontents
+
+    \newpage
+
+    \listoffigures
+    \listoftables
+    
+    \cleardoublepage
+
+    \pagenumbering{arabic}
 
     \input{sections/abstract}
 
@@ -16,28 +37,26 @@
 
     \input{sections/introduction}
 
-    \section{Networks}
+    \section{Theory}
 
-    \input{sections/networks}
+    \input{sections/theory}
 
-    \section{Data}
+    \section{Methods}
 
-    \input{sections/data}
-
-    \section{ERGMs}
-
-    \input{sections/ergm}
-
-    \section{Measurements}
-
-    \input{sections/measurements}
+    \input{sections/methods}
     
     \section{Results}
 
     \input{sections/results}
 
+    \newpage
+
     \bibliographystyle{utils/ajs}
     \bibliography{sections/bibliography}
+
+    \newpage
+
+    \input{sections/figures}
 
 
 \end{document}

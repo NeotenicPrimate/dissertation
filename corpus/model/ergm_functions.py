@@ -3,11 +3,12 @@ import networkx as nx
 from networkx.algorithms import community
 from itertools import combinations
 import math
+import polars as pl
 
 ###########################################################################################################################################################
 ###########################################################################################################################################################
 
-def delta_f(G, f, standardize=True):
+def delta_f(G, f, undirected=True):
 
     nodes = np.array(G.nodes)
     delta_mat = np.zeros((nodes.size, nodes.size))
@@ -28,10 +29,11 @@ def delta_f(G, f, standardize=True):
         delta_mat[idx_u, idx_v] = stat_delta
         delta_mat[idx_v, idx_u] = stat_delta
 
-        if standardize:
-            delta_mat = (delta_mat - delta_mat.mean()) / delta_mat.std()
+        # if standardize:
+        #     delta_mat = (delta_mat - delta_mat.mean()) / delta_mat.std()
 
-        delta_mat[np.triu_indices_from(delta_mat)] = 0
+        if undirected:
+            delta_mat[np.triu_indices_from(delta_mat)] = 0
 
     return delta_mat
 
@@ -90,7 +92,38 @@ def star(G, k):
 
 def geodesic(G):
     comp = max(nx.connected_components(G), key=len)
-    return nx.average_shortest_path_length(comp)
+    G_sub = G.subgraph(comp)
+    return nx.average_shortest_path_length(G_sub)
+
+###########################################################################################################################################################
+###########################################################################################################################################################
+
+def date(G, df, t):
+
+    # if two nodes are within t years of each other 1, otherwise 0
+    
+    nodes = np.array(G.nodes)
+    delta_mat = np.zeros((nodes.size, nodes.size))
+
+    for (u, v) in combinations(nodes, 2):
+
+        year_u, = df.filter(pl.col('Doi').eq(pl.lit(u))).select(pl.col('Date').dt.year()).row(0)
+        year_v, = df.filter(pl.col('Doi').eq(pl.lit(v))).select(pl.col('Date').dt.year()).row(0)
+
+        if abs(year_u - year_v) <= t:
+            delta = 1
+        else:
+            delta = 0
+
+        idx_u = np.where(nodes == u)[0]
+        idx_v = np.where(nodes == v)[0]
+
+        delta_mat[idx_u, idx_v] = delta
+        delta_mat[idx_v, idx_u] = delta
+        
+        delta_mat[np.triu_indices_from(delta_mat)] = 0
+
+    return delta_mat
 
 
 ###########################################################################################################################################################

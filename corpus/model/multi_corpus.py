@@ -75,6 +75,10 @@ def citation_df():
 
     if not os.path.exists(CITATION_DF_PATH): os.mkdir(CITATION_DF_PATH)
     for field_name in os.listdir(DATA_PATH):
+
+        if field_name != 'Geometry':
+            continue
+
         if not field_name.startswith('.'):
             field_dfs = []
             for journal_name in os.listdir(os.path.join(DATA_PATH, field_name)):
@@ -134,6 +138,12 @@ def citation_df():
             )
 
             ################
+            # 1985 ≤ Date ≤ 2020
+            ################
+
+            df = df.filter(pl.col('Date').is_between(pl.datetime(1985, 1, 1), pl.datetime(2020, 12, 31)))
+
+            ################
             # Clean Text
             ################
 
@@ -177,37 +187,6 @@ def citation_df():
             df = df.join(other=clean_text, on='Doi', how='left').filter(pl.col('Text').arr.lengths().le(300))
 
             ################
-            # Remove references not in dois
-            ################
-
-            dois = df.select(pl.col('Doi')).to_numpy().flatten()
-            df = (
-                df
-                .with_columns(
-                    pl.col('References')
-                        .arr.eval(
-                            pl.element().filter(pl.element().is_in(list(dois)))
-                        )
-                )
-                .explode('References')
-                .filter((pl.col('Doi').is_in(pl.col('References')) | (pl.col('References').is_in(pl.col('Doi')))))
-                .groupby(pl.col('Doi'))
-                .agg(pl.col('References'))
-                .with_columns(pl.col('References').arr.eval(pl.element().filter(~pl.element().is_null())))
-                .join(other=df.select(pl.all().exclude('References')), on='Doi', how='left')
-            )
-
-            assert(
-                (
-                    df
-                    .select(pl.col('Doi'), pl.col('References'))
-                    .explode(pl.col('References'))
-                    .select((pl.col('Doi').is_in(pl.col('References')) | (pl.col('References').is_in(pl.col('Doi')))))
-                    .to_numpy()
-                ).all()
-            )
-
-            ################
             # Remove self-loops
             ################
 
@@ -245,7 +224,7 @@ def citation_df():
                 df
                 .explode('References')
                 .join(other=df.select('Doi', 'Date'), left_on='References', right_on='Doi', how='left', suffix='References')
-                .filter(pl.col('Date').gt(pl.col('DateReferences')) | pl.col('References').is_null())
+                .filter(pl.col('Date').gt(pl.col('DateReferences'))) #  | pl.col('References').is_null()
                 .drop('DateReferences')
                 .groupby(pl.col('Doi'))
                 .agg(pl.col('References'))
@@ -302,11 +281,37 @@ def citation_df():
             )
 
             ################
+            # Remove references not in dois
+            ################
+
+
+            dois = df.select(pl.col('Doi')).to_numpy().flatten()
+
+            df = (
+                df
+                .with_columns(
+                    pl.col('References')
+                        .arr.eval(
+                            pl.element().filter(pl.element().is_in(list(dois)))
+                        )
+                )
+            )
+
+            assert(
+                (
+                    df
+                    .select(pl.col('Doi'), pl.col('References'))
+                    .explode(pl.col('References'))
+                    .select(pl.col('References').is_in(pl.col('Doi')) | pl.col('References').eq(None))
+                    .to_numpy()
+                ).all()
+            )
+
+            ################
             # Non null
             ################
 
-            nulls = ~df.select(pl.all().is_null().any()).to_numpy()
-            assert(nulls.all())
+            assert(~df.select(pl.all().is_null().any()).to_numpy().all())
 
             df.write_parquet(os.path.join(CITATION_DF_PATH, field_name + '.parquet'))
             print(field_name, df.shape)

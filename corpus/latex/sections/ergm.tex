@@ -1,37 +1,39 @@
-Exponential Random Graph Models are used to model and test different hypotheses about the 
-structural features of social networks. This approach enables us to investigate the different 
-local and global properties of a network and establish their importance in explaining its 
-formation. By testing for various network properties, such as triangles or the average shortest 
-path between nodes, we can determine whether these properties played a significant role in the 
-network's formation.
+Exponential Random Graph Models (ERGMs) are commonly employed to model and test various hypotheses about the structural characteristics of social networks. This approach allows for the investigation of both local and global properties of a network and enables the identification of significant factors that contribute to its formation. By examining network properties such as the presence of triangles or the average shortest path between nodes, we can determine the extent to which these features played a role in shaping the network's structure.
 
-According to the Hammersly and Clifford Theorem (1971), any network model can be expressed in the 
-exponential family with counts of graph statistics. The probability of observing a particular graph 
-$y$ on $n$ nodes out of the set of all possible graphs on $n$ nodes, $Y$, denoted as $P$, can be 
-calculated using a set of network statistics $S$ and corresponding parameters $\theta$.
+ERGMs rely on the fundamental theoretical assumption of dependence, which posits that the presence of certain relationships between documents can impact the formation, persistence, or prevention of other relationships. To illustrate, when an article, let's say article A, cites both articles B and C, it is more probable that articles B and C will also cite each other.
+
+In their general form, ERGMs are written as \citep{hunter2008}:
 
 $$
-P_{y,\theta}(Y=y|\theta) = \frac{exp\{\theta^T S(y)\}}{\sum\limits_{y' \in Y} exp\{\theta^T S(y')\}}
+P(Y=y) = \frac{exp(\theta' g(y))}{k(\theta)}
 $$
 
-The denominator is a normalizing constant that guarantees the distribution adds up to one. 
-This constant requires summing over space of possible networks on $n$ nodes. However, the number 
-of possible configurations (size of $Y$) grows exponentially with the number of nodes, specifically 
-to $2^{(n(n-1)/2)}$ for undirected graphs and $2^{(n(n-1))}$ for directed graphs. Thus, an exact 
-computation of this sum is not feasible.
+The model specifies that the probability of a network (on the left-hand side) is 
+a function of terms on the right-hand side, which represent hypothesized network features that 
+deviate from chance expectations, where:
 
-Because of this, it is custommary to use Marcov Chain Monte Carlo method to generate samples. It 
-estimate the values of the parameters that maximize the likelihood of the observed network. These 
-estimates represent the strength and direction of the effects of various network statistics on the 
-likelihood of observing the network.
+\begin{itemize}
+    \item Y is the random variable for the state of the network (with realization y)
+    \item $g(y)$ is a vector of model statistics (ERGM terms) for network y
+    \item $\theta$ is the vector of coefficients for those statistics
+    \item $k(\theta)$ represents the quantity in the numerator summed over all possible networks
+\end{itemize}
+
+The numerator can be written as:
+
+$$
+log(exp(\theta' g(y))) = \theta_1 g_1(y) + \theta_2 g_2(y) + \dots + \theta_p g_p(y)
+$$
+
+The denominator of the probability distribution is a normalizing constant that ensures that the distribution sums up to one. Computing this constant requires summing over the space of all possible networks on n nodes, but the number of possible configurations grows exponentially with the number of nodes, specifically $2^{(n(n-1)/2)}$ for undirected graphs and $2^{(n(n-1))}$ for directed graphs. Therefore, exact computation of this sum is infeasible. To address this, Markov Chain Monte Carlo (MCMC) methods are commonly used to generate samples and estimate the values of the parameters that maximize the likelihood of the observed network. These estimates capture the strength and direction of the effects of different network statistics on the likelihood of observing the network.
 
 The above formula can be rewritten in terms of the covariate vector $\theta$:
 
 $$
-logit(Y_{ij} | y_{ij}^c) = \theta' \delta(y_{ij})
+logit(Y_{ij} = 1 | y_{ij}^c) = \theta' \delta(y_{ij})
 $$
 
-Where
+Where:
 \begin{itemize}
 \item $y_{ij}^c$ is the complement of $y_{ij}$, i.e. all dyads in the network other than $y_{ij}$
 \item $y_{ij}^+$ as the same network as $y$ except that $y_{ij} = 1$
@@ -40,6 +42,20 @@ Where
 statistic $g(y)$ changes if the $(i, j)$th edge is "toggled" on or off.
 \end{itemize}
 
-In sum, for each of the following sufficient statistics a $n \times n$ matrix $s$ is constructed. 
-The entry $s_{ij}$ indicates how the presence of the edge between $i$ and $j$ changes the network 
-statistic, holding the rest of the network constant.
+To summarize, for each of the sufficient statistics, a matrix $g_p(y)$ of size $n \times n$ is created. Each entry $g_{ij}$ represents the effect that the presence of an edge between nodes $i$ and $j$ has on the corresponding network statistic, while holding the rest of the network constant.
+
+To help us interpret the coefficents, let us take an example. If only edges and triangles are included in the model, the conditional log-odds of two documents being co-cited or two terms co-occurring, keeping the rest of the network constant, is:
+
+$$
+\theta_{edges} \times \text{change in the number of ties} + \theta_{triangles} \times \text{change in number of triangles}
+$$
+
+The total number of ties in the network always increases by 1 with the addition of any new tie, therefore, for an edge that creates no triangles, the conditional log-odds is simply $\theta_{edges}$. If the addition of the edge creates one triangle the conditional log-odds becomes $\theta_{edges} + 1 \times \theta_{triangles}$. If the addition of the edge creates one triangle the conditional log-odds becomes $\theta_{edges} + 2 \times \theta_{triangles}$. Etc. Note that the edge covariate is always included and is treated as an intercept in the model.
+
+To obtain the corresponding probability, the expit (or inverse logit) of $\theta$ is taken:
+
+$$
+P(e) = \exp(\theta)/(1 + exp(\theta))
+$$
+
+

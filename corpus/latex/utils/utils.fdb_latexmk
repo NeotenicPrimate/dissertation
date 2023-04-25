@@ -1,0 +1,12 @@
+# Fdb version 4
+["pdflatex"] 1681793723 "utils.tex" "utils.pdf" "utils" 1681793724 2
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1680997865 7883463 30309497023c6415ea8072af6496571e ""
+  "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "utils.aux" 1681791409 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "utils.tex" 1681793722 1086 4f74993aa5153def364fed8c7c2e8bc0 ""
+  (generated)
+  "utils.aux"
+  "utils.log"
+  "utils.pdf"
+  (rewritten before read)

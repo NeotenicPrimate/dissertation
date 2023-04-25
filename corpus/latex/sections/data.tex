@@ -1,57 +1,27 @@
 Having established the possibility of linking citation networks and concept networks as clusters at various levels of analysis, I will now delve into a discussion of the data used to identify the structure and dynamics of scientific communities. The analysis of this data will enable me to evaluate the accuracy of the various theories of scientific development discussed earlier and to provide a realistic account of the fields analyzed, given that the data is reliable and sufficient.
 
-\subsection{Sample}
+\subsubsection{Sample}
 
-There are two main ways of bounding citation networks. The first involves sampling based on journals
- \citep{beam2014, moody2006}, while the second involves sampling based on a topical 
- search \citep{borrett2014,callon2005,chavalarias2013}. In this study, I used 
- the former method, selecting articles that were published in one of the 5 peer-reviewed journals 
- with the highest impact factor.
+There are two main ways of bounding citation networks. The first involves sampling based on journals \citep{beam2014, moody2006}, while the second involves sampling based on a topical search \citep{borrett2014,callon2005,chavalarias2013}. In this study, I used the former method, selecting articles that were published in one of the 5 peer-reviewed journals with the highest impact factor.
 
-The main advantage of sampling based on journals is that it will allow us to focus on articles 
-published in high-quality, reputable journals. This can help ensure that the data used in the study 
-is of a high quality and is representative of the broader field of research. Additionally, 
-journal-based sampling can make it easier to compare the results of different studies, as it 
-provides a common frame of reference.
+The main advantage of sampling based on journals is that it will allow us to focus on articles published in high-quality, reputable journals. This can help ensure that the data used in the study is of a high quality and is representative of the broader field of research. Additionally, journal-based sampling can make it easier to compare the results of different studies, as it provides a common frame of reference.
 
-Bradford's law is a principle that describes the relationship between the number of scientific 
-journals in a particular field and the number of citations that articles in those journals receive. 
-It states that a small number of highly-cited journals tend to publish a disproportionate number of 
-highly-cited articles, while a large number of low-cited journals tend to publish a disproportionate 
+Bradford's law \citep{bradford1985, hjorland2005} is a principle that describes the relationship between the number of scientific journals in a particular field and the number of citations that articles in those journals receive. It states that a small number of highly-cited journals tend to publish a disproportionate number of highly-cited articles, while a large number of low-cited journals tend to publish a disproportionate 
 number of low-cited articles.
 
-This law can be used to support the choice of only selecting a small number of journals in each 
-scientific field under study. Focusing on a select group of highly-cited journals, can increase the 
-chances of finding and reading the most influential and highly-cited articles in that field. It's 
-worth noting that Bradford's law is not a hard and fast rule, and there may be cases where it is 
-necessary or beneficial to review a larger number of journals in a particular field. However, as a 
-general principle, Bradford's law can be a useful guide when selecting journals for review.
+This law can be used to support the choice of only selecting a small number of journals in each scientific field under study. Focusing on a select group of highly-cited journals, can increase the chances of finding and reading the most influential and highly-cited articles in that field. It's worth noting that Bradford's law is not a hard and fast rule, and there may be cases where it is necessary or beneficial to review a larger number of journals in a particular field. However, as a general principle, Bradford's law can be a useful guide when selecting journals for review.
 
-The data used in this study consists of peer-reviewed scientific articles collected from Web of 
-Science. These data include each document's citation information, as well as its title, abstract, 
-key words, and publication date.
+The data used in this study consists of peer-reviewed scientific articles collected by Clarivate Web of Science. These data include each document's citation information, as well as its title, 
+abstract, key words, and publication date.
 
-\subsection{Fields}
+\subsubsection{Fields}
 
-The fields being analyzed include Artificial Intelligence, Astronomy \& Astrophysics, Economics, 
-Ethnic \& Cultural Studies, Gender Studies, Genetics \& Genomics, Geometry, Geophysics, Human 
-Resources \& Organizations, Immunology, International Business, Language \& Linguistics, Law, 
-Material Engineering, Neurology, Political Science, Probability \& Statistics, Sociology, 
-Biochemistry. A complete list of the journals for each of the fields can be found in the Appendix.
+The fields being analyzed include Artificial Intelligence, Astronomy \& Astrophysics, Economics, Ethnic \& Cultural Studies, Gender Studies, Genetics \& Genomics, Geometry, Geophysics, Human Resources \& Organizations, Immunology, International Business, Language \& Linguistics, Law, Material Engineering, Neurology, Political Science, Probability \& Statistics, Sociology, Biochemistry. A complete list of the journals for each of the fields can be found in the Appendix.
 
-These fields were selected for analysis because they represent a diverse range of disciplines, 
-including both hard sciences, as well as soft sciences. This diversity allows for a comprehensive 
-examination of how scientific communities function across different areas of study. Additionally, 
-these fields are dynamic and rapidly advancing, providing a rich source of data for analysis and 
-making them well suited for studying the structure and dynamics of scientific communities. 
+These fields were selected for analysis because they represent a diverse range of disciplines, including both hard sciences, as well as soft sciences. This diversity allows for a comprehensive examination of how scientific communities function across different areas of study. Additionally, these fields are dynamic and rapidly advancing, providing a rich source of data for analysis and making them well suited for studying the structure and dynamics of scientific communities. 
 
-Furthermore, these fields were selected because they enable not only the analysis of individual 
-fields but also the use of a comparative framework. Comparing and contrasting the structures and 
-dynamics of scientific communities across different fields allows for a deeper understanding of the 
-similarities and differences among them, and the opportunity to identify common as well as 
-idiosyncratic patterns and trends that may be relevant to theories of scientific development.
+Furthermore, these fields were selected because they enable not only the analysis of individual fields but also the use of a comparative framework. Comparing and contrasting the structures and dynamics of scientific communities across different fields allows for a deeper understanding of the similarities and differences among them, and the opportunity to identify common as well as idiosyncratic patterns and trends that may be relevant to theories of scientific development.
 
-\subsection{Tools}
+\subsubsection{Tools}
 
-Python was used for the analysis \citep{rossum2010}, and several libraries were particularly 
-noteworthy, including Networkx \citep{hagberg2008} and PyMC \citep{salvatier2016}.
+Python was used for the analysis \citep{rossum2010}, and several libraries were particularly noteworthy, including Networkx \citep{hagberg2008}, PyMC \citep{wiecki2023} and Polars \citep{vink2023}, among many others.

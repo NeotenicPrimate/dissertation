@@ -1,58 +1,223 @@
 \begin{thebibliography}{}
 \newcommand{\enquote}[1]{``#1''}
 
-\bibitem[\protect\citeauthoryear{Beam, Appelbaum, Jack, Moody, and Huettel}{Beam et~al.}{2014}]{beam2014}
-Beam, Elizabeth, L.~Gregory Appelbaum, Jordynn Jack, James Moody, and Scott~A. Huettel. 2014.
-\newblock \enquote{Mapping the {{Semantic Structure}} of {{Cognitive Neuroscience}}.}
+\bibitem[\protect\citeauthoryear{Abbott}{Abbott}{2001}]{abbott2001}
+Abbott, Andrew. 2001.
+\newblock {\em Chaos of {{Disciplines}}\/}.
+\newblock {Chicago, IL}: {University of Chicago Press}.
+
+\bibitem[\protect\citeauthoryear{Barab{\'a}si and Albert}{Barab{\'a}si and
+  Albert}{1999}]{barabasi1999}
+Barab{\'a}si, Albert-L{\'a}szl{\'o} and R{\'e}ka Albert. 1999.
+\newblock \enquote{Emergence of {{Scaling}} in {{Random Networks}}.}
+\newblock {\em Science\/} 286:509--512.
+
+\bibitem[\protect\citeauthoryear{Beam, Appelbaum, Jack, Moody, and
+  Huettel}{Beam et~al.}{2014}]{beam2014}
+Beam, Elizabeth, L.~Gregory Appelbaum, Jordynn Jack, James Moody, and Scott~A.
+  Huettel. 2014.
+\newblock \enquote{Mapping the {{Semantic Structure}} of {{Cognitive
+  Neuroscience}}.}
 \newblock {\em Journal of Cognitive Neuroscience\/} 26:1949--1965.
 
-\bibitem[\protect\citeauthoryear{Borrett, Moody, and Edelmann}{Borrett et~al.}{2014}]{borrett2014}
+\bibitem[\protect\citeauthoryear{Borrett, Moody, and Edelmann}{Borrett
+  et~al.}{2014}]{borrett2014}
 Borrett, Stuart~R., James Moody, and Achim Edelmann. 2014.
-\newblock \enquote{The Rise of {{Network Ecology}}: {{Maps}} of the Topic Diversity and Scientific Collaboration.}
+\newblock \enquote{The Rise of {{Network Ecology}}: {{Maps}} of the Topic
+  Diversity and Scientific Collaboration.}
 \newblock {\em Ecological Modelling\/} 293:111--127.
+
+\bibitem[\protect\citeauthoryear{Bradford}{Bradford}{1985}]{bradford1985}
+Bradford, Samuel. 1985.
+\newblock \enquote{Sources of Information on Specific Subjects.}
+\newblock {\em Journal of Information Science\/} 10:176--180.
 
 \bibitem[\protect\citeauthoryear{Burt}{Burt}{2000}]{burt2000}
 Burt, Ronald~S. 2000.
 \newblock \enquote{The {{Network Structure Of Social Capital}}.}
 \newblock {\em Research in Organizational Behavior\/} 22:345--423.
 
-\bibitem[\protect\citeauthoryear{Callon, Courtial, and Laville}{Callon et~al.}{2005}]{callon2005}
+\bibitem[\protect\citeauthoryear{Callon, Courtial, and Laville}{Callon
+  et~al.}{2005}]{callon2005}
 Callon, M., J.~Courtial, and F.~Laville. 2005.
-\newblock \enquote{Co-Word Analysis as a Tool for Describing the Network of Interactions between Basic and Technological Research: {{The}} Case of Polymer Chemsitry.}
+\newblock \enquote{Co-Word Analysis as a Tool for Describing the Network of
+  Interactions between Basic and Technological Research: {{The}} Case of
+  Polymer Chemsitry.}
 \newblock {\em Scientometrics\/} 22:155--205.
 
-\bibitem[\protect\citeauthoryear{Chavalarias and Cointet}{Chavalarias and Cointet}{2013}]{chavalarias2013}
+\bibitem[\protect\citeauthoryear{Chavalarias and Cointet}{Chavalarias and
+  Cointet}{2013}]{chavalarias2013}
 Chavalarias, David and Jean-Philippe Cointet. 2013.
-\newblock \enquote{Phylomemetic {{Patterns}} in {{Science Evolution}}\textemdash{{The Rise}} and {{Fall}} of {{Scientific Fields}}.}
+\newblock \enquote{Phylomemetic {{Patterns}} in {{Science
+  Evolution}}\textemdash{{The Rise}} and {{Fall}} of {{Scientific Fields}}.}
 \newblock {\em PLOS ONE\/} 8:e54847.
 
-\bibitem[\protect\citeauthoryear{Hagberg, Schult, and Swart}{Hagberg et~al.}{2008}]{hagberg2008}
-Hagberg, Aric~A, Daniel~A Schult, and Pieter~J Swart. 2008.
-\newblock \enquote{Exploring {{Network Structure}}, {{Dynamics}}, and {{Function}} Using {{NetworkX}}.} .
+\bibitem[\protect\citeauthoryear{Collins}{Collins}{1994}]{collins1994}
+Collins, Randall. 1994.
+\newblock \enquote{Why the Social Sciences Won't Become High-Consensus,
+  Rapid-Discovery Science.}
+\newblock {\em Sociological Forum\/} 9:155--177.
 
-\bibitem[\protect\citeauthoryear{Kossinets and Watts}{Kossinets and Watts}{2006}]{kossinets2006}
+\bibitem[\protect\citeauthoryear{Collins}{Collins}{1998}]{collins1998}
+Collins, Randall. 1998.
+\newblock \enquote{The {{Sociological Eye}} and {{Its Blinders}}.}
+\newblock {\em Contemporary Sociology\/} 27:2--7.
+
+\bibitem[\protect\citeauthoryear{Crane}{Crane}{1969}]{crane1969}
+Crane, Diana. 1969.
+\newblock \enquote{Social {{Structure}} in a {{Group}} of {{Scientists}}: {{A
+  Test}} of the "{{Invisible College}}" {{Hypothesis}}.}
+\newblock {\em American Sociological Review\/} 34:335--352.
+
+\bibitem[\protect\citeauthoryear{Crane}{Crane}{1972}]{crane1972}
+Crane, Diana. 1972.
+\newblock {\em Invisible {{Colleges}}: {{Diffusion}} of {{Knowledge}} in
+  {{Scientific Communities}}\/}.
+\newblock {Chicago}: {University Of Chicago Press}, n edition edition.
+
+\bibitem[\protect\citeauthoryear{De~Solla~Price and Beaver}{De~Solla~Price and
+  Beaver}{1966}]{desollaprice1966}
+De~Solla~Price, Derek~J. and Donald Beaver. 1966.
+\newblock \enquote{Collaboration in an Invisible College.}
+\newblock {\em American Psychologist\/} 21:1011--1018.
+
+\bibitem[\protect\citeauthoryear{Hagberg, Schult, and Swart}{Hagberg
+  et~al.}{2008}]{hagberg2008}
+Hagberg, Aric~A, Daniel~A Schult, and Pieter~J Swart. 2008.
+\newblock \enquote{Exploring {{Network Structure}}, {{Dynamics}}, and
+  {{Function}} Using {{NetworkX}}.} .
+
+\bibitem[\protect\citeauthoryear{Hj{\o}rland and Nicolaisen}{Hj{\o}rland and
+  Nicolaisen}{2005}]{hjorland2005}
+Hj{\o}rland, Birger and Jeppe Nicolaisen. 2005.
+\newblock \enquote{Bradford's {{Law}} of {{Scattering}}: {{Ambiguities}} in the
+  {{Concept}} of ``{{Subject}}''.}
+\newblock In {\em Context: {{Nature}}, {{Impact}}, and {{Role}}\/}, edited by
+  Fabio Crestani and Ian Ruthven, Lecture {{Notes}} in {{Computer Science}},
+  pp. 96--106, {Berlin, Heidelberg}. {Springer}.
+
+\bibitem[\protect\citeauthoryear{Holme and Kim}{Holme and
+  Kim}{2002}]{holme2002}
+Holme, Petter and Beom~Jun Kim. 2002.
+\newblock \enquote{Growing Scale-Free Networks with Tunable Clustering.}
+\newblock {\em Physical Review E\/} 65:026107.
+
+\bibitem[\protect\citeauthoryear{Hunter, Handcock, Butts, Goodreau, and
+  Morris}{Hunter et~al.}{2008}]{hunter2008}
+Hunter, David~R., Mark~S. Handcock, Carter~T. Butts, Steven~M. Goodreau, and
+  Martina Morris. 2008.
+\newblock \enquote{Ergm: {{A Package}} to {{Fit}}, {{Simulate}} and {{Diagnose
+  Exponential-Family Models}} for {{Networks}}.}
+\newblock {\em Journal of Statistical Software\/} 24.
+
+\bibitem[\protect\citeauthoryear{Jackson}{Jackson}{2010}]{jackson2010}
+Jackson, Matthew. 2010.
+\newblock {\em Social and {{Economic Networks}}\/}.
+\newblock {Princeton University Press}.
+
+\bibitem[\protect\citeauthoryear{Jiao, Wang, Liu, Wu, Cui, and Peng}{Jiao
+  et~al.}{2017}]{jiao2017}
+Jiao, Can, Ting Wang, Jianxin Liu, Huanjie Wu, Fang Cui, and Xiaozhe Peng.
+  2017.
+\newblock \enquote{Using {{Exponential Random Graph Models}} to {{Analyze}} the
+  {{Character}} of {{Peer Relationship Networks}} and {{Their Effects}} on the
+  {{Subjective Well-being}} of {{Adolescents}}.}
+\newblock {\em Frontiers in Psychology\/} 8.
+
+\bibitem[\protect\citeauthoryear{Kossinets and Watts}{Kossinets and
+  Watts}{2006}]{kossinets2006}
 Kossinets, Gueorgi and Duncan~J. Watts. 2006.
 \newblock \enquote{Empirical {{Analysis}} of an {{Evolving Social Network}}.}
 \newblock {\em Science\/} 311:88--90.
 
-\bibitem[\protect\citeauthoryear{Moody and Light}{Moody and Light}{2006}]{moody2006}
+\bibitem[\protect\citeauthoryear{Kretschmer}{Kretschmer}{2004}]{kretschmer2004}
+Kretschmer, Hildrun. 2004.
+\newblock \enquote{Author Productivity and Geodesic Distance in Bibliographic
+  Co-Authorship Networks, and Visibility on the {{Web}}.}
+\newblock {\em Scientometrics\/} 60:409--420.
+
+\bibitem[\protect\citeauthoryear{Kuhn}{Kuhn}{2012}]{kuhn2012}
+Kuhn, Thomas~S. 2012.
+\newblock {\em The {{Structure}} of {{Scientific Revolutions}}\/}.
+\newblock {University of Chicago Press}.
+
+\bibitem[\protect\citeauthoryear{Leskovec, Kleinberg, and Faloutsos}{Leskovec
+  et~al.}{2007}]{leskovec2007}
+Leskovec, Jure, Jon Kleinberg, and Christos Faloutsos. 2007.
+\newblock \enquote{Graph Evolution: {{Densification}} and Shrinking Diameters.}
+\newblock {\em ACM Transactions on Knowledge Discovery from Data\/} 1:2--es.
+
+\bibitem[\protect\citeauthoryear{Moody and Light}{Moody and
+  Light}{2006}]{moody2006}
 Moody, James and Ryan Light. 2006.
 \newblock \enquote{A View from above: {{The}} Evolving Sociological Landscape.}
 \newblock {\em The American Sociologist\/} 37:67--86.
 
+\bibitem[\protect\citeauthoryear{Mullins}{Mullins}{1973}]{mullins1973}
+Mullins, Nicholas~C. 1973.
+\newblock \enquote{The {{Development}} of {{Specialties}} in {{Social
+  Science}}: {{The Case}} of {{Ethnomethodology}}.}
+\newblock {\em Science Studies\/} 3:245--273.
+
 \bibitem[\protect\citeauthoryear{Newman}{Newman}{2018}]{newman2018}
 Newman, Mark. 2018.
 \newblock {\em Networks\/}.
-\newblock {Oxford, New York}: {Oxford University Press}, second edition, new to this edition:, second edition, new to this edition: edition.
+\newblock {Oxford, New York}: {Oxford University Press}, second edition, new to
+  this edition:, second edition, new to this edition: edition.
 
-\bibitem[\protect\citeauthoryear{Salvatier, Wiecki, and Fonnesbeck}{Salvatier et~al.}{2016}]{salvatier2016}
-Salvatier, John, Thomas~V. Wiecki, and Christopher Fonnesbeck. 2016.
-\newblock \enquote{Probabilistic Programming in {{Python}} Using {{PyMC3}}.}
-\newblock {\em PeerJ Computer Science\/} 2:e55.
+\bibitem[\protect\citeauthoryear{Newman}{Newman}{2003}]{newman2003}
+Newman, M. E.~J. 2003.
+\newblock \enquote{The Structure and Function of Complex Networks.}
+\newblock {\em SIAM Review\/} 45:167--256.
 
-\bibitem[\protect\citeauthoryear{van Rossum and Drake}{van Rossum and Drake}{2010}]{rossum2010}
+\bibitem[\protect\citeauthoryear{Paisley}{Paisley}{1972}]{paisley1972}
+Paisley, William. 1972.
+\newblock \enquote{The {{Role}} of {{Invisible Colleges}} in {{Scientific
+  Information Transfer}}.}
+\newblock {\em Educational Researcher\/} 1:5--19.
+
+\bibitem[\protect\citeauthoryear{van Rossum and Drake}{van Rossum and
+  Drake}{2010}]{rossum2010}
 van Rossum, Guido and Fred~L. Drake. 2010.
 \newblock {\em The {{Python}} Language Reference\/}.
-\newblock Number Pt. 2 in Python Documentation Manual / {{Guido}} van {{Rossum}}; {{Fred L}}. {{Drake}} [Ed.]. {Hampton, NH}: {Python Software Foundation}, release 3.0.1 [repr.] edition.
+\newblock Number Pt. 2 in Python Documentation Manual / {{Guido}} van
+  {{Rossum}}; {{Fred L}}. {{Drake}} [Ed.]. {Hampton, NH}: {Python Software
+  Foundation}, release 3.0.1 [repr.] edition.
+
+\bibitem[\protect\citeauthoryear{Vink, De~Gooijer, Beedie, Zundert, Hulselmans,
+  Grinstead, Gorelli, Santamaria, Heres, IbENPC, Leitao, Van~Heerden, Jermain,
+  Russell, Pryer, Castellanos, Goh, Wilksch, {Illumination-K}, Peek, Conradt,
+  Brannigan, Tan, Elbaro, Stalder, Welling, Gregory, Keller, and Paq}{Vink
+  et~al.}{2023}]{vink2023}
+Vink, Ritchie, Stijn De~Gooijer, Alexander Beedie, J~Van Zundert, Gert
+  Hulselmans, Cory Grinstead, Marco~Edward Gorelli, Matteo Santamaria,
+  Dani{\"e}l Heres, IbENPC, Jorge Leitao, Marc Van~Heerden, Colin Jermain, Ryan
+  Russell, Chris Pryer, Adri{\'a}n~Gallego Castellanos, Jeremy Goh, Moritz
+  Wilksch, {Illumination-K}, Joshua Peek, Max Conradt, Liam Brannigan, Yu~Ri
+  Tan, Elbaro, Nicolas Stalder, S{\o}ren~Havelund Welling, Adam Gregory, Jakob
+  Keller, and Paq. 2023.
+\newblock \enquote{Pola-Rs/Polars: {{Python Polars}} 0.17.2.}
+\newblock Zenodo.
+
+\bibitem[\protect\citeauthoryear{Watts and Strogatz}{Watts and
+  Strogatz}{1998}]{watts1998}
+Watts, Duncan~J. and Steven~H. Strogatz. 1998.
+\newblock \enquote{Collective Dynamics of `Small-World' Networks.}
+\newblock {\em Nature\/} 393:440--442.
+
+\bibitem[\protect\citeauthoryear{Wiecki, Salvatier, Vieira, Kochurov, Patil,
+  Osthege, Willard, Engels, Carroll, Martin, Seyboldt, Rochford, Paz,
+  Rpgoldman, Meyer, Coyle, Gorelli, {Abril-Pla}, Kumar, Lao, Andreani,
+  Yoshioka, Ho, Kluyver, Beauchamp, Andorra, Pananos, Spaak, Edwards, and
+  Ma}{Wiecki et~al.}{2023}]{wiecki2023}
+Wiecki, Thomas, John Salvatier, Ricardo Vieira, Maxim Kochurov, Anand Patil,
+  Michael Osthege, Brandon~T. Willard, Bill Engels, Colin Carroll, Osvaldo~A
+  Martin, Adrian Seyboldt, Austin Rochford, Luciano Paz, Rpgoldman, Kyle Meyer,
+  Peadar Coyle, Marco~Edward Gorelli, Oriol {Abril-Pla}, Ravin Kumar, Junpeng
+  Lao, Virgile Andreani, Taku Yoshioka, George Ho, Thomas Kluyver, Kyle
+  Beauchamp, Alexandre Andorra, Demetri Pananos, Eelke Spaak, Benjamin Edwards,
+  and Eric Ma. 2023.
+\newblock \enquote{Pymc-Devs/Pymc: V5.3.0.}
+\newblock Zenodo.
 
 \end{thebibliography}

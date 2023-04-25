@@ -1,0 +1,8 @@
+PWD /Users/vladimirborel/Documents/GitHub/dissertation/corpus/latex/sections
+INPUT /usr/local/texlive/2023/texmf.cnf
+INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT figures.tex
+OUTPUT figures.log
+OUTPUT figures.pdf
+INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map

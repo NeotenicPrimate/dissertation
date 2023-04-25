@@ -1,26 +1,32 @@
 
+\subsection{Desciptive Statistics}
 
-\inserttable{ergm}{ERGM Results}
+\input{sections/descriptive_statistics}
 
-\subsection{Density Effect (Edges)}
+\subsection{Co-Citation}
 
-Both co-citation and co-occurrence graphs are found to be sparse for every discipline, which is 
-indicated by the negative and significant coefficients. A sparse network is characterized by a 
-relatively low proportion of connections between individuals in comparison to the total number of 
-potential connections that can exist within the network.
+\tableref{co_citation_ergm_model}
 
-\subsection{Small-World effect (Triangles)}
+\subsubsection{Density Effect (Edges)}
 
-As suggested by prior research, the social networks under investigation demonstrate a higher 
-prevalence of triangles than what would be expected by random chance. Triangles, which represent a 
-set of three documents or concepts who are mutually connected, are a common feature of social networks and are 
-thought to play an important role in social cohesion and network structure 
-\citep{kossinets2006, newman2018}. The observed excess of 
-triangles in the current study is consistent with previous findings on the presence of triadic 
-closure in social networks, where nodes tend to form connections with the neighbors of their 
-neighbors \citep{burt2000}.
+Both co-citation and co-occurrence graphs are found to be sparse for every discipline, which is indicated by the negative and significant coefficients. A sparse network is characterized by a relatively low proportion of connections between documents in comparison to the total number of potential connections that can exist within the network.
 
-All coefficients that are statistically significant for triangles exhibit a positive sign, which 
-suggests that triangles are present in the social network under investigation at a rate higher than 
-that which would be expected by chance alone.
+\subsubsection{ (Triangles)}
+
+As suggested by prior research, the social networks under investigation demonstrate a higher prevalence of triangles than what would be expected by random chance. The observed excess of triangles in the current study is consistent with previous findings on the presence of triadic closure in social networks, where nodes tend to form connections with the neighbors of their neighbors \citep{burt2000}.
+
+All coefficients that are statistically significant for triangles exhibit a positive sign, which suggests that triangles are present in the social network under investigation at a rate higher than that which would be expected by chance alone.
+
+\subsubsection{Small-World effect (Transitivity)}
+
+The \emph{transitivity} term is positive and significant, this indicates that the presence of a tie between nodes $i$ and $j$, and between nodes $j$ and $k$, increases the likelihood of a tie between nodes $i$ and $k$, all other things being equal. This can be interpreted as evidence of a "triadic closure" effect, where nodes that are connected to the same neighbor are more likely to form a direct tie between themselves.
+
+\subsection{Co-Occurrence}
+
+\tableref{co_occurrence_ergm_model}
+
+
+
+
+
 

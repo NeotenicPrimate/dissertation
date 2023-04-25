@@ -1,21 +1,61 @@
-\newcommand{\insertimage}[2]{
-    \begin{center}
-        \begin{figure}[H]
-            \caption{#2}
-            \label{image:#1}
-            \includegraphics[width=\textwidth]{#1}
-        \end{figure}
-    \end{center}
+
+\newcommand{\insertfig}[2]{
+    \begin{figure}[H]
+        \caption{#1}
+        \label{fig:#2}
+        \foreach \name in \fields {
+            \begin{subfigure}[p]{0.15\textheight}
+                \centering
+                \resizebox{0.8\textwidth}{!}{%
+                    \includegraphics[width=\textwidth]{figures/#2/\name}
+                }
+                \caption{\name}
+            \end{subfigure}\quad
+        }
+    \end{figure}
 }
 
 \newcommand{\inserttable}[2]{
-    \begin{center}
-        \begin{table}[H]
-            \caption{#2}
-            \label{table:#1}
-            \resizebox{\textwidth}{!}{
-                \input{tables/#1}
-            }
-        \end{table}
+    \newgeometry{margin=2cm}
+    \begin{landscape}
+    \begin{table}[H]
+        \caption{#1}
+        \label{table:#2}
+        \resizebox{\columnwidth}{!}{
+            \input{tables/#2}
+        }
+    \end{table}
+    \end{landscape}
+    \restoregeometry
+}
+
+\newcommand{\tableref}[1]{
+    \begin{center} 
+        \textbf{[Table \ref{table:#1} about here]}
     \end{center}
+}
+
+\newcommand{\figref}[1]{
+    \begin{center} 
+        \textbf{[Fogure \ref{fig:#1} about here]}
+    \end{center}
+}
+
+\newcommand*{\fields}{
+    Artificial intelligence,
+    Economics,
+    Ethnic \string& cultural studies,
+    Gender studies,
+    Genetics \string& genomics,
+    Geometry,
+    Geophysics,
+    Human resources \string& organizations,
+    Immunology,
+    International business,
+    Language \string& linguistics,
+    Material engineering,
+    Neurology,
+    Political science,
+    Probability \string& statistics,
+    Sociology
 }
