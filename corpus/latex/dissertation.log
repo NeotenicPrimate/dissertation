@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  24 APR 2023 23:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  26 APR 2023 01:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -703,6 +703,469 @@ sertation.toc)
 [6]) (./sections/measurements.tex [7] [8])) (./sections/results.tex
 (./sections/descriptive_statistics.tex [9])) [10] (./dissertation.bbl [11])
 [12] (./sections/figures.tex
+<figures/citation_graphs/Artificial intelligence.png, id=66, 722.7pt x 722.7pt>
+
+File: figures/citation_graphs/Artificial intelligence.png Graphic file (type pn
+g)
+<use figures/citation_graphs/Artificial intelligence.png>
+Package pdftex.def Info: figures/citation_graphs/Artificial intelligence.png  u
+sed on input line 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Economics.png, id=68, 722.7pt x 722.7pt>
+File: figures/citation_graphs/Economics.png Graphic file (type png)
+<use figures/citation_graphs/Economics.png>
+Package pdftex.def Info: figures/citation_graphs/Economics.png  used on input l
+ine 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Ethnic & cultural studies.png, id=69, 722.7pt x 722.7p
+t>
+File: figures/citation_graphs/Ethnic & cultural studies.png Graphic file (type 
+png)
+<use figures/citation_graphs/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/citation_graphs/Ethnic & cultural studies.png 
+ used on input line 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 8--8
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/citation_graphs/Gender studies.png, id=70, 722.7pt x 722.7pt>
+File: figures/citation_graphs/Gender studies.png Graphic file (type png)
+<use figures/citation_graphs/Gender studies.png>
+Package pdftex.def Info: figures/citation_graphs/Gender studies.png  used on in
+put line 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Genetics & genomics.png, id=71, 722.7pt x 722.7pt>
+File: figures/citation_graphs/Genetics & genomics.png Graphic file (type png)
+<use figures/citation_graphs/Genetics & genomics.png>
+Package pdftex.def Info: figures/citation_graphs/Genetics & genomics.png  used 
+on input line 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Geometry.png, id=72, 722.7pt x 722.7pt>
+File: figures/citation_graphs/Geometry.png Graphic file (type png)
+<use figures/citation_graphs/Geometry.png>
+Package pdftex.def Info: figures/citation_graphs/Geometry.png  used on input li
+ne 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Geophysics.png, id=73, 722.7pt x 722.7pt>
+File: figures/citation_graphs/Geophysics.png Graphic file (type png)
+<use figures/citation_graphs/Geophysics.png>
+Package pdftex.def Info: figures/citation_graphs/Geophysics.png  used on input 
+line 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Human resources & organizations.png, id=74, 722.7pt x 
+722.7pt>
+File: figures/citation_graphs/Human resources & organizations.png Graphic file 
+(type png)
+<use figures/citation_graphs/Human resources & organizations.png>
+Package pdftex.def Info: figures/citation_graphs/Human resources & organization
+s.png  used on input line 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Immunology.png, id=75, 722.7pt x 722.7pt>
+File: figures/citation_graphs/Immunology.png Graphic file (type png)
+<use figures/citation_graphs/Immunology.png>
+Package pdftex.def Info: figures/citation_graphs/Immunology.png  used on input 
+line 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/International business.png, id=76, 722.7pt x 722.7pt>
+File: figures/citation_graphs/International business.png Graphic file (type png
+)
+<use figures/citation_graphs/International business.png>
+Package pdftex.def Info: figures/citation_graphs/International business.png  us
+ed on input line 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Language & linguistics.png, id=77, 722.7pt x 722.7pt>
+File: figures/citation_graphs/Language & linguistics.png Graphic file (type png
+)
+<use figures/citation_graphs/Language & linguistics.png>
+Package pdftex.def Info: figures/citation_graphs/Language & linguistics.png  us
+ed on input line 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Material engineering.png, id=78, 722.7pt x 722.7pt>
+File: figures/citation_graphs/Material engineering.png Graphic file (type png)
+<use figures/citation_graphs/Material engineering.png>
+Package pdftex.def Info: figures/citation_graphs/Material engineering.png  used
+ on input line 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Neurology.png, id=79, 722.7pt x 722.7pt>
+File: figures/citation_graphs/Neurology.png Graphic file (type png)
+<use figures/citation_graphs/Neurology.png>
+Package pdftex.def Info: figures/citation_graphs/Neurology.png  used on input l
+ine 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Political science.png, id=80, 722.7pt x 722.7pt>
+File: figures/citation_graphs/Political science.png Graphic file (type png)
+<use figures/citation_graphs/Political science.png>
+Package pdftex.def Info: figures/citation_graphs/Political science.png  used on
+ input line 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Probability & statistics.png, id=81, 722.7pt x 722.7pt
+>
+File: figures/citation_graphs/Probability & statistics.png Graphic file (type p
+ng)
+<use figures/citation_graphs/Probability & statistics.png>
+Package pdftex.def Info: figures/citation_graphs/Probability & statistics.png  
+used on input line 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/citation_graphs/Sociology.png, id=82, 722.7pt x 722.7pt>
+File: figures/citation_graphs/Sociology.png Graphic file (type png)
+<use figures/citation_graphs/Sociology.png>
+Package pdftex.def Info: figures/citation_graphs/Sociology.png  used on input l
+ine 8.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]$  $[]$  $[]$
+ []
+
+[13 <./figures/citation_graphs/Artificial intelligence.png> <./figures/citation
+_graphs/Economics.png> <./figures/citation_graphs/Ethnic & cultural studies.png
+> <./figures/citation_graphs/Gender studies.png> <./figures/citation_graphs/Gen
+etics & genomics.png> <./figures/citation_graphs/Geometry.png> <./figures/citat
+ion_graphs/Geophysics.png> <./figures/citation_graphs/Human resources & organiz
+ations.png> <./figures/citation_graphs/Immunology.png> <./figures/citation_grap
+hs/International business.png> <./figures/citation_graphs/Language & linguistic
+s.png> <./figures/citation_graphs/Material engineering.png> <./figures/citation
+_graphs/Neurology.png> <./figures/citation_graphs/Political science.png> <./fig
+ures/citation_graphs/Probability & statistics.png> <./figures/citation_graphs/S
+ociology.png>]
+<figures/citation_temp_cum_dist/Artificial intelligence.png, id=102, 421.575pt 
+x 405.6756pt>
+File: figures/citation_temp_cum_dist/Artificial intelligence.png Graphic file (
+type png)
+<use figures/citation_temp_cum_dist/Artificial intelligence.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Artificial intelligence
+.png  used on input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 97.32698pt.
+<figures/citation_temp_cum_dist/Economics.png, id=103, 422.0568pt x 405.6756pt>
+
+File: figures/citation_temp_cum_dist/Economics.png Graphic file (type png)
+<use figures/citation_temp_cum_dist/Economics.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Economics.png  used on 
+input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 97.21556pt.
+<figures/citation_temp_cum_dist/Ethnic & cultural studies.png, id=104, 421.575p
+t x 405.6756pt>
+File: figures/citation_temp_cum_dist/Ethnic & cultural studies.png Graphic file
+ (type png)
+<use figures/citation_temp_cum_dist/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Ethnic & cultural studi
+es.png  used on input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 97.32698pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 12--12
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/citation_temp_cum_dist/Gender studies.png, id=105, 421.575pt x 405.675
+6pt>
+File: figures/citation_temp_cum_dist/Gender studies.png Graphic file (type png)
+
+<use figures/citation_temp_cum_dist/Gender studies.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Gender studies.png  use
+d on input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 97.32698pt.
+<figures/citation_temp_cum_dist/Genetics & genomics.png, id=106, 428.3202pt x 4
+05.6756pt>
+File: figures/citation_temp_cum_dist/Genetics & genomics.png Graphic file (type
+ png)
+<use figures/citation_temp_cum_dist/Genetics & genomics.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Genetics & genomics.png
+  used on input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 95.79803pt.
+<figures/citation_temp_cum_dist/Geometry.png, id=107, 421.575pt x 405.6756pt>
+File: figures/citation_temp_cum_dist/Geometry.png Graphic file (type png)
+<use figures/citation_temp_cum_dist/Geometry.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Geometry.png  used on i
+nput line 12.
+(pdftex.def)             Requested size: 101.14543pt x 97.32698pt.
+<figures/citation_temp_cum_dist/Geophysics.png, id=108, 428.3202pt x 405.6756pt
+>
+File: figures/citation_temp_cum_dist/Geophysics.png Graphic file (type png)
+<use figures/citation_temp_cum_dist/Geophysics.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Geophysics.png  used on
+ input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 95.79803pt.
+<figures/citation_temp_cum_dist/Human resources & organizations.png, id=109, 42
+2.0568pt x 405.6756pt>
+File: figures/citation_temp_cum_dist/Human resources & organizations.png Graphi
+c file (type png)
+<use figures/citation_temp_cum_dist/Human resources & organizations.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Human resources & organ
+izations.png  used on input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 97.21556pt.
+<figures/citation_temp_cum_dist/Immunology.png, id=110, 428.3202pt x 405.6756pt
+>
+File: figures/citation_temp_cum_dist/Immunology.png Graphic file (type png)
+<use figures/citation_temp_cum_dist/Immunology.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Immunology.png  used on
+ input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 95.79803pt.
+<figures/citation_temp_cum_dist/International business.png, id=111, 421.575pt x
+ 405.6756pt>
+File: figures/citation_temp_cum_dist/International business.png Graphic file (t
+ype png)
+<use figures/citation_temp_cum_dist/International business.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/International business.
+png  used on input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 97.32698pt.
+<figures/citation_temp_cum_dist/Language & linguistics.png, id=112, 421.575pt x
+ 405.6756pt>
+File: figures/citation_temp_cum_dist/Language & linguistics.png Graphic file (t
+ype png)
+<use figures/citation_temp_cum_dist/Language & linguistics.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Language & linguistics.
+png  used on input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 97.32698pt.
+<figures/citation_temp_cum_dist/Material engineering.png, id=113, 428.3202pt x 
+405.6756pt>
+File: figures/citation_temp_cum_dist/Material engineering.png Graphic file (typ
+e png)
+<use figures/citation_temp_cum_dist/Material engineering.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Material engineering.pn
+g  used on input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 95.79803pt.
+<figures/citation_temp_cum_dist/Neurology.png, id=114, 428.3202pt x 405.6756pt>
+
+File: figures/citation_temp_cum_dist/Neurology.png Graphic file (type png)
+<use figures/citation_temp_cum_dist/Neurology.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Neurology.png  used on 
+input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 95.79803pt.
+<figures/citation_temp_cum_dist/Political science.png, id=115, 421.575pt x 405.
+6756pt>
+File: figures/citation_temp_cum_dist/Political science.png Graphic file (type p
+ng)
+<use figures/citation_temp_cum_dist/Political science.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Political science.png  
+used on input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 97.32698pt.
+<figures/citation_temp_cum_dist/Probability & statistics.png, id=116, 422.0568p
+t x 405.6756pt>
+File: figures/citation_temp_cum_dist/Probability & statistics.png Graphic file 
+(type png)
+<use figures/citation_temp_cum_dist/Probability & statistics.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Probability & statistic
+s.png  used on input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 97.21556pt.
+<figures/citation_temp_cum_dist/Sociology.png, id=117, 421.575pt x 405.6756pt>
+File: figures/citation_temp_cum_dist/Sociology.png Graphic file (type png)
+<use figures/citation_temp_cum_dist/Sociology.png>
+Package pdftex.def Info: figures/citation_temp_cum_dist/Sociology.png  used on 
+input line 12.
+(pdftex.def)             Requested size: 101.14543pt x 97.32698pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]$  $[]$  $[]$
+ []
+
+[14 <./figures/citation_temp_cum_dist/Artificial intelligence.png> <./figures/c
+itation_temp_cum_dist/Economics.png> <./figures/citation_temp_cum_dist/Ethnic &
+ cultural studies.png> <./figures/citation_temp_cum_dist/Gender studies.png> <.
+/figures/citation_temp_cum_dist/Genetics & genomics.png> <./figures/citation_te
+mp_cum_dist/Geometry.png> <./figures/citation_temp_cum_dist/Geophysics.png> <./
+figures/citation_temp_cum_dist/Human resources & organizations.png> <./figures/
+citation_temp_cum_dist/Immunology.png> <./figures/citation_temp_cum_dist/Intern
+ational business.png> <./figures/citation_temp_cum_dist/Language & linguistics.
+png> <./figures/citation_temp_cum_dist/Material engineering.png> <./figures/cit
+ation_temp_cum_dist/Neurology.png> <./figures/citation_temp_cum_dist/Political 
+science.png> <./figures/citation_temp_cum_dist/Probability & statistics.png> <.
+/figures/citation_temp_cum_dist/Sociology.png>]
+<figures/citation_deg_dist/Artificial intelligence.png, id=137, 317.988pt x 265
+.9536pt>
+File: figures/citation_deg_dist/Artificial intelligence.png Graphic file (type 
+png)
+<use figures/citation_deg_dist/Artificial intelligence.png>
+Package pdftex.def Info: figures/citation_deg_dist/Artificial intelligence.png 
+ used on input line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/Economics.png, id=138, 317.988pt x 265.9536pt>
+File: figures/citation_deg_dist/Economics.png Graphic file (type png)
+<use figures/citation_deg_dist/Economics.png>
+Package pdftex.def Info: figures/citation_deg_dist/Economics.png  used on input
+ line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/Ethnic & cultural studies.png, id=139, 317.988pt x 2
+65.9536pt>
+File: figures/citation_deg_dist/Ethnic & cultural studies.png Graphic file (typ
+e png)
+<use figures/citation_deg_dist/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/citation_deg_dist/Ethnic & cultural studies.pn
+g  used on input line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 16--16
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/citation_deg_dist/Gender studies.png, id=140, 317.988pt x 265.9536pt>
+File: figures/citation_deg_dist/Gender studies.png Graphic file (type png)
+<use figures/citation_deg_dist/Gender studies.png>
+Package pdftex.def Info: figures/citation_deg_dist/Gender studies.png  used on 
+input line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/Genetics & genomics.png, id=141, 317.988pt x 265.953
+6pt>
+File: figures/citation_deg_dist/Genetics & genomics.png Graphic file (type png)
+
+<use figures/citation_deg_dist/Genetics & genomics.png>
+Package pdftex.def Info: figures/citation_deg_dist/Genetics & genomics.png  use
+d on input line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/Geometry.png, id=142, 317.988pt x 265.9536pt>
+File: figures/citation_deg_dist/Geometry.png Graphic file (type png)
+<use figures/citation_deg_dist/Geometry.png>
+Package pdftex.def Info: figures/citation_deg_dist/Geometry.png  used on input 
+line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/Geophysics.png, id=143, 317.988pt x 265.9536pt>
+File: figures/citation_deg_dist/Geophysics.png Graphic file (type png)
+<use figures/citation_deg_dist/Geophysics.png>
+Package pdftex.def Info: figures/citation_deg_dist/Geophysics.png  used on inpu
+t line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/Human resources & organizations.png, id=144, 317.988
+pt x 265.9536pt>
+File: figures/citation_deg_dist/Human resources & organizations.png Graphic fil
+e (type png)
+<use figures/citation_deg_dist/Human resources & organizations.png>
+Package pdftex.def Info: figures/citation_deg_dist/Human resources & organizati
+ons.png  used on input line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/Immunology.png, id=145, 317.988pt x 265.9536pt>
+File: figures/citation_deg_dist/Immunology.png Graphic file (type png)
+<use figures/citation_deg_dist/Immunology.png>
+Package pdftex.def Info: figures/citation_deg_dist/Immunology.png  used on inpu
+t line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/International business.png, id=146, 317.988pt x 265.
+9536pt>
+File: figures/citation_deg_dist/International business.png Graphic file (type p
+ng)
+<use figures/citation_deg_dist/International business.png>
+Package pdftex.def Info: figures/citation_deg_dist/International business.png  
+used on input line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/Language & linguistics.png, id=147, 317.988pt x 265.
+9536pt>
+File: figures/citation_deg_dist/Language & linguistics.png Graphic file (type p
+ng)
+<use figures/citation_deg_dist/Language & linguistics.png>
+Package pdftex.def Info: figures/citation_deg_dist/Language & linguistics.png  
+used on input line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/Material engineering.png, id=148, 317.988pt x 265.95
+36pt>
+File: figures/citation_deg_dist/Material engineering.png Graphic file (type png
+)
+<use figures/citation_deg_dist/Material engineering.png>
+Package pdftex.def Info: figures/citation_deg_dist/Material engineering.png  us
+ed on input line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/Neurology.png, id=149, 317.988pt x 266.4354pt>
+File: figures/citation_deg_dist/Neurology.png Graphic file (type png)
+<use figures/citation_deg_dist/Neurology.png>
+Package pdftex.def Info: figures/citation_deg_dist/Neurology.png  used on input
+ line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.74475pt.
+<figures/citation_deg_dist/Political science.png, id=150, 317.988pt x 265.9536p
+t>
+File: figures/citation_deg_dist/Political science.png Graphic file (type png)
+<use figures/citation_deg_dist/Political science.png>
+Package pdftex.def Info: figures/citation_deg_dist/Political science.png  used 
+on input line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/Probability & statistics.png, id=151, 317.988pt x 26
+5.9536pt>
+File: figures/citation_deg_dist/Probability & statistics.png Graphic file (type
+ png)
+<use figures/citation_deg_dist/Probability & statistics.png>
+Package pdftex.def Info: figures/citation_deg_dist/Probability & statistics.png
+  used on input line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/citation_deg_dist/Sociology.png, id=152, 317.988pt x 265.9536pt>
+File: figures/citation_deg_dist/Sociology.png Graphic file (type png)
+<use figures/citation_deg_dist/Sociology.png>
+Package pdftex.def Info: figures/citation_deg_dist/Sociology.png  used on input
+ line 16.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]$  $[]$  $[]$
+ []
+
+[15 <./figures/citation_deg_dist/Artificial intelligence.png> <./figures/citati
+on_deg_dist/Economics.png> <./figures/citation_deg_dist/Ethnic & cultural studi
+es.png> <./figures/citation_deg_dist/Gender studies.png> <./figures/citation_de
+g_dist/Genetics & genomics.png> <./figures/citation_deg_dist/Geometry.png> <./f
+igures/citation_deg_dist/Geophysics.png> <./figures/citation_deg_dist/Human res
+ources & organizations.png> <./figures/citation_deg_dist/Immunology.png> <./fig
+ures/citation_deg_dist/International business.png> <./figures/citation_deg_dist
+/Language & linguistics.png> <./figures/citation_deg_dist/Material engineering.
+png> <./figures/citation_deg_dist/Neurology.png> <./figures/citation_deg_dist/P
+olitical science.png> <./figures/citation_deg_dist/Probability & statistics.png
+> <./figures/citation_deg_dist/Sociology.png>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -735,7 +1198,8 @@ sertation.toc)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- (./tables/co_citation_ergm_model.tex) [13
+
+(./tables/citation_desc_stats.tex) [16
 
 
 ]
@@ -771,39 +1235,2771 @@ sertation.toc)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-(./tables/co_occurrence_ergm_model.tex) [14
-
-
+ (./tables/citation_ref_dates.tex)
+[17
 
 
-]) (./dissertation.aux) ) 
+
+
+]
+<figures/citation_ref_dates/Artificial intelligence.png, id=179, 323.7696pt x 2
+61.1356pt>
+File: figures/citation_ref_dates/Artificial intelligence.png Graphic file (type
+ png)
+<use figures/citation_ref_dates/Artificial intelligence.png>
+Package pdftex.def Info: figures/citation_ref_dates/Artificial intelligence.png
+  used on input line 28.
+(pdftex.def)             Requested size: 101.14543pt x 81.57677pt.
+<figures/citation_ref_dates/Economics.png, id=180, 323.7696pt x 261.1356pt>
+File: figures/citation_ref_dates/Economics.png Graphic file (type png)
+<use figures/citation_ref_dates/Economics.png>
+Package pdftex.def Info: figures/citation_ref_dates/Economics.png  used on inpu
+t line 28.
+(pdftex.def)             Requested size: 101.14543pt x 81.57677pt.
+<figures/citation_ref_dates/Ethnic & cultural studies.png, id=181, 317.5062pt x
+ 261.1356pt>
+File: figures/citation_ref_dates/Ethnic & cultural studies.png Graphic file (ty
+pe png)
+<use figures/citation_ref_dates/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/citation_ref_dates/Ethnic & cultural studies.p
+ng  used on input line 28.
+(pdftex.def)             Requested size: 101.14543pt x 83.18655pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 28--28
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/citation_ref_dates/Gender studies.png, id=182, 317.5062pt x 261.1356pt
+>
+File: figures/citation_ref_dates/Gender studies.png Graphic file (type png)
+<use figures/citation_ref_dates/Gender studies.png>
+Package pdftex.def Info: figures/citation_ref_dates/Gender studies.png  used on
+ input line 28.
+(pdftex.def)             Requested size: 101.14543pt x 83.18655pt.
+<figures/citation_ref_dates/Genetics & genomics.png, id=183, 336.2964pt x 264.5
+082pt>
+File: figures/citation_ref_dates/Genetics & genomics.png Graphic file (type png
+)
+<use figures/citation_ref_dates/Genetics & genomics.png>
+Package pdftex.def Info: figures/citation_ref_dates/Genetics & genomics.png  us
+ed on input line 28.
+(pdftex.def)             Requested size: 101.14543pt x 79.55487pt.
+<figures/citation_ref_dates/Geometry.png, id=184, 317.5062pt x 261.1356pt>
+File: figures/citation_ref_dates/Geometry.png Graphic file (type png)
+<use figures/citation_ref_dates/Geometry.png>
+Package pdftex.def Info: figures/citation_ref_dates/Geometry.png  used on input
+ line 28.
+(pdftex.def)             Requested size: 101.14543pt x 83.18655pt.
+<figures/citation_ref_dates/Geophysics.png, id=185, 330.033pt x 261.1356pt>
+File: figures/citation_ref_dates/Geophysics.png Graphic file (type png)
+<use figures/citation_ref_dates/Geophysics.png>
+Package pdftex.def Info: figures/citation_ref_dates/Geophysics.png  used on inp
+ut line 28.
+(pdftex.def)             Requested size: 101.14543pt x 80.02676pt.
+<figures/citation_ref_dates/Human resources & organizations.png, id=186, 323.76
+96pt x 261.1356pt>
+File: figures/citation_ref_dates/Human resources & organizations.png Graphic fi
+le (type png)
+<use figures/citation_ref_dates/Human resources & organizations.png>
+Package pdftex.def Info: figures/citation_ref_dates/Human resources & organizat
+ions.png  used on input line 28.
+(pdftex.def)             Requested size: 101.14543pt x 81.57677pt.
+<figures/citation_ref_dates/Immunology.png, id=187, 330.033pt x 261.1356pt>
+File: figures/citation_ref_dates/Immunology.png Graphic file (type png)
+<use figures/citation_ref_dates/Immunology.png>
+Package pdftex.def Info: figures/citation_ref_dates/Immunology.png  used on inp
+ut line 28.
+(pdftex.def)             Requested size: 101.14543pt x 80.02676pt.
+<figures/citation_ref_dates/International business.png, id=188, 323.7696pt x 26
+1.1356pt>
+File: figures/citation_ref_dates/International business.png Graphic file (type 
+png)
+<use figures/citation_ref_dates/International business.png>
+Package pdftex.def Info: figures/citation_ref_dates/International business.png 
+ used on input line 28.
+(pdftex.def)             Requested size: 101.14543pt x 81.57677pt.
+<figures/citation_ref_dates/Language & linguistics.png, id=189, 323.7696pt x 26
+1.1356pt>
+File: figures/citation_ref_dates/Language & linguistics.png Graphic file (type 
+png)
+<use figures/citation_ref_dates/Language & linguistics.png>
+Package pdftex.def Info: figures/citation_ref_dates/Language & linguistics.png 
+ used on input line 28.
+(pdftex.def)             Requested size: 101.14543pt x 81.57677pt.
+<figures/citation_ref_dates/Material engineering.png, id=190, 330.033pt x 261.1
+356pt>
+File: figures/citation_ref_dates/Material engineering.png Graphic file (type pn
+g)
+<use figures/citation_ref_dates/Material engineering.png>
+Package pdftex.def Info: figures/citation_ref_dates/Material engineering.png  u
+sed on input line 28.
+(pdftex.def)             Requested size: 101.14543pt x 80.02676pt.
+<figures/citation_ref_dates/Neurology.png, id=191, 330.033pt x 261.1356pt>
+File: figures/citation_ref_dates/Neurology.png Graphic file (type png)
+<use figures/citation_ref_dates/Neurology.png>
+Package pdftex.def Info: figures/citation_ref_dates/Neurology.png  used on inpu
+t line 28.
+(pdftex.def)             Requested size: 101.14543pt x 80.02676pt.
+<figures/citation_ref_dates/Political science.png, id=192, 323.7696pt x 261.135
+6pt>
+File: figures/citation_ref_dates/Political science.png Graphic file (type png)
+<use figures/citation_ref_dates/Political science.png>
+Package pdftex.def Info: figures/citation_ref_dates/Political science.png  used
+ on input line 28.
+(pdftex.def)             Requested size: 101.14543pt x 81.57677pt.
+<figures/citation_ref_dates/Probability & statistics.png, id=193, 323.7696pt x 
+261.1356pt>
+File: figures/citation_ref_dates/Probability & statistics.png Graphic file (typ
+e png)
+<use figures/citation_ref_dates/Probability & statistics.png>
+Package pdftex.def Info: figures/citation_ref_dates/Probability & statistics.pn
+g  used on input line 28.
+(pdftex.def)             Requested size: 101.14543pt x 81.57677pt.
+<figures/citation_ref_dates/Sociology.png, id=194, 323.7696pt x 261.1356pt>
+File: figures/citation_ref_dates/Sociology.png Graphic file (type png)
+<use figures/citation_ref_dates/Sociology.png>
+Package pdftex.def Info: figures/citation_ref_dates/Sociology.png  used on inpu
+t line 28.
+(pdftex.def)             Requested size: 101.14543pt x 81.57677pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]$  $[]$  $[]$
+ []
+
+[18
+
+
+ <./figures/citation_ref_dates/Artificial intelligence.png> <./figures/citation
+_ref_dates/Economics.png> <./figures/citation_ref_dates/Ethnic & cultural studi
+es.png> <./figures/citation_ref_dates/Gender studies.png> <./figures/citation_r
+ef_dates/Genetics & genomics.png> <./figures/citation_ref_dates/Geometry.png> <
+./figures/citation_ref_dates/Geophysics.png> <./figures/citation_ref_dates/Huma
+n resources & organizations.png> <./figures/citation_ref_dates/Immunology.png> 
+<./figures/citation_ref_dates/International business.png> <./figures/citation_r
+ef_dates/Language & linguistics.png> <./figures/citation_ref_dates/Material eng
+ineering.png> <./figures/citation_ref_dates/Neurology.png> <./figures/citation_
+ref_dates/Political science.png> <./figures/citation_ref_dates/Probability & st
+atistics.png> <./figures/citation_ref_dates/Sociology.png>]
+<figures/co_citation_node_distance_dist/Artificial intelligence.png, id=214, 27
+1.2534pt x 276.0714pt>
+File: figures/co_citation_node_distance_dist/Artificial intelligence.png Graphi
+c file (type png)
+<use figures/co_citation_node_distance_dist/Artificial intelligence.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Artificial inte
+lligence.png  used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 102.94096pt.
+<figures/co_citation_node_distance_dist/Economics.png, id=215, 271.2534pt x 276
+.0714pt>
+File: figures/co_citation_node_distance_dist/Economics.png Graphic file (type p
+ng)
+<use figures/co_citation_node_distance_dist/Economics.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Economics.png  
+used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 102.94096pt.
+<figures/co_citation_node_distance_dist/Ethnic & cultural studies.png, id=216, 
+292.4526pt x 265.4718pt>
+File: figures/co_citation_node_distance_dist/Ethnic & cultural studies.png Grap
+hic file (type png)
+<use figures/co_citation_node_distance_dist/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Ethnic & cultur
+al studies.png  used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 91.8147pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 32--32
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/co_citation_node_distance_dist/Gender studies.png, id=217, 292.4526pt 
+x 265.4718pt>
+File: figures/co_citation_node_distance_dist/Gender studies.png Graphic file (t
+ype png)
+<use figures/co_citation_node_distance_dist/Gender studies.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Gender studies.
+png  used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 91.8147pt.
+<figures/co_citation_node_distance_dist/Genetics & genomics.png, id=218, 271.25
+34pt x 276.0714pt>
+File: figures/co_citation_node_distance_dist/Genetics & genomics.png Graphic fi
+le (type png)
+<use figures/co_citation_node_distance_dist/Genetics & genomics.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Genetics & geno
+mics.png  used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 102.94096pt.
+<figures/co_citation_node_distance_dist/Geometry.png, id=219, 280.4076pt x 265.
+4718pt>
+File: figures/co_citation_node_distance_dist/Geometry.png Graphic file (type pn
+g)
+<use figures/co_citation_node_distance_dist/Geometry.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Geometry.png  u
+sed on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_citation_node_distance_dist/Geophysics.png, id=220, 261.6174pt x 27
+6.0714pt>
+File: figures/co_citation_node_distance_dist/Geophysics.png Graphic file (type 
+png)
+<use figures/co_citation_node_distance_dist/Geophysics.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Geophysics.png 
+ used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 106.73643pt.
+<figures/co_citation_node_distance_dist/Human resources & organizations.png, id
+=221, 261.6174pt x 276.0714pt>
+File: figures/co_citation_node_distance_dist/Human resources & organizations.pn
+g Graphic file (type png)
+<use figures/co_citation_node_distance_dist/Human resources & organizations.png
+>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Human resources
+ & organizations.png  used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 106.73643pt.
+<figures/co_citation_node_distance_dist/Immunology.png, id=222, 275.1078pt x 27
+6.0714pt>
+File: figures/co_citation_node_distance_dist/Immunology.png Graphic file (type 
+png)
+<use figures/co_citation_node_distance_dist/Immunology.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Immunology.png 
+ used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 101.50029pt.
+<figures/co_citation_node_distance_dist/International business.png, id=223, 261
+.6174pt x 276.0714pt>
+File: figures/co_citation_node_distance_dist/International business.png Graphic
+ file (type png)
+<use figures/co_citation_node_distance_dist/International business.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/International b
+usiness.png  used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 106.73643pt.
+<figures/co_citation_node_distance_dist/Language & linguistics.png, id=224, 271
+.2534pt x 276.0714pt>
+File: figures/co_citation_node_distance_dist/Language & linguistics.png Graphic
+ file (type png)
+<use figures/co_citation_node_distance_dist/Language & linguistics.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Language & ling
+uistics.png  used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 102.94096pt.
+<figures/co_citation_node_distance_dist/Material engineering.png, id=225, 261.6
+174pt x 276.0714pt>
+File: figures/co_citation_node_distance_dist/Material engineering.png Graphic f
+ile (type png)
+<use figures/co_citation_node_distance_dist/Material engineering.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Material engine
+ering.png  used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 106.73643pt.
+<figures/co_citation_node_distance_dist/Neurology.png, id=226, 271.2534pt x 276
+.0714pt>
+File: figures/co_citation_node_distance_dist/Neurology.png Graphic file (type p
+ng)
+<use figures/co_citation_node_distance_dist/Neurology.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Neurology.png  
+used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 102.94096pt.
+<figures/co_citation_node_distance_dist/Political science.png, id=227, 271.2534
+pt x 276.0714pt>
+File: figures/co_citation_node_distance_dist/Political science.png Graphic file
+ (type png)
+<use figures/co_citation_node_distance_dist/Political science.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Political scien
+ce.png  used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 102.94096pt.
+<figures/co_citation_node_distance_dist/Probability & statistics.png, id=228, 2
+77.035pt x 276.0714pt>
+File: figures/co_citation_node_distance_dist/Probability & statistics.png Graph
+ic file (type png)
+<use figures/co_citation_node_distance_dist/Probability & statistics.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Probability & s
+tatistics.png  used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 100.79259pt.
+<figures/co_citation_node_distance_dist/Sociology.png, id=229, 261.6174pt x 276
+.0714pt>
+File: figures/co_citation_node_distance_dist/Sociology.png Graphic file (type p
+ng)
+<use figures/co_citation_node_distance_dist/Sociology.png>
+Package pdftex.def Info: figures/co_citation_node_distance_dist/Sociology.png  
+used on input line 32.
+(pdftex.def)             Requested size: 101.14543pt x 106.73643pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]$  $[]$  $[]$
+ []
+
+[19 <./figures/co_citation_node_distance_dist/Artificial intelligence.png> <./f
+igures/co_citation_node_distance_dist/Economics.png> <./figures/co_citation_nod
+e_distance_dist/Ethnic & cultural studies.png> <./figures/co_citation_node_dist
+ance_dist/Gender studies.png> <./figures/co_citation_node_distance_dist/Genetic
+s & genomics.png> <./figures/co_citation_node_distance_dist/Geometry.png> <./fi
+gures/co_citation_node_distance_dist/Geophysics.png> <./figures/co_citation_nod
+e_distance_dist/Human resources & organizations.png> <./figures/co_citation_nod
+e_distance_dist/Immunology.png> <./figures/co_citation_node_distance_dist/Inter
+national business.png> <./figures/co_citation_node_distance_dist/Language & lin
+guistics.png> <./figures/co_citation_node_distance_dist/Material engineering.pn
+g> <./figures/co_citation_node_distance_dist/Neurology.png> <./figures/co_citat
+ion_node_distance_dist/Political science.png> <./figures/co_citation_node_dista
+nce_dist/Probability & statistics.png> <./figures/co_citation_node_distance_dis
+t/Sociology.png>]
+<figures/citation_temp_dag_longest_path/Artificial intelligence.png, id=249, 11
+41.3842pt x 767.0256pt>
+File: figures/citation_temp_dag_longest_path/Artificial intelligence.png Graphi
+c file (type png)
+<use figures/citation_temp_dag_longest_path/Artificial intelligence.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Artificial inte
+lligence.png  used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 67.96426pt.
+<figures/citation_temp_dag_longest_path/Economics.png, id=250, 1131.7482pt x 76
+7.0256pt>
+File: figures/citation_temp_dag_longest_path/Economics.png Graphic file (type p
+ng)
+<use figures/citation_temp_dag_longest_path/Economics.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Economics.png  
+used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/Ethnic & cultural studies.png, id=251, 
+1131.7482pt x 767.0256pt>
+File: figures/citation_temp_dag_longest_path/Ethnic & cultural studies.png Grap
+hic file (type png)
+<use figures/citation_temp_dag_longest_path/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Ethnic & cultur
+al studies.png  used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 36--36
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/citation_temp_dag_longest_path/Gender studies.png, id=252, 1131.7482pt
+ x 767.0256pt>
+File: figures/citation_temp_dag_longest_path/Gender studies.png Graphic file (t
+ype png)
+<use figures/citation_temp_dag_longest_path/Gender studies.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Gender studies.
+png  used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/Genetics & genomics.png, id=253, 1131.7
+482pt x 767.0256pt>
+File: figures/citation_temp_dag_longest_path/Genetics & genomics.png Graphic fi
+le (type png)
+<use figures/citation_temp_dag_longest_path/Genetics & genomics.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Genetics & geno
+mics.png  used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/Geometry.png, id=254, 1131.7482pt x 767
+.0256pt>
+File: figures/citation_temp_dag_longest_path/Geometry.png Graphic file (type pn
+g)
+<use figures/citation_temp_dag_longest_path/Geometry.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Geometry.png  u
+sed on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/Geophysics.png, id=255, 1131.7482pt x 7
+67.0256pt>
+File: figures/citation_temp_dag_longest_path/Geophysics.png Graphic file (type 
+png)
+<use figures/citation_temp_dag_longest_path/Geophysics.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Geophysics.png 
+ used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/Human resources & organizations.png, id
+=256, 1131.7482pt x 767.0256pt>
+File: figures/citation_temp_dag_longest_path/Human resources & organizations.pn
+g Graphic file (type png)
+<use figures/citation_temp_dag_longest_path/Human resources & organizations.png
+>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Human resources
+ & organizations.png  used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/Immunology.png, id=257, 1131.7482pt x 7
+67.0256pt>
+File: figures/citation_temp_dag_longest_path/Immunology.png Graphic file (type 
+png)
+<use figures/citation_temp_dag_longest_path/Immunology.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Immunology.png 
+ used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/International business.png, id=258, 113
+1.7482pt x 767.0256pt>
+File: figures/citation_temp_dag_longest_path/International business.png Graphic
+ file (type png)
+<use figures/citation_temp_dag_longest_path/International business.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/International b
+usiness.png  used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/Language & linguistics.png, id=259, 113
+1.7482pt x 767.0256pt>
+File: figures/citation_temp_dag_longest_path/Language & linguistics.png Graphic
+ file (type png)
+<use figures/citation_temp_dag_longest_path/Language & linguistics.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Language & ling
+uistics.png  used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/Material engineering.png, id=260, 1131.
+7482pt x 767.0256pt>
+File: figures/citation_temp_dag_longest_path/Material engineering.png Graphic f
+ile (type png)
+<use figures/citation_temp_dag_longest_path/Material engineering.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Material engine
+ering.png  used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/Neurology.png, id=261, 1131.7482pt x 76
+7.0256pt>
+File: figures/citation_temp_dag_longest_path/Neurology.png Graphic file (type p
+ng)
+<use figures/citation_temp_dag_longest_path/Neurology.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Neurology.png  
+used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/Political science.png, id=262, 1131.748
+2pt x 767.0256pt>
+File: figures/citation_temp_dag_longest_path/Political science.png Graphic file
+ (type png)
+<use figures/citation_temp_dag_longest_path/Political science.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Political scien
+ce.png  used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/Probability & statistics.png, id=263, 1
+131.7482pt x 767.0256pt>
+File: figures/citation_temp_dag_longest_path/Probability & statistics.png Graph
+ic file (type png)
+<use figures/citation_temp_dag_longest_path/Probability & statistics.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Probability & s
+tatistics.png  used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+<figures/citation_temp_dag_longest_path/Sociology.png, id=264, 1131.7482pt x 76
+7.0256pt>
+File: figures/citation_temp_dag_longest_path/Sociology.png Graphic file (type p
+ng)
+<use figures/citation_temp_dag_longest_path/Sociology.png>
+Package pdftex.def Info: figures/citation_temp_dag_longest_path/Sociology.png  
+used on input line 36.
+(pdftex.def)             Requested size: 101.14543pt x 68.54945pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]$  $[]$  $[]$
+ []
+
+[20 <./figures/citation_temp_dag_longest_path/Artificial intelligence.png> <./f
+igures/citation_temp_dag_longest_path/Economics.png> <./figures/citation_temp_d
+ag_longest_path/Ethnic & cultural studies.png> <./figures/citation_temp_dag_lon
+gest_path/Gender studies.png> <./figures/citation_temp_dag_longest_path/Genetic
+s & genomics.png> <./figures/citation_temp_dag_longest_path/Geometry.png> <./fi
+gures/citation_temp_dag_longest_path/Geophysics.png> <./figures/citation_temp_d
+ag_longest_path/Human resources & organizations.png> <./figures/citation_temp_d
+ag_longest_path/Immunology.png> <./figures/citation_temp_dag_longest_path/Inter
+national business.png> <./figures/citation_temp_dag_longest_path/Language & lin
+guistics.png> <./figures/citation_temp_dag_longest_path/Material engineering.pn
+g> <./figures/citation_temp_dag_longest_path/Neurology.png> <./figures/citation
+_temp_dag_longest_path/Political science.png> <./figures/citation_temp_dag_long
+est_path/Probability & statistics.png> <./figures/citation_temp_dag_longest_pat
+h/Sociology.png>]
+<figures/citation_temp_avg_geodesic/Artificial intelligence.png, id=284, 1149.5
+748pt x 767.0256pt>
+File: figures/citation_temp_avg_geodesic/Artificial intelligence.png Graphic fi
+le (type png)
+<use figures/citation_temp_avg_geodesic/Artificial intelligence.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/Artificial intellig
+ence.png  used on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 67.4844pt.
+<figures/citation_temp_avg_geodesic/Economics.png, id=285, 1149.5748pt x 767.02
+56pt>
+File: figures/citation_temp_avg_geodesic/Economics.png Graphic file (type png)
+<use figures/citation_temp_avg_geodesic/Economics.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/Economics.png  used
+ on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 67.4844pt.
+
+
+! LaTeX Error: File `figures/citation_temp_avg_geodesic/Ethnic & cultural studi
+es' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 ...oral Geodesic}{citation_temp_avg_geodesic}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 40--40
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/citation_temp_avg_geodesic/Gender studies.png, id=286, 1125.9666pt x 7
+68.2301pt>
+File: figures/citation_temp_avg_geodesic/Gender studies.png Graphic file (type 
+png)
+<use figures/citation_temp_avg_geodesic/Gender studies.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/Gender studies.png 
+ used on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 69.00877pt.
+<figures/citation_temp_avg_geodesic/Genetics & genomics.png, id=287, 1149.5748p
+t x 767.0256pt>
+File: figures/citation_temp_avg_geodesic/Genetics & genomics.png Graphic file (
+type png)
+<use figures/citation_temp_avg_geodesic/Genetics & genomics.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/Genetics & genomics
+.png  used on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 67.4844pt.
+<figures/citation_temp_avg_geodesic/Geometry.png, id=288, 1141.866pt x 768.2301
+pt>
+File: figures/citation_temp_avg_geodesic/Geometry.png Graphic file (type png)
+<use figures/citation_temp_avg_geodesic/Geometry.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/Geometry.png  used 
+on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_geodesic/Geophysics.png, id=289, 1149.5748pt x 767.0
+256pt>
+File: figures/citation_temp_avg_geodesic/Geophysics.png Graphic file (type png)
+
+<use figures/citation_temp_avg_geodesic/Geophysics.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/Geophysics.png  use
+d on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 67.4844pt.
+
+! LaTeX Error: File `figures/citation_temp_avg_geodesic/Human resources & organ
+izations' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 ...oral Geodesic}{citation_temp_avg_geodesic}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<figures/citation_temp_avg_geodesic/Immunology.png, id=290, 1149.5748pt x 767.0
+256pt>
+File: figures/citation_temp_avg_geodesic/Immunology.png Graphic file (type png)
+
+<use figures/citation_temp_avg_geodesic/Immunology.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/Immunology.png  use
+d on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 67.4844pt.
+<figures/citation_temp_avg_geodesic/International business.png, id=291, 1149.57
+48pt x 767.0256pt>
+File: figures/citation_temp_avg_geodesic/International business.png Graphic fil
+e (type png)
+<use figures/citation_temp_avg_geodesic/International business.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/International busin
+ess.png  used on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 67.4844pt.
+<figures/citation_temp_avg_geodesic/Language & linguistics.png, id=292, 1149.57
+48pt x 767.0256pt>
+File: figures/citation_temp_avg_geodesic/Language & linguistics.png Graphic fil
+e (type png)
+<use figures/citation_temp_avg_geodesic/Language & linguistics.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/Language & linguist
+ics.png  used on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 67.4844pt.
+<figures/citation_temp_avg_geodesic/Material engineering.png, id=293, 1149.5748
+pt x 767.0256pt>
+File: figures/citation_temp_avg_geodesic/Material engineering.png Graphic file 
+(type png)
+<use figures/citation_temp_avg_geodesic/Material engineering.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/Material engineerin
+g.png  used on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 67.4844pt.
+
+! LaTeX Error: File `figures/citation_temp_avg_geodesic/Neurology' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 ...oral Geodesic}{citation_temp_avg_geodesic}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<figures/citation_temp_avg_geodesic/Political science.png, id=294, 1149.5748pt 
+x 767.0256pt>
+File: figures/citation_temp_avg_geodesic/Political science.png Graphic file (ty
+pe png)
+<use figures/citation_temp_avg_geodesic/Political science.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/Political science.p
+ng  used on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 67.4844pt.
+<figures/citation_temp_avg_geodesic/Probability & statistics.png, id=295, 1149.
+5748pt x 767.0256pt>
+File: figures/citation_temp_avg_geodesic/Probability & statistics.png Graphic f
+ile (type png)
+<use figures/citation_temp_avg_geodesic/Probability & statistics.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/Probability & stati
+stics.png  used on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 67.4844pt.
+<figures/citation_temp_avg_geodesic/Sociology.png, id=296, 1149.5748pt x 767.02
+56pt>
+File: figures/citation_temp_avg_geodesic/Sociology.png Graphic file (type png)
+<use figures/citation_temp_avg_geodesic/Sociology.png>
+Package pdftex.def Info: figures/citation_temp_avg_geodesic/Sociology.png  used
+ on input line 40.
+(pdftex.def)             Requested size: 101.14543pt x 67.4844pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]$  $[]$  $[]$
+ []
+
+[21 <./figures/citation_temp_avg_geodesic/Artificial intelligence.png> <./figur
+es/citation_temp_avg_geodesic/Economics.png> <./figures/citation_temp_avg_geode
+sic/Gender studies.png> <./figures/citation_temp_avg_geodesic/Genetics & genomi
+cs.png> <./figures/citation_temp_avg_geodesic/Geometry.png> <./figures/citation
+_temp_avg_geodesic/Geophysics.png> <./figures/citation_temp_avg_geodesic/Immuno
+logy.png> <./figures/citation_temp_avg_geodesic/International business.png> <./
+figures/citation_temp_avg_geodesic/Language & linguistics.png> <./figures/citat
+ion_temp_avg_geodesic/Material engineering.png> <./figures/citation_temp_avg_ge
+odesic/Political science.png> <./figures/citation_temp_avg_geodesic/Probability
+ & statistics.png> <./figures/citation_temp_avg_geodesic/Sociology.png>]
+<figures/citation_temp_transitivity/Artificial intelligence.png, id=313, 1141.8
+66pt x 768.2301pt>
+File: figures/citation_temp_transitivity/Artificial intelligence.png Graphic fi
+le (type png)
+<use figures/citation_temp_transitivity/Artificial intelligence.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Artificial intellig
+ence.png  used on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_transitivity/Economics.png, id=314, 1141.866pt x 768.230
+1pt>
+File: figures/citation_temp_transitivity/Economics.png Graphic file (type png)
+<use figures/citation_temp_transitivity/Economics.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Economics.png  used
+ on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_transitivity/Ethnic & cultural studies.png, id=315, 1141
+.866pt x 768.2301pt>
+File: figures/citation_temp_transitivity/Ethnic & cultural studies.png Graphic 
+file (type png)
+<use figures/citation_temp_transitivity/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Ethnic & cultural s
+tudies.png  used on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 44--44
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/citation_temp_transitivity/Gender studies.png, id=316, 1135.3617pt x 7
+68.2301pt>
+File: figures/citation_temp_transitivity/Gender studies.png Graphic file (type 
+png)
+<use figures/citation_temp_transitivity/Gender studies.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Gender studies.png 
+ used on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.43439pt.
+<figures/citation_temp_transitivity/Genetics & genomics.png, id=317, 1148.3703p
+t x 768.2301pt>
+File: figures/citation_temp_transitivity/Genetics & genomics.png Graphic file (
+type png)
+<use figures/citation_temp_transitivity/Genetics & genomics.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Genetics & genomics
+.png  used on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 67.66072pt.
+<figures/citation_temp_transitivity/Geometry.png, id=318, 1141.866pt x 768.2301
+pt>
+File: figures/citation_temp_transitivity/Geometry.png Graphic file (type png)
+<use figures/citation_temp_transitivity/Geometry.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Geometry.png  used 
+on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_transitivity/Geophysics.png, id=319, 1148.3703pt x 772.2
+0496pt>
+File: figures/citation_temp_transitivity/Geophysics.png Graphic file (type png)
+
+<use figures/citation_temp_transitivity/Geophysics.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Geophysics.png  use
+d on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.0108pt.
+<figures/citation_temp_transitivity/Human resources & organizations.png, id=320
+, 1141.866pt x 768.2301pt>
+File: figures/citation_temp_transitivity/Human resources & organizations.png Gr
+aphic file (type png)
+<use figures/citation_temp_transitivity/Human resources & organizations.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Human resources & o
+rganizations.png  used on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_transitivity/Immunology.png, id=321, 1135.3617pt x 768.2
+301pt>
+File: figures/citation_temp_transitivity/Immunology.png Graphic file (type png)
+
+<use figures/citation_temp_transitivity/Immunology.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Immunology.png  use
+d on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.43439pt.
+<figures/citation_temp_transitivity/International business.png, id=322, 1141.86
+6pt x 768.2301pt>
+File: figures/citation_temp_transitivity/International business.png Graphic fil
+e (type png)
+<use figures/citation_temp_transitivity/International business.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/International busin
+ess.png  used on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_transitivity/Language & linguistics.png, id=323, 1135.36
+17pt x 768.2301pt>
+File: figures/citation_temp_transitivity/Language & linguistics.png Graphic fil
+e (type png)
+<use figures/citation_temp_transitivity/Language & linguistics.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Language & linguist
+ics.png  used on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.43439pt.
+<figures/citation_temp_transitivity/Material engineering.png, id=324, 1148.3703
+pt x 772.20496pt>
+File: figures/citation_temp_transitivity/Material engineering.png Graphic file 
+(type png)
+<use figures/citation_temp_transitivity/Material engineering.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Material engineerin
+g.png  used on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.0108pt.
+<figures/citation_temp_transitivity/Neurology.png, id=325, 1148.3703pt x 772.20
+496pt>
+File: figures/citation_temp_transitivity/Neurology.png Graphic file (type png)
+<use figures/citation_temp_transitivity/Neurology.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Neurology.png  used
+ on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.0108pt.
+<figures/citation_temp_transitivity/Political science.png, id=326, 1135.3617pt 
+x 768.2301pt>
+File: figures/citation_temp_transitivity/Political science.png Graphic file (ty
+pe png)
+<use figures/citation_temp_transitivity/Political science.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Political science.p
+ng  used on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.43439pt.
+<figures/citation_temp_transitivity/Probability & statistics.png, id=327, 1141.
+866pt x 768.2301pt>
+File: figures/citation_temp_transitivity/Probability & statistics.png Graphic f
+ile (type png)
+<use figures/citation_temp_transitivity/Probability & statistics.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Probability & stati
+stics.png  used on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_transitivity/Sociology.png, id=328, 1148.3703pt x 768.23
+01pt>
+File: figures/citation_temp_transitivity/Sociology.png Graphic file (type png)
+<use figures/citation_temp_transitivity/Sociology.png>
+Package pdftex.def Info: figures/citation_temp_transitivity/Sociology.png  used
+ on input line 44.
+(pdftex.def)             Requested size: 101.14543pt x 67.66072pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]$  $[]$  $[]$
+ []
+
+[22 <./figures/citation_temp_transitivity/Artificial intelligence.png> <./figur
+es/citation_temp_transitivity/Economics.png> <./figures/citation_temp_transitiv
+ity/Ethnic & cultural studies.png> <./figures/citation_temp_transitivity/Gender
+ studies.png> <./figures/citation_temp_transitivity/Genetics & genomics.png> <.
+/figures/citation_temp_transitivity/Geometry.png> <./figures/citation_temp_tran
+sitivity/Geophysics.png> <./figures/citation_temp_transitivity/Human resources 
+& organizations.png> <./figures/citation_temp_transitivity/Immunology.png> <./f
+igures/citation_temp_transitivity/International business.png> <./figures/citati
+on_temp_transitivity/Language & linguistics.png> <./figures/citation_temp_trans
+itivity/Material engineering.png> <./figures/citation_temp_transitivity/Neurolo
+gy.png> <./figures/citation_temp_transitivity/Political science.png> <./figures
+/citation_temp_transitivity/Probability & statistics.png> <./figures/citation_t
+emp_transitivity/Sociology.png>]
+<figures/citation_temp_top_centrality/Artificial intelligence.png, id=349, 1127
+.412pt x 753.5352pt>
+File: figures/citation_temp_top_centrality/Artificial intelligence.png Graphic 
+file (type png)
+<use figures/citation_temp_top_centrality/Artificial intelligence.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Artificial intell
+igence.png  used on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.59677pt.
+<figures/citation_temp_top_centrality/Economics.png, id=350, 1127.8938pt x 753.
+5352pt>
+File: figures/citation_temp_top_centrality/Economics.png Graphic file (type png
+)
+<use figures/citation_temp_top_centrality/Economics.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Economics.png  us
+ed on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.57378pt.
+<figures/citation_temp_top_centrality/Ethnic & cultural studies.png, id=351, 11
+27.8938pt x 753.5352pt>
+File: figures/citation_temp_top_centrality/Ethnic & cultural studies.png Graphi
+c file (type png)
+<use figures/citation_temp_top_centrality/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Ethnic & cultural
+ studies.png  used on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.57378pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 48--48
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/citation_temp_top_centrality/Gender studies.png, id=352, 1127.412pt x 
+753.5352pt>
+File: figures/citation_temp_top_centrality/Gender studies.png Graphic file (typ
+e png)
+<use figures/citation_temp_top_centrality/Gender studies.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Gender studies.pn
+g  used on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.59677pt.
+<figures/citation_temp_top_centrality/Genetics & genomics.png, id=353, 1134.157
+2pt x 753.5352pt>
+File: figures/citation_temp_top_centrality/Genetics & genomics.png Graphic file
+ (type png)
+<use figures/citation_temp_top_centrality/Genetics & genomics.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Genetics & genomi
+cs.png  used on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.19434pt.
+<figures/citation_temp_top_centrality/Geometry.png, id=354, 1127.412pt x 753.53
+52pt>
+File: figures/citation_temp_top_centrality/Geometry.png Graphic file (type png)
+
+<use figures/citation_temp_top_centrality/Geometry.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Geometry.png  use
+d on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.59677pt.
+<figures/citation_temp_top_centrality/Geophysics.png, id=355, 1134.1572pt x 753
+.5352pt>
+File: figures/citation_temp_top_centrality/Geophysics.png Graphic file (type pn
+g)
+<use figures/citation_temp_top_centrality/Geophysics.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Geophysics.png  u
+sed on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.19434pt.
+<figures/citation_temp_top_centrality/Human resources & organizations.png, id=3
+56, 1134.1572pt x 753.5352pt>
+File: figures/citation_temp_top_centrality/Human resources & organizations.png 
+Graphic file (type png)
+<use figures/citation_temp_top_centrality/Human resources & organizations.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Human resources &
+ organizations.png  used on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.19434pt.
+<figures/citation_temp_top_centrality/Immunology.png, id=357, 1134.1572pt x 753
+.5352pt>
+File: figures/citation_temp_top_centrality/Immunology.png Graphic file (type pn
+g)
+<use figures/citation_temp_top_centrality/Immunology.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Immunology.png  u
+sed on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.19434pt.
+<figures/citation_temp_top_centrality/International business.png, id=358, 1127.
+412pt x 753.5352pt>
+File: figures/citation_temp_top_centrality/International business.png Graphic f
+ile (type png)
+<use figures/citation_temp_top_centrality/International business.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/International bus
+iness.png  used on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.59677pt.
+<figures/citation_temp_top_centrality/Language & linguistics.png, id=359, 1127.
+8938pt x 753.5352pt>
+File: figures/citation_temp_top_centrality/Language & linguistics.png Graphic f
+ile (type png)
+<use figures/citation_temp_top_centrality/Language & linguistics.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Language & lingui
+stics.png  used on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.57378pt.
+<figures/citation_temp_top_centrality/Material engineering.png, id=360, 1134.15
+72pt x 753.5352pt>
+File: figures/citation_temp_top_centrality/Material engineering.png Graphic fil
+e (type png)
+<use figures/citation_temp_top_centrality/Material engineering.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Material engineer
+ing.png  used on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.19434pt.
+<figures/citation_temp_top_centrality/Neurology.png, id=361, 1134.1572pt x 753.
+5352pt>
+File: figures/citation_temp_top_centrality/Neurology.png Graphic file (type png
+)
+<use figures/citation_temp_top_centrality/Neurology.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Neurology.png  us
+ed on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.19434pt.
+<figures/citation_temp_top_centrality/Political science.png, id=362, 1127.412pt
+ x 753.5352pt>
+File: figures/citation_temp_top_centrality/Political science.png Graphic file (
+type png)
+<use figures/citation_temp_top_centrality/Political science.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Political science
+.png  used on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.59677pt.
+<figures/citation_temp_top_centrality/Probability & statistics.png, id=363, 112
+7.412pt x 753.5352pt>
+File: figures/citation_temp_top_centrality/Probability & statistics.png Graphic
+ file (type png)
+<use figures/citation_temp_top_centrality/Probability & statistics.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Probability & sta
+tistics.png  used on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.59677pt.
+<figures/citation_temp_top_centrality/Sociology.png, id=364, 1134.1572pt x 753.
+5352pt>
+File: figures/citation_temp_top_centrality/Sociology.png Graphic file (type png
+)
+<use figures/citation_temp_top_centrality/Sociology.png>
+Package pdftex.def Info: figures/citation_temp_top_centrality/Sociology.png  us
+ed on input line 48.
+(pdftex.def)             Requested size: 101.14543pt x 67.19434pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]$  $[]$  $[]$
+ []
+
+[23 <./figures/citation_temp_top_centrality/Artificial intelligence.png> <./fig
+ures/citation_temp_top_centrality/Economics.png> <./figures/citation_temp_top_c
+entrality/Ethnic & cultural studies.png> <./figures/citation_temp_top_centralit
+y/Gender studies.png> <./figures/citation_temp_top_centrality/Genetics & genomi
+cs.png> <./figures/citation_temp_top_centrality/Geometry.png> <./figures/citati
+on_temp_top_centrality/Geophysics.png> <./figures/citation_temp_top_centrality/
+Human resources & organizations.png> <./figures/citation_temp_top_centrality/Im
+munology.png> <./figures/citation_temp_top_centrality/International business.pn
+g> <./figures/citation_temp_top_centrality/Language & linguistics.png> <./figur
+es/citation_temp_top_centrality/Material engineering.png> <./figures/citation_t
+emp_top_centrality/Neurology.png> <./figures/citation_temp_top_centrality/Polit
+ical science.png> <./figures/citation_temp_top_centrality/Probability & statist
+ics.png> <./figures/citation_temp_top_centrality/Sociology.png>]
+<figures/citation_temp_avg_clustering/Artificial intelligence.png, id=384, 1141
+.866pt x 768.2301pt>
+File: figures/citation_temp_avg_clustering/Artificial intelligence.png Graphic 
+file (type png)
+<use figures/citation_temp_avg_clustering/Artificial intelligence.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Artificial intell
+igence.png  used on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/Economics.png, id=385, 1141.866pt x 768.2
+301pt>
+File: figures/citation_temp_avg_clustering/Economics.png Graphic file (type png
+)
+<use figures/citation_temp_avg_clustering/Economics.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Economics.png  us
+ed on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/Ethnic & cultural studies.png, id=386, 11
+41.866pt x 768.2301pt>
+File: figures/citation_temp_avg_clustering/Ethnic & cultural studies.png Graphi
+c file (type png)
+<use figures/citation_temp_avg_clustering/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Ethnic & cultural
+ studies.png  used on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 52--52
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/citation_temp_avg_clustering/Gender studies.png, id=387, 1141.866pt x 
+768.2301pt>
+File: figures/citation_temp_avg_clustering/Gender studies.png Graphic file (typ
+e png)
+<use figures/citation_temp_avg_clustering/Gender studies.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Gender studies.pn
+g  used on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/Genetics & genomics.png, id=388, 1141.866
+pt x 768.2301pt>
+File: figures/citation_temp_avg_clustering/Genetics & genomics.png Graphic file
+ (type png)
+<use figures/citation_temp_avg_clustering/Genetics & genomics.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Genetics & genomi
+cs.png  used on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/Geometry.png, id=389, 1141.866pt x 770.39
+82pt>
+File: figures/citation_temp_avg_clustering/Geometry.png Graphic file (type png)
+
+<use figures/citation_temp_avg_clustering/Geometry.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Geometry.png  use
+d on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.2396pt.
+<figures/citation_temp_avg_clustering/Geophysics.png, id=390, 1141.866pt x 768.
+2301pt>
+File: figures/citation_temp_avg_clustering/Geophysics.png Graphic file (type pn
+g)
+<use figures/citation_temp_avg_clustering/Geophysics.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Geophysics.png  u
+sed on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/Human resources & organizations.png, id=3
+91, 1141.866pt x 768.2301pt>
+File: figures/citation_temp_avg_clustering/Human resources & organizations.png 
+Graphic file (type png)
+<use figures/citation_temp_avg_clustering/Human resources & organizations.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Human resources &
+ organizations.png  used on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/Immunology.png, id=392, 1141.866pt x 768.
+2301pt>
+File: figures/citation_temp_avg_clustering/Immunology.png Graphic file (type pn
+g)
+<use figures/citation_temp_avg_clustering/Immunology.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Immunology.png  u
+sed on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/International business.png, id=393, 1141.
+866pt x 768.2301pt>
+File: figures/citation_temp_avg_clustering/International business.png Graphic f
+ile (type png)
+<use figures/citation_temp_avg_clustering/International business.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/International bus
+iness.png  used on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/Language & linguistics.png, id=394, 1141.
+866pt x 768.2301pt>
+File: figures/citation_temp_avg_clustering/Language & linguistics.png Graphic f
+ile (type png)
+<use figures/citation_temp_avg_clustering/Language & linguistics.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Language & lingui
+stics.png  used on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/Material engineering.png, id=395, 1141.86
+6pt x 768.2301pt>
+File: figures/citation_temp_avg_clustering/Material engineering.png Graphic fil
+e (type png)
+<use figures/citation_temp_avg_clustering/Material engineering.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Material engineer
+ing.png  used on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/Neurology.png, id=396, 1141.866pt x 768.2
+301pt>
+File: figures/citation_temp_avg_clustering/Neurology.png Graphic file (type png
+)
+<use figures/citation_temp_avg_clustering/Neurology.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Neurology.png  us
+ed on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/Political science.png, id=397, 1141.866pt
+ x 768.2301pt>
+File: figures/citation_temp_avg_clustering/Political science.png Graphic file (
+type png)
+<use figures/citation_temp_avg_clustering/Political science.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Political science
+.png  used on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/Probability & statistics.png, id=398, 114
+1.866pt x 768.2301pt>
+File: figures/citation_temp_avg_clustering/Probability & statistics.png Graphic
+ file (type png)
+<use figures/citation_temp_avg_clustering/Probability & statistics.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Probability & sta
+tistics.png  used on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+<figures/citation_temp_avg_clustering/Sociology.png, id=399, 1141.866pt x 768.2
+301pt>
+File: figures/citation_temp_avg_clustering/Sociology.png Graphic file (type png
+)
+<use figures/citation_temp_avg_clustering/Sociology.png>
+Package pdftex.def Info: figures/citation_temp_avg_clustering/Sociology.png  us
+ed on input line 52.
+(pdftex.def)             Requested size: 101.14543pt x 68.04755pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]$  $[]$  $[]$
+ []
+
+[24 <./figures/citation_temp_avg_clustering/Artificial intelligence.png> <./fig
+ures/citation_temp_avg_clustering/Economics.png> <./figures/citation_temp_avg_c
+lustering/Ethnic & cultural studies.png> <./figures/citation_temp_avg_clusterin
+g/Gender studies.png> <./figures/citation_temp_avg_clustering/Genetics & genomi
+cs.png> <./figures/citation_temp_avg_clustering/Geometry.png> <./figures/citati
+on_temp_avg_clustering/Geophysics.png> <./figures/citation_temp_avg_clustering/
+Human resources & organizations.png> <./figures/citation_temp_avg_clustering/Im
+munology.png> <./figures/citation_temp_avg_clustering/International business.pn
+g> <./figures/citation_temp_avg_clustering/Language & linguistics.png> <./figur
+es/citation_temp_avg_clustering/Material engineering.png> <./figures/citation_t
+emp_avg_clustering/Neurology.png> <./figures/citation_temp_avg_clustering/Polit
+ical science.png> <./figures/citation_temp_avg_clustering/Probability & statist
+ics.png> <./figures/citation_temp_avg_clustering/Sociology.png>]
+<figures/generational_doc_dist/Artificial intelligence.png, id=419, 409.0482pt 
+x 405.6756pt>
+File: figures/generational_doc_dist/Artificial intelligence.png Graphic file (t
+ype png)
+<use figures/generational_doc_dist/Artificial intelligence.png>
+Package pdftex.def Info: figures/generational_doc_dist/Artificial intelligence.
+png  used on input line 56.
+(pdftex.def)             Requested size: 101.14543pt x 100.31061pt.
+<figures/generational_doc_dist/Economics.png, id=420, 409.0482pt x 405.6756pt>
+File: figures/generational_doc_dist/Economics.png Graphic file (type png)
+<use figures/generational_doc_dist/Economics.png>
+Package pdftex.def Info: figures/generational_doc_dist/Economics.png  used on i
+nput line 56.
+(pdftex.def)             Requested size: 101.14543pt x 100.31061pt.
+<figures/generational_doc_dist/Ethnic & cultural studies.png, id=421, 402.7848p
+t x 405.6756pt>
+File: figures/generational_doc_dist/Ethnic & cultural studies.png Graphic file 
+(type png)
+<use figures/generational_doc_dist/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/generational_doc_dist/Ethnic & cultural studie
+s.png  used on input line 56.
+(pdftex.def)             Requested size: 101.14543pt x 101.87051pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 56--56
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/generational_doc_dist/Gender studies.png, id=422, 409.53pt x 405.6756p
+t>
+File: figures/generational_doc_dist/Gender studies.png Graphic file (type png)
+<use figures/generational_doc_dist/Gender studies.png>
+Package pdftex.def Info: figures/generational_doc_dist/Gender studies.png  used
+ on input line 56.
+(pdftex.def)             Requested size: 101.14543pt x 100.19301pt.
+<figures/generational_doc_dist/Genetics & genomics.png, id=423, 409.0482pt x 40
+5.6756pt>
+File: figures/generational_doc_dist/Genetics & genomics.png Graphic file (type 
+png)
+<use figures/generational_doc_dist/Genetics & genomics.png>
+Package pdftex.def Info: figures/generational_doc_dist/Genetics & genomics.png 
+ used on input line 56.
+(pdftex.def)             Requested size: 101.14543pt x 100.31061pt.
+<figures/generational_doc_dist/Geometry.png, id=424, 402.7848pt x 405.6756pt>
+File: figures/generational_doc_dist/Geometry.png Graphic file (type png)
+<use figures/generational_doc_dist/Geometry.png>
+Package pdftex.def Info: figures/generational_doc_dist/Geometry.png  used on in
+put line 56.
+(pdftex.def)             Requested size: 101.14543pt x 101.87051pt.
+<figures/generational_doc_dist/Geophysics.png, id=425, 417.2388pt x 405.6756pt>
+
+File: figures/generational_doc_dist/Geophysics.png Graphic file (type png)
+<use figures/generational_doc_dist/Geophysics.png>
+Package pdftex.def Info: figures/generational_doc_dist/Geophysics.png  used on 
+input line 56.
+(pdftex.def)             Requested size: 101.14543pt x 98.34216pt.
+<figures/generational_doc_dist/Human resources & organizations.png, id=426, 409
+.0482pt x 405.6756pt>
+File: figures/generational_doc_dist/Human resources & organizations.png Graphic
+ file (type png)
+<use figures/generational_doc_dist/Human resources & organizations.png>
+Package pdftex.def Info: figures/generational_doc_dist/Human resources & organi
+zations.png  used on input line 56.
+(pdftex.def)             Requested size: 101.14543pt x 100.31061pt.
+<figures/generational_doc_dist/Immunology.png, id=427, 409.0482pt x 405.6756pt>
+
+File: figures/generational_doc_dist/Immunology.png Graphic file (type png)
+<use figures/generational_doc_dist/Immunology.png>
+Package pdftex.def Info: figures/generational_doc_dist/Immunology.png  used on 
+input line 56.
+(pdftex.def)             Requested size: 101.14543pt x 100.31061pt.
+<figures/generational_doc_dist/International business.png, id=428, 409.0482pt x
+ 405.6756pt>
+File: figures/generational_doc_dist/International business.png Graphic file (ty
+pe png)
+<use figures/generational_doc_dist/International business.png>
+Package pdftex.def Info: figures/generational_doc_dist/International business.p
+ng  used on input line 56.
+(pdftex.def)             Requested size: 101.14543pt x 100.31061pt.
+<figures/generational_doc_dist/Language & linguistics.png, id=429, 409.0482pt x
+ 405.6756pt>
+File: figures/generational_doc_dist/Language & linguistics.png Graphic file (ty
+pe png)
+<use figures/generational_doc_dist/Language & linguistics.png>
+Package pdftex.def Info: figures/generational_doc_dist/Language & linguistics.p
+ng  used on input line 56.
+(pdftex.def)             Requested size: 101.14543pt x 100.31061pt.
+<figures/generational_doc_dist/Material engineering.png, id=430, 417.7206pt x 4
+05.6756pt>
+File: figures/generational_doc_dist/Material engineering.png Graphic file (type
+ png)
+<use figures/generational_doc_dist/Material engineering.png>
+Package pdftex.def Info: figures/generational_doc_dist/Material engineering.png
+  used on input line 56.
+(pdftex.def)             Requested size: 101.14543pt x 98.22455pt.
+<figures/generational_doc_dist/Neurology.png, id=431, 409.0482pt x 405.6756pt>
+File: figures/generational_doc_dist/Neurology.png Graphic file (type png)
+<use figures/generational_doc_dist/Neurology.png>
+Package pdftex.def Info: figures/generational_doc_dist/Neurology.png  used on i
+nput line 56.
+(pdftex.def)             Requested size: 101.14543pt x 100.31061pt.
+<figures/generational_doc_dist/Political science.png, id=432, 412.9026pt x 405.
+6756pt>
+File: figures/generational_doc_dist/Political science.png Graphic file (type pn
+g)
+<use figures/generational_doc_dist/Political science.png>
+Package pdftex.def Info: figures/generational_doc_dist/Political science.png  u
+sed on input line 56.
+(pdftex.def)             Requested size: 101.14543pt x 99.36972pt.
+<figures/generational_doc_dist/Probability & statistics.png, id=433, 409.0482pt
+ x 405.6756pt>
+File: figures/generational_doc_dist/Probability & statistics.png Graphic file (
+type png)
+<use figures/generational_doc_dist/Probability & statistics.png>
+Package pdftex.def Info: figures/generational_doc_dist/Probability & statistics
+.png  used on input line 56.
+(pdftex.def)             Requested size: 101.14543pt x 100.31061pt.
+<figures/generational_doc_dist/Sociology.png, id=434, 409.0482pt x 405.6756pt>
+File: figures/generational_doc_dist/Sociology.png Graphic file (type png)
+<use figures/generational_doc_dist/Sociology.png>
+Package pdftex.def Info: figures/generational_doc_dist/Sociology.png  used on i
+nput line 56.
+(pdftex.def)             Requested size: 101.14543pt x 100.31061pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]$  $[]$  $[]$
+ []
+
+[25 <./figures/generational_doc_dist/Artificial intelligence.png> <./figures/ge
+nerational_doc_dist/Economics.png> <./figures/generational_doc_dist/Ethnic & cu
+ltural studies.png> <./figures/generational_doc_dist/Gender studies.png> <./fig
+ures/generational_doc_dist/Genetics & genomics.png> <./figures/generational_doc
+_dist/Geometry.png> <./figures/generational_doc_dist/Geophysics.png> <./figures
+/generational_doc_dist/Human resources & organizations.png> <./figures/generati
+onal_doc_dist/Immunology.png> <./figures/generational_doc_dist/International bu
+siness.png> <./figures/generational_doc_dist/Language & linguistics.png> <./fig
+ures/generational_doc_dist/Material engineering.png> <./figures/generational_do
+c_dist/Neurology.png> <./figures/generational_doc_dist/Political science.png> <
+./figures/generational_doc_dist/Probability & statistics.png> <./figures/genera
+tional_doc_dist/Sociology.png>]
+
+! LaTeX Error: File `figures/genealogy_trees/Artificial intelligence' not found
+.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Economics' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Ethnic & cultural studies' not fou
+nd.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 60--60
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+
+! LaTeX Error: File `figures/genealogy_trees/Gender studies' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Genetics & genomics' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Geometry' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Geophysics' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Human resources & organizations' n
+ot found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Immunology' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/International business' not found.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Language & linguistics' not found.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Material engineering' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Neurology' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Political science' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Probability & statistics' not foun
+d.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/genealogy_trees/Sociology ' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...insertfig{Genealogy Tree}{genealogy_trees}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]$  $[]$  $[]$
+ []
+
+[26]
+<figures/term_temp_rank/Artificial intelligence.png, id=457, 1101.8766pt x 1346
+.3901pt>
+File: figures/term_temp_rank/Artificial intelligence.png Graphic file (type png
+)
+<use figures/term_temp_rank/Artificial intelligence.png>
+Package pdftex.def Info: figures/term_temp_rank/Artificial intelligence.png  us
+ed on input line 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Economics.png, id=458, 1101.8766pt x 1346.3901pt>
+File: figures/term_temp_rank/Economics.png Graphic file (type png)
+<use figures/term_temp_rank/Economics.png>
+Package pdftex.def Info: figures/term_temp_rank/Economics.png  used on input li
+ne 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Ethnic & cultural studies.png, id=459, 1101.8766pt x 13
+46.3901pt>
+File: figures/term_temp_rank/Ethnic & cultural studies.png Graphic file (type p
+ng)
+<use figures/term_temp_rank/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/term_temp_rank/Ethnic & cultural studies.png  
+used on input line 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 68--68
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/term_temp_rank/Gender studies.png, id=460, 1101.8766pt x 1346.3901pt>
+File: figures/term_temp_rank/Gender studies.png Graphic file (type png)
+<use figures/term_temp_rank/Gender studies.png>
+Package pdftex.def Info: figures/term_temp_rank/Gender studies.png  used on inp
+ut line 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Genetics & genomics.png, id=461, 1101.8766pt x 1346.390
+1pt>
+File: figures/term_temp_rank/Genetics & genomics.png Graphic file (type png)
+<use figures/term_temp_rank/Genetics & genomics.png>
+Package pdftex.def Info: figures/term_temp_rank/Genetics & genomics.png  used o
+n input line 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Geometry.png, id=462, 1101.8766pt x 1346.3901pt>
+File: figures/term_temp_rank/Geometry.png Graphic file (type png)
+<use figures/term_temp_rank/Geometry.png>
+Package pdftex.def Info: figures/term_temp_rank/Geometry.png  used on input lin
+e 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Geophysics.png, id=463, 1101.8766pt x 1346.3901pt>
+File: figures/term_temp_rank/Geophysics.png Graphic file (type png)
+<use figures/term_temp_rank/Geophysics.png>
+Package pdftex.def Info: figures/term_temp_rank/Geophysics.png  used on input l
+ine 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Human resources & organizations.png, id=464, 1101.8766p
+t x 1346.3901pt>
+File: figures/term_temp_rank/Human resources & organizations.png Graphic file (
+type png)
+<use figures/term_temp_rank/Human resources & organizations.png>
+Package pdftex.def Info: figures/term_temp_rank/Human resources & organizations
+.png  used on input line 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Immunology.png, id=465, 1101.8766pt x 1346.3901pt>
+File: figures/term_temp_rank/Immunology.png Graphic file (type png)
+<use figures/term_temp_rank/Immunology.png>
+Package pdftex.def Info: figures/term_temp_rank/Immunology.png  used on input l
+ine 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/International business.png, id=466, 1101.8766pt x 1346.
+3901pt>
+File: figures/term_temp_rank/International business.png Graphic file (type png)
+
+<use figures/term_temp_rank/International business.png>
+Package pdftex.def Info: figures/term_temp_rank/International business.png  use
+d on input line 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Language & linguistics.png, id=467, 1101.8766pt x 1346.
+3901pt>
+File: figures/term_temp_rank/Language & linguistics.png Graphic file (type png)
+
+<use figures/term_temp_rank/Language & linguistics.png>
+Package pdftex.def Info: figures/term_temp_rank/Language & linguistics.png  use
+d on input line 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Material engineering.png, id=468, 1101.8766pt x 1346.39
+01pt>
+File: figures/term_temp_rank/Material engineering.png Graphic file (type png)
+<use figures/term_temp_rank/Material engineering.png>
+Package pdftex.def Info: figures/term_temp_rank/Material engineering.png  used 
+on input line 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Neurology.png, id=469, 1101.8766pt x 1346.3901pt>
+File: figures/term_temp_rank/Neurology.png Graphic file (type png)
+<use figures/term_temp_rank/Neurology.png>
+Package pdftex.def Info: figures/term_temp_rank/Neurology.png  used on input li
+ne 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Political science.png, id=470, 1101.8766pt x 1346.3901p
+t>
+File: figures/term_temp_rank/Political science.png Graphic file (type png)
+<use figures/term_temp_rank/Political science.png>
+Package pdftex.def Info: figures/term_temp_rank/Political science.png  used on 
+input line 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Probability & statistics.png, id=471, 1101.8766pt x 134
+6.3901pt>
+File: figures/term_temp_rank/Probability & statistics.png Graphic file (type pn
+g)
+<use figures/term_temp_rank/Probability & statistics.png>
+Package pdftex.def Info: figures/term_temp_rank/Probability & statistics.png  u
+sed on input line 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+<figures/term_temp_rank/Sociology.png, id=472, 1101.8766pt x 1346.3901pt>
+File: figures/term_temp_rank/Sociology.png Graphic file (type png)
+<use figures/term_temp_rank/Sociology.png>
+Package pdftex.def Info: figures/term_temp_rank/Sociology.png  used on input li
+ne 68.
+(pdftex.def)             Requested size: 101.14543pt x 123.57355pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]$  $[]$  $[]$
+ []
+
+
+Overfull \vbox (85.50882pt too high) has occurred while \output is active []
+
+
+[27 <./figures/term_temp_rank/Artificial intelligence.png> <./figures/term_temp
+_rank/Economics.png> <./figures/term_temp_rank/Ethnic & cultural studies.png> <
+./figures/term_temp_rank/Gender studies.png> <./figures/term_temp_rank/Genetics
+ & genomics.png> <./figures/term_temp_rank/Geometry.png> <./figures/term_temp_r
+ank/Geophysics.png> <./figures/term_temp_rank/Human resources & organizations.p
+ng> <./figures/term_temp_rank/Immunology.png> <./figures/term_temp_rank/Interna
+tional business.png> <./figures/term_temp_rank/Language & linguistics.png> <./f
+igures/term_temp_rank/Material engineering.png> <./figures/term_temp_rank/Neuro
+logy.png> <./figures/term_temp_rank/Political science.png> <./figures/term_temp
+_rank/Probability & statistics.png> <./figures/term_temp_rank/Sociology.png>]
+<figures/co_citation_graphs/Artificial intelligence.png, id=492, 722.7pt x 722.
+7pt>
+File: figures/co_citation_graphs/Artificial intelligence.png Graphic file (type
+ png)
+<use figures/co_citation_graphs/Artificial intelligence.png>
+Package pdftex.def Info: figures/co_citation_graphs/Artificial intelligence.png
+  used on input line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Economics.png, id=493, 722.7pt x 722.7pt>
+File: figures/co_citation_graphs/Economics.png Graphic file (type png)
+<use figures/co_citation_graphs/Economics.png>
+Package pdftex.def Info: figures/co_citation_graphs/Economics.png  used on inpu
+t line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Ethnic & cultural studies.png, id=494, 722.7pt x 72
+2.7pt>
+File: figures/co_citation_graphs/Ethnic & cultural studies.png Graphic file (ty
+pe png)
+<use figures/co_citation_graphs/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/co_citation_graphs/Ethnic & cultural studies.p
+ng  used on input line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 76--76
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/co_citation_graphs/Gender studies.png, id=495, 722.7pt x 722.7pt>
+File: figures/co_citation_graphs/Gender studies.png Graphic file (type png)
+<use figures/co_citation_graphs/Gender studies.png>
+Package pdftex.def Info: figures/co_citation_graphs/Gender studies.png  used on
+ input line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Genetics & genomics.png, id=496, 722.7pt x 722.7pt>
+
+File: figures/co_citation_graphs/Genetics & genomics.png Graphic file (type png
+)
+<use figures/co_citation_graphs/Genetics & genomics.png>
+Package pdftex.def Info: figures/co_citation_graphs/Genetics & genomics.png  us
+ed on input line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Geometry.png, id=497, 722.7pt x 722.7pt>
+File: figures/co_citation_graphs/Geometry.png Graphic file (type png)
+<use figures/co_citation_graphs/Geometry.png>
+Package pdftex.def Info: figures/co_citation_graphs/Geometry.png  used on input
+ line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Geophysics.png, id=498, 722.7pt x 722.7pt>
+File: figures/co_citation_graphs/Geophysics.png Graphic file (type png)
+<use figures/co_citation_graphs/Geophysics.png>
+Package pdftex.def Info: figures/co_citation_graphs/Geophysics.png  used on inp
+ut line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Human resources & organizations.png, id=499, 722.7p
+t x 722.7pt>
+File: figures/co_citation_graphs/Human resources & organizations.png Graphic fi
+le (type png)
+<use figures/co_citation_graphs/Human resources & organizations.png>
+Package pdftex.def Info: figures/co_citation_graphs/Human resources & organizat
+ions.png  used on input line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Immunology.png, id=500, 722.7pt x 722.7pt>
+File: figures/co_citation_graphs/Immunology.png Graphic file (type png)
+<use figures/co_citation_graphs/Immunology.png>
+Package pdftex.def Info: figures/co_citation_graphs/Immunology.png  used on inp
+ut line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/International business.png, id=501, 722.7pt x 722.7
+pt>
+File: figures/co_citation_graphs/International business.png Graphic file (type 
+png)
+<use figures/co_citation_graphs/International business.png>
+Package pdftex.def Info: figures/co_citation_graphs/International business.png 
+ used on input line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Language & linguistics.png, id=502, 722.7pt x 722.7
+pt>
+File: figures/co_citation_graphs/Language & linguistics.png Graphic file (type 
+png)
+<use figures/co_citation_graphs/Language & linguistics.png>
+Package pdftex.def Info: figures/co_citation_graphs/Language & linguistics.png 
+ used on input line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Material engineering.png, id=503, 722.7pt x 722.7pt
+>
+File: figures/co_citation_graphs/Material engineering.png Graphic file (type pn
+g)
+<use figures/co_citation_graphs/Material engineering.png>
+Package pdftex.def Info: figures/co_citation_graphs/Material engineering.png  u
+sed on input line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Neurology.png, id=504, 722.7pt x 722.7pt>
+File: figures/co_citation_graphs/Neurology.png Graphic file (type png)
+<use figures/co_citation_graphs/Neurology.png>
+Package pdftex.def Info: figures/co_citation_graphs/Neurology.png  used on inpu
+t line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Political science.png, id=505, 722.7pt x 722.7pt>
+File: figures/co_citation_graphs/Political science.png Graphic file (type png)
+<use figures/co_citation_graphs/Political science.png>
+Package pdftex.def Info: figures/co_citation_graphs/Political science.png  used
+ on input line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Probability & statistics.png, id=506, 722.7pt x 722
+.7pt>
+File: figures/co_citation_graphs/Probability & statistics.png Graphic file (typ
+e png)
+<use figures/co_citation_graphs/Probability & statistics.png>
+Package pdftex.def Info: figures/co_citation_graphs/Probability & statistics.pn
+g  used on input line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+<figures/co_citation_graphs/Sociology.png, id=507, 722.7pt x 722.7pt>
+File: figures/co_citation_graphs/Sociology.png Graphic file (type png)
+<use figures/co_citation_graphs/Sociology.png>
+Package pdftex.def Info: figures/co_citation_graphs/Sociology.png  used on inpu
+t line 76.
+(pdftex.def)             Requested size: 101.14543pt x 101.14423pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]$  $[]$  $[]$
+ []
+
+[28 <./figures/co_citation_graphs/Artificial intelligence.png> <./figures/co_ci
+tation_graphs/Economics.png> <./figures/co_citation_graphs/Ethnic & cultural st
+udies.png> <./figures/co_citation_graphs/Gender studies.png> <./figures/co_cita
+tion_graphs/Genetics & genomics.png> <./figures/co_citation_graphs/Geometry.png
+> <./figures/co_citation_graphs/Geophysics.png> <./figures/co_citation_graphs/H
+uman resources & organizations.png> <./figures/co_citation_graphs/Immunology.pn
+g> <./figures/co_citation_graphs/International business.png> <./figures/co_cita
+tion_graphs/Language & linguistics.png> <./figures/co_citation_graphs/Material 
+engineering.png> <./figures/co_citation_graphs/Neurology.png> <./figures/co_cit
+ation_graphs/Political science.png> <./figures/co_citation_graphs/Probability &
+ statistics.png> <./figures/co_citation_graphs/Sociology.png>]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(./tables/co_citation_desc_stats.tex) [29
+
+
+]
+<figures/co_citation_deg_dist/Artificial intelligence.png, id=531, 317.988pt x 
+265.9536pt>
+File: figures/co_citation_deg_dist/Artificial intelligence.png Graphic file (ty
+pe png)
+<use figures/co_citation_deg_dist/Artificial intelligence.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Artificial intelligence.p
+ng  used on input line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/Economics.png, id=532, 317.988pt x 268.8444pt>
+File: figures/co_citation_deg_dist/Economics.png Graphic file (type png)
+<use figures/co_citation_deg_dist/Economics.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Economics.png  used on in
+put line 84.
+(pdftex.def)             Requested size: 101.14543pt x 85.51097pt.
+<figures/co_citation_deg_dist/Ethnic & cultural studies.png, id=533, 317.5062pt
+ x 265.9536pt>
+File: figures/co_citation_deg_dist/Ethnic & cultural studies.png Graphic file (
+type png)
+<use figures/co_citation_deg_dist/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Ethnic & cultural studies
+.png  used on input line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.72136pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 84--84
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/co_citation_deg_dist/Gender studies.png, id=534, 317.988pt x 265.9536p
+t>
+File: figures/co_citation_deg_dist/Gender studies.png Graphic file (type png)
+<use figures/co_citation_deg_dist/Gender studies.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Gender studies.png  used 
+on input line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/Genetics & genomics.png, id=535, 317.988pt x 265.
+9536pt>
+File: figures/co_citation_deg_dist/Genetics & genomics.png Graphic file (type p
+ng)
+<use figures/co_citation_deg_dist/Genetics & genomics.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Genetics & genomics.png  
+used on input line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/Geometry.png, id=536, 317.988pt x 265.9536pt>
+File: figures/co_citation_deg_dist/Geometry.png Graphic file (type png)
+<use figures/co_citation_deg_dist/Geometry.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Geometry.png  used on inp
+ut line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/Geophysics.png, id=537, 317.988pt x 265.9536pt>
+File: figures/co_citation_deg_dist/Geophysics.png Graphic file (type png)
+<use figures/co_citation_deg_dist/Geophysics.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Geophysics.png  used on i
+nput line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/Human resources & organizations.png, id=538, 317.
+988pt x 265.9536pt>
+File: figures/co_citation_deg_dist/Human resources & organizations.png Graphic 
+file (type png)
+<use figures/co_citation_deg_dist/Human resources & organizations.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Human resources & organiz
+ations.png  used on input line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/Immunology.png, id=539, 317.988pt x 265.9536pt>
+File: figures/co_citation_deg_dist/Immunology.png Graphic file (type png)
+<use figures/co_citation_deg_dist/Immunology.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Immunology.png  used on i
+nput line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/International business.png, id=540, 317.988pt x 2
+65.9536pt>
+File: figures/co_citation_deg_dist/International business.png Graphic file (typ
+e png)
+<use figures/co_citation_deg_dist/International business.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/International business.pn
+g  used on input line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/Language & linguistics.png, id=541, 317.988pt x 2
+65.9536pt>
+File: figures/co_citation_deg_dist/Language & linguistics.png Graphic file (typ
+e png)
+<use figures/co_citation_deg_dist/Language & linguistics.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Language & linguistics.pn
+g  used on input line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/Material engineering.png, id=542, 317.988pt x 265
+.9536pt>
+File: figures/co_citation_deg_dist/Material engineering.png Graphic file (type 
+png)
+<use figures/co_citation_deg_dist/Material engineering.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Material engineering.png 
+ used on input line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/Neurology.png, id=543, 317.988pt x 265.9536pt>
+File: figures/co_citation_deg_dist/Neurology.png Graphic file (type png)
+<use figures/co_citation_deg_dist/Neurology.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Neurology.png  used on in
+put line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/Political science.png, id=544, 317.988pt x 265.95
+36pt>
+File: figures/co_citation_deg_dist/Political science.png Graphic file (type png
+)
+<use figures/co_citation_deg_dist/Political science.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Political science.png  us
+ed on input line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/Probability & statistics.png, id=545, 317.988pt x
+ 265.9536pt>
+File: figures/co_citation_deg_dist/Probability & statistics.png Graphic file (t
+ype png)
+<use figures/co_citation_deg_dist/Probability & statistics.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Probability & statistics.
+png  used on input line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_citation_deg_dist/Sociology.png, id=546, 317.988pt x 265.9536pt>
+File: figures/co_citation_deg_dist/Sociology.png Graphic file (type png)
+<use figures/co_citation_deg_dist/Sociology.png>
+Package pdftex.def Info: figures/co_citation_deg_dist/Sociology.png  used on in
+put line 84.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]$  $[]$  $[]$
+ []
+
+[30
+
+
+ <./figures/co_citation_deg_dist/Artificial intelligence.png> <./figures/co_cit
+ation_deg_dist/Economics.png> <./figures/co_citation_deg_dist/Ethnic & cultural
+ studies.png> <./figures/co_citation_deg_dist/Gender studies.png> <./figures/co
+_citation_deg_dist/Genetics & genomics.png> <./figures/co_citation_deg_dist/Geo
+metry.png> <./figures/co_citation_deg_dist/Geophysics.png> <./figures/co_citati
+on_deg_dist/Human resources & organizations.png> <./figures/co_citation_deg_dis
+t/Immunology.png> <./figures/co_citation_deg_dist/International business.png> <
+./figures/co_citation_deg_dist/Language & linguistics.png> <./figures/co_citati
+on_deg_dist/Material engineering.png> <./figures/co_citation_deg_dist/Neurology
+.png> <./figures/co_citation_deg_dist/Political science.png> <./figures/co_cita
+tion_deg_dist/Probability & statistics.png> <./figures/co_citation_deg_dist/Soc
+iology.png>]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (./tables/co_citation_ergm_model.tex) [31
+
+
+]
+<figures/co_occurrence_graphs/Artificial intelligence.png, id=569, 1084.05pt x 
+1084.05pt>
+File: figures/co_occurrence_graphs/Artificial intelligence.png Graphic file (ty
+pe png)
+<use figures/co_occurrence_graphs/Artificial intelligence.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Artificial intelligence.p
+ng  used on input line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Economics.png, id=570, 1084.05pt x 1084.05pt>
+File: figures/co_occurrence_graphs/Economics.png Graphic file (type png)
+<use figures/co_occurrence_graphs/Economics.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Economics.png  used on in
+put line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Ethnic & cultural studies.png, id=571, 1084.05pt 
+x 1084.05pt>
+File: figures/co_occurrence_graphs/Ethnic & cultural studies.png Graphic file (
+type png)
+<use figures/co_occurrence_graphs/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Ethnic & cultural studies
+.png  used on input line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 96--96
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/co_occurrence_graphs/Gender studies.png, id=572, 1084.05pt x 1084.05pt
+>
+File: figures/co_occurrence_graphs/Gender studies.png Graphic file (type png)
+<use figures/co_occurrence_graphs/Gender studies.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Gender studies.png  used 
+on input line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Genetics & genomics.png, id=573, 1084.05pt x 1084
+.05pt>
+File: figures/co_occurrence_graphs/Genetics & genomics.png Graphic file (type p
+ng)
+<use figures/co_occurrence_graphs/Genetics & genomics.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Genetics & genomics.png  
+used on input line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Geometry.png, id=574, 1084.05pt x 1084.05pt>
+File: figures/co_occurrence_graphs/Geometry.png Graphic file (type png)
+<use figures/co_occurrence_graphs/Geometry.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Geometry.png  used on inp
+ut line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Geophysics.png, id=575, 1084.05pt x 1084.05pt>
+File: figures/co_occurrence_graphs/Geophysics.png Graphic file (type png)
+<use figures/co_occurrence_graphs/Geophysics.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Geophysics.png  used on i
+nput line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Human resources & organizations.png, id=576, 1084
+.05pt x 1084.05pt>
+File: figures/co_occurrence_graphs/Human resources & organizations.png Graphic 
+file (type png)
+<use figures/co_occurrence_graphs/Human resources & organizations.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Human resources & organiz
+ations.png  used on input line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Immunology.png, id=577, 1084.05pt x 1084.05pt>
+File: figures/co_occurrence_graphs/Immunology.png Graphic file (type png)
+<use figures/co_occurrence_graphs/Immunology.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Immunology.png  used on i
+nput line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/International business.png, id=578, 1084.05pt x 1
+084.05pt>
+File: figures/co_occurrence_graphs/International business.png Graphic file (typ
+e png)
+<use figures/co_occurrence_graphs/International business.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/International business.pn
+g  used on input line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Language & linguistics.png, id=579, 1084.05pt x 1
+084.05pt>
+File: figures/co_occurrence_graphs/Language & linguistics.png Graphic file (typ
+e png)
+<use figures/co_occurrence_graphs/Language & linguistics.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Language & linguistics.pn
+g  used on input line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Material engineering.png, id=580, 1084.05pt x 108
+4.05pt>
+File: figures/co_occurrence_graphs/Material engineering.png Graphic file (type 
+png)
+<use figures/co_occurrence_graphs/Material engineering.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Material engineering.png 
+ used on input line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Neurology.png, id=581, 1084.05pt x 1084.05pt>
+File: figures/co_occurrence_graphs/Neurology.png Graphic file (type png)
+<use figures/co_occurrence_graphs/Neurology.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Neurology.png  used on in
+put line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Political science.png, id=582, 1084.05pt x 1084.0
+5pt>
+File: figures/co_occurrence_graphs/Political science.png Graphic file (type png
+)
+<use figures/co_occurrence_graphs/Political science.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Political science.png  us
+ed on input line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Probability & statistics.png, id=583, 1084.05pt x
+ 1084.05pt>
+File: figures/co_occurrence_graphs/Probability & statistics.png Graphic file (t
+ype png)
+<use figures/co_occurrence_graphs/Probability & statistics.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Probability & statistics.
+png  used on input line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+<figures/co_occurrence_graphs/Sociology.png, id=584, 1084.05pt x 1084.05pt>
+File: figures/co_occurrence_graphs/Sociology.png Graphic file (type png)
+<use figures/co_occurrence_graphs/Sociology.png>
+Package pdftex.def Info: figures/co_occurrence_graphs/Sociology.png  used on in
+put line 96.
+(pdftex.def)             Requested size: 101.14543pt x 101.1332pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]$  $[]$  $[]$
+ []
+
+[32
+
+
+ <./figures/co_occurrence_graphs/Artificial intelligence.png> <./figures/co_occ
+urrence_graphs/Economics.png> <./figures/co_occurrence_graphs/Ethnic & cultural
+ studies.png> <./figures/co_occurrence_graphs/Gender studies.png> <./figures/co
+_occurrence_graphs/Genetics & genomics.png> <./figures/co_occurrence_graphs/Geo
+metry.png> <./figures/co_occurrence_graphs/Geophysics.png> <./figures/co_occurr
+ence_graphs/Human resources & organizations.png> <./figures/co_occurrence_graph
+s/Immunology.png> <./figures/co_occurrence_graphs/International business.png> <
+./figures/co_occurrence_graphs/Language & linguistics.png> <./figures/co_occurr
+ence_graphs/Material engineering.png> <./figures/co_occurrence_graphs/Neurology
+.png> <./figures/co_occurrence_graphs/Political science.png> <./figures/co_occu
+rrence_graphs/Probability & statistics.png> <./figures/co_occurrence_graphs/Soc
+iology.png>]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (./tables/co_occurrence_desc_stats.tex) [33
+
+
+]
+<figures/co_occurrence_deg_dist/Artificial intelligence.png, id=607, 317.988pt 
+x 265.9536pt>
+File: figures/co_occurrence_deg_dist/Artificial intelligence.png Graphic file (
+type png)
+<use figures/co_occurrence_deg_dist/Artificial intelligence.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Artificial intelligence
+.png  used on input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Economics.png, id=608, 317.988pt x 265.9536pt>
+File: figures/co_occurrence_deg_dist/Economics.png Graphic file (type png)
+<use figures/co_occurrence_deg_dist/Economics.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Economics.png  used on 
+input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Ethnic & cultural studies.png, id=609, 317.988p
+t x 265.9536pt>
+File: figures/co_occurrence_deg_dist/Ethnic & cultural studies.png Graphic file
+ (type png)
+<use figures/co_occurrence_deg_dist/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Ethnic & cultural studi
+es.png  used on input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 104--104
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/co_occurrence_deg_dist/Gender studies.png, id=610, 317.988pt x 265.953
+6pt>
+File: figures/co_occurrence_deg_dist/Gender studies.png Graphic file (type png)
+
+<use figures/co_occurrence_deg_dist/Gender studies.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Gender studies.png  use
+d on input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Genetics & genomics.png, id=611, 317.988pt x 26
+5.9536pt>
+File: figures/co_occurrence_deg_dist/Genetics & genomics.png Graphic file (type
+ png)
+<use figures/co_occurrence_deg_dist/Genetics & genomics.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Genetics & genomics.png
+  used on input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Geometry.png, id=612, 317.988pt x 265.9536pt>
+File: figures/co_occurrence_deg_dist/Geometry.png Graphic file (type png)
+<use figures/co_occurrence_deg_dist/Geometry.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Geometry.png  used on i
+nput line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Geophysics.png, id=613, 317.988pt x 265.9536pt>
+
+File: figures/co_occurrence_deg_dist/Geophysics.png Graphic file (type png)
+<use figures/co_occurrence_deg_dist/Geophysics.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Geophysics.png  used on
+ input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Human resources & organizations.png, id=614, 31
+7.988pt x 265.9536pt>
+File: figures/co_occurrence_deg_dist/Human resources & organizations.png Graphi
+c file (type png)
+<use figures/co_occurrence_deg_dist/Human resources & organizations.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Human resources & organ
+izations.png  used on input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Immunology.png, id=615, 317.988pt x 265.9536pt>
+
+File: figures/co_occurrence_deg_dist/Immunology.png Graphic file (type png)
+<use figures/co_occurrence_deg_dist/Immunology.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Immunology.png  used on
+ input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/International business.png, id=616, 317.988pt x
+ 265.9536pt>
+File: figures/co_occurrence_deg_dist/International business.png Graphic file (t
+ype png)
+<use figures/co_occurrence_deg_dist/International business.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/International business.
+png  used on input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Language & linguistics.png, id=617, 317.988pt x
+ 265.9536pt>
+File: figures/co_occurrence_deg_dist/Language & linguistics.png Graphic file (t
+ype png)
+<use figures/co_occurrence_deg_dist/Language & linguistics.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Language & linguistics.
+png  used on input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Material engineering.png, id=618, 317.988pt x 2
+65.9536pt>
+File: figures/co_occurrence_deg_dist/Material engineering.png Graphic file (typ
+e png)
+<use figures/co_occurrence_deg_dist/Material engineering.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Material engineering.pn
+g  used on input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Neurology.png, id=619, 317.988pt x 265.9536pt>
+File: figures/co_occurrence_deg_dist/Neurology.png Graphic file (type png)
+<use figures/co_occurrence_deg_dist/Neurology.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Neurology.png  used on 
+input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Political science.png, id=620, 317.988pt x 265.
+9536pt>
+File: figures/co_occurrence_deg_dist/Political science.png Graphic file (type p
+ng)
+<use figures/co_occurrence_deg_dist/Political science.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Political science.png  
+used on input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Probability & statistics.png, id=621, 317.988pt
+ x 265.9536pt>
+File: figures/co_occurrence_deg_dist/Probability & statistics.png Graphic file 
+(type png)
+<use figures/co_occurrence_deg_dist/Probability & statistics.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Probability & statistic
+s.png  used on input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+<figures/co_occurrence_deg_dist/Sociology.png, id=622, 317.988pt x 265.9536pt>
+File: figures/co_occurrence_deg_dist/Sociology.png Graphic file (type png)
+<use figures/co_occurrence_deg_dist/Sociology.png>
+Package pdftex.def Info: figures/co_occurrence_deg_dist/Sociology.png  used on 
+input line 104.
+(pdftex.def)             Requested size: 101.14543pt x 84.5915pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]$  $[]$  $[]$
+ []
+
+[34
+
+
+ <./figures/co_occurrence_deg_dist/Artificial intelligence.png> <./figures/co_o
+ccurrence_deg_dist/Economics.png> <./figures/co_occurrence_deg_dist/Ethnic & cu
+ltural studies.png> <./figures/co_occurrence_deg_dist/Gender studies.png> <./fi
+gures/co_occurrence_deg_dist/Genetics & genomics.png> <./figures/co_occurrence_
+deg_dist/Geometry.png> <./figures/co_occurrence_deg_dist/Geophysics.png> <./fig
+ures/co_occurrence_deg_dist/Human resources & organizations.png> <./figures/co_
+occurrence_deg_dist/Immunology.png> <./figures/co_occurrence_deg_dist/Internati
+onal business.png> <./figures/co_occurrence_deg_dist/Language & linguistics.png
+> <./figures/co_occurrence_deg_dist/Material engineering.png> <./figures/co_occ
+urrence_deg_dist/Neurology.png> <./figures/co_occurrence_deg_dist/Political sci
+ence.png> <./figures/co_occurrence_deg_dist/Probability & statistics.png> <./fi
+gures/co_occurrence_deg_dist/Sociology.png>]
+<figures/co_occurrence_node_distance_dist/Artificial intelligence.png, id=643, 
+280.4076pt x 265.4718pt>
+File: figures/co_occurrence_node_distance_dist/Artificial intelligence.png Grap
+hic file (type png)
+<use figures/co_occurrence_node_distance_dist/Artificial intelligence.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Artificial in
+telligence.png  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/Economics.png, id=644, 280.4076pt x 2
+66.4354pt>
+File: figures/co_occurrence_node_distance_dist/Economics.png Graphic file (type
+ png)
+<use figures/co_occurrence_node_distance_dist/Economics.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Economics.png
+  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 96.10367pt.
+<figures/co_occurrence_node_distance_dist/Ethnic & cultural studies.png, id=645
+, 274.1442pt x 265.4718pt>
+File: figures/co_occurrence_node_distance_dist/Ethnic & cultural studies.png Gr
+aphic file (type png)
+<use figures/co_occurrence_node_distance_dist/Ethnic & cultural studies.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Ethnic & cult
+ural studies.png  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 97.94351pt.
+
+Underfull \hbox (badness 3525) in paragraph at lines 108--108
+[]\OT1/cmr/m/n/9 (c) |Eth-nic & cul-tural
+ []
+
+<figures/co_occurrence_node_distance_dist/Gender studies.png, id=646, 280.4076p
+t x 265.4718pt>
+File: figures/co_occurrence_node_distance_dist/Gender studies.png Graphic file 
+(type png)
+<use figures/co_occurrence_node_distance_dist/Gender studies.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Gender studie
+s.png  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/Genetics & genomics.png, id=647, 280.
+4076pt x 265.4718pt>
+File: figures/co_occurrence_node_distance_dist/Genetics & genomics.png Graphic 
+file (type png)
+<use figures/co_occurrence_node_distance_dist/Genetics & genomics.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Genetics & ge
+nomics.png  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/Geometry.png, id=648, 280.4076pt x 26
+5.4718pt>
+File: figures/co_occurrence_node_distance_dist/Geometry.png Graphic file (type 
+png)
+<use figures/co_occurrence_node_distance_dist/Geometry.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Geometry.png 
+ used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/Geophysics.png, id=649, 280.4076pt x 
+265.4718pt>
+File: figures/co_occurrence_node_distance_dist/Geophysics.png Graphic file (typ
+e png)
+<use figures/co_occurrence_node_distance_dist/Geophysics.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Geophysics.pn
+g  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/Human resources & organizations.png, 
+id=650, 280.4076pt x 265.4718pt>
+File: figures/co_occurrence_node_distance_dist/Human resources & organizations.
+png Graphic file (type png)
+<use figures/co_occurrence_node_distance_dist/Human resources & organizations.p
+ng>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Human resourc
+es & organizations.png  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/Immunology.png, id=651, 280.4076pt x 
+265.4718pt>
+File: figures/co_occurrence_node_distance_dist/Immunology.png Graphic file (typ
+e png)
+<use figures/co_occurrence_node_distance_dist/Immunology.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Immunology.pn
+g  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/International business.png, id=652, 2
+80.4076pt x 265.4718pt>
+File: figures/co_occurrence_node_distance_dist/International business.png Graph
+ic file (type png)
+<use figures/co_occurrence_node_distance_dist/International business.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/International
+ business.png  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/Language & linguistics.png, id=653, 2
+80.4076pt x 265.4718pt>
+File: figures/co_occurrence_node_distance_dist/Language & linguistics.png Graph
+ic file (type png)
+<use figures/co_occurrence_node_distance_dist/Language & linguistics.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Language & li
+nguistics.png  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/Material engineering.png, id=654, 280
+.4076pt x 265.4718pt>
+File: figures/co_occurrence_node_distance_dist/Material engineering.png Graphic
+ file (type png)
+<use figures/co_occurrence_node_distance_dist/Material engineering.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Material engi
+neering.png  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/Neurology.png, id=655, 280.4076pt x 2
+65.4718pt>
+File: figures/co_occurrence_node_distance_dist/Neurology.png Graphic file (type
+ png)
+<use figures/co_occurrence_node_distance_dist/Neurology.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Neurology.png
+  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/Political science.png, id=656, 280.40
+76pt x 265.4718pt>
+File: figures/co_occurrence_node_distance_dist/Political science.png Graphic fi
+le (type png)
+<use figures/co_occurrence_node_distance_dist/Political science.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Political sci
+ence.png  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/Probability & statistics.png, id=657,
+ 280.4076pt x 265.4718pt>
+File: figures/co_occurrence_node_distance_dist/Probability & statistics.png Gra
+phic file (type png)
+<use figures/co_occurrence_node_distance_dist/Probability & statistics.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Probability &
+ statistics.png  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+<figures/co_occurrence_node_distance_dist/Sociology.png, id=658, 280.4076pt x 2
+65.4718pt>
+File: figures/co_occurrence_node_distance_dist/Sociology.png Graphic file (type
+ png)
+<use figures/co_occurrence_node_distance_dist/Sociology.png>
+Package pdftex.def Info: figures/co_occurrence_node_distance_dist/Sociology.png
+  used on input line 108.
+(pdftex.def)             Requested size: 101.14543pt x 95.7561pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]$[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]$  $[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]$  $[]$  $[]$
+ []
+
+[35 <./figures/co_occurrence_node_distance_dist/Artificial intelligence.png> <.
+/figures/co_occurrence_node_distance_dist/Economics.png> <./figures/co_occurren
+ce_node_distance_dist/Ethnic & cultural studies.png> <./figures/co_occurrence_n
+ode_distance_dist/Gender studies.png> <./figures/co_occurrence_node_distance_di
+st/Genetics & genomics.png> <./figures/co_occurrence_node_distance_dist/Geometr
+y.png> <./figures/co_occurrence_node_distance_dist/Geophysics.png> <./figures/c
+o_occurrence_node_distance_dist/Human resources & organizations.png> <./figures
+/co_occurrence_node_distance_dist/Immunology.png> <./figures/co_occurrence_node
+_distance_dist/International business.png> <./figures/co_occurrence_node_distan
+ce_dist/Language & linguistics.png> <./figures/co_occurrence_node_distance_dist
+/Material engineering.png> <./figures/co_occurrence_node_distance_dist/Neurolog
+y.png> <./figures/co_occurrence_node_distance_dist/Political science.png> <./fi
+gures/co_occurrence_node_distance_dist/Probability & statistics.png> <./figures
+/co_occurrence_node_distance_dist/Sociology.png>]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(./tables/co_occurrence_ergm_model.tex) [36
+
+
+]) (./dissertation.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 17181 strings out of 476025
- 345311 string characters out of 5790018
- 1883388 words of memory out of 5000000
- 37289 multiletter control sequences out of 15000+600000
+ 20570 strings out of 476025
+ 535299 string characters out of 5790018
+ 1884388 words of memory out of 5000000
+ 40601 multiletter control sequences out of 15000+600000
  515547 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,15n,92p,1213b,1047s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10
-.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.p
-fb>
-Output written on dissertation.pdf (17 pages, 219501 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
+/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/te
+xlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texli
+ve/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
+e/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on dissertation.pdf (39 pages, 48820735 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
+ 740 PDF objects out of 1000 (max. 8388607)
+ 133 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1358 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -4,3 +4,21 @@
 \contentsline {figure}{\numberline {4}{\ignorespaces Co-Occurrence\relax }}{6}{}%
 \contentsline {figure}{\numberline {5}{\ignorespaces Triads\relax }}{8}{}%
 \contentsline {figure}{\numberline {6}{\ignorespaces Star\relax }}{8}{}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Citation Graphs\relax }}{13}{}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Citation Temporal Cumulative Distribution\relax }}{14}{}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Citation Degree Distribution\relax }}{15}{}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Citation Reference Dates Distribution\relax }}{18}{}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Co-Citation Node Distance Distribution\relax }}{19}{}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Citation Temporal DAG Longest Patg\relax }}{20}{}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Citation Temporal Geodesic\relax }}{21}{}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Citation Temporal Transitivity\relax }}{22}{}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Centrality (Top 10)\relax }}{23}{}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Citation Temporal Average Clustering\relax }}{24}{}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Generational Document Distribution\relax }}{25}{}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Genealogy Tree\relax }}{26}{}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Term Temporal Ranking\relax }}{27}{}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Co-Citation Graphs $(e = 50)$\relax }}{28}{}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Co-Citation Degree Distribution\relax }}{30}{}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Co-Occurrence Graphs $(e = 100)$\relax }}{32}{}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Co-Occurrence Degree Distribution $(w > 1)$\relax }}{34}{}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Co-Occurrence Node Distance Distribution\relax }}{35}{}%

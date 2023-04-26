@@ -805,6 +805,911 @@ INPUT sections/figures.tex
 INPUT ./sections/figures.tex
 INPUT ./sections/figures.tex
 INPUT sections/figures.tex
+INPUT ./figures/citation_graphs/Artificial intelligence.png
+INPUT figures/citation_graphs/Artificial intelligence.png
+INPUT ./figures/citation_graphs/Artificial intelligence.png
+INPUT ./figures/citation_graphs/Artificial intelligence.png
+INPUT ./figures/citation_graphs/Economics.png
+INPUT figures/citation_graphs/Economics.png
+INPUT ./figures/citation_graphs/Economics.png
+INPUT ./figures/citation_graphs/Economics.png
+INPUT ./figures/citation_graphs/Ethnic & cultural studies.png
+INPUT figures/citation_graphs/Ethnic & cultural studies.png
+INPUT ./figures/citation_graphs/Ethnic & cultural studies.png
+INPUT ./figures/citation_graphs/Ethnic & cultural studies.png
+INPUT ./figures/citation_graphs/Gender studies.png
+INPUT figures/citation_graphs/Gender studies.png
+INPUT ./figures/citation_graphs/Gender studies.png
+INPUT ./figures/citation_graphs/Gender studies.png
+INPUT ./figures/citation_graphs/Genetics & genomics.png
+INPUT figures/citation_graphs/Genetics & genomics.png
+INPUT ./figures/citation_graphs/Genetics & genomics.png
+INPUT ./figures/citation_graphs/Genetics & genomics.png
+INPUT ./figures/citation_graphs/Geometry.png
+INPUT figures/citation_graphs/Geometry.png
+INPUT ./figures/citation_graphs/Geometry.png
+INPUT ./figures/citation_graphs/Geometry.png
+INPUT ./figures/citation_graphs/Geophysics.png
+INPUT figures/citation_graphs/Geophysics.png
+INPUT ./figures/citation_graphs/Geophysics.png
+INPUT ./figures/citation_graphs/Geophysics.png
+INPUT ./figures/citation_graphs/Human resources & organizations.png
+INPUT figures/citation_graphs/Human resources & organizations.png
+INPUT ./figures/citation_graphs/Human resources & organizations.png
+INPUT ./figures/citation_graphs/Human resources & organizations.png
+INPUT ./figures/citation_graphs/Immunology.png
+INPUT figures/citation_graphs/Immunology.png
+INPUT ./figures/citation_graphs/Immunology.png
+INPUT ./figures/citation_graphs/Immunology.png
+INPUT ./figures/citation_graphs/International business.png
+INPUT figures/citation_graphs/International business.png
+INPUT ./figures/citation_graphs/International business.png
+INPUT ./figures/citation_graphs/International business.png
+INPUT ./figures/citation_graphs/Language & linguistics.png
+INPUT figures/citation_graphs/Language & linguistics.png
+INPUT ./figures/citation_graphs/Language & linguistics.png
+INPUT ./figures/citation_graphs/Language & linguistics.png
+INPUT ./figures/citation_graphs/Material engineering.png
+INPUT figures/citation_graphs/Material engineering.png
+INPUT ./figures/citation_graphs/Material engineering.png
+INPUT ./figures/citation_graphs/Material engineering.png
+INPUT ./figures/citation_graphs/Neurology.png
+INPUT figures/citation_graphs/Neurology.png
+INPUT ./figures/citation_graphs/Neurology.png
+INPUT ./figures/citation_graphs/Neurology.png
+INPUT ./figures/citation_graphs/Political science.png
+INPUT figures/citation_graphs/Political science.png
+INPUT ./figures/citation_graphs/Political science.png
+INPUT ./figures/citation_graphs/Political science.png
+INPUT ./figures/citation_graphs/Probability & statistics.png
+INPUT figures/citation_graphs/Probability & statistics.png
+INPUT ./figures/citation_graphs/Probability & statistics.png
+INPUT ./figures/citation_graphs/Probability & statistics.png
+INPUT ./figures/citation_graphs/Sociology.png
+INPUT figures/citation_graphs/Sociology.png
+INPUT ./figures/citation_graphs/Sociology.png
+INPUT ./figures/citation_graphs/Sociology.png
+INPUT ./figures/citation_temp_cum_dist/Artificial intelligence.png
+INPUT figures/citation_temp_cum_dist/Artificial intelligence.png
+INPUT ./figures/citation_temp_cum_dist/Artificial intelligence.png
+INPUT ./figures/citation_temp_cum_dist/Artificial intelligence.png
+INPUT ./figures/citation_temp_cum_dist/Economics.png
+INPUT figures/citation_temp_cum_dist/Economics.png
+INPUT ./figures/citation_temp_cum_dist/Economics.png
+INPUT ./figures/citation_temp_cum_dist/Economics.png
+INPUT ./figures/citation_temp_cum_dist/Ethnic & cultural studies.png
+INPUT figures/citation_temp_cum_dist/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_cum_dist/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_cum_dist/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_cum_dist/Gender studies.png
+INPUT figures/citation_temp_cum_dist/Gender studies.png
+INPUT ./figures/citation_temp_cum_dist/Gender studies.png
+INPUT ./figures/citation_temp_cum_dist/Gender studies.png
+INPUT ./figures/citation_temp_cum_dist/Genetics & genomics.png
+INPUT figures/citation_temp_cum_dist/Genetics & genomics.png
+INPUT ./figures/citation_temp_cum_dist/Genetics & genomics.png
+INPUT ./figures/citation_temp_cum_dist/Genetics & genomics.png
+INPUT ./figures/citation_temp_cum_dist/Geometry.png
+INPUT figures/citation_temp_cum_dist/Geometry.png
+INPUT ./figures/citation_temp_cum_dist/Geometry.png
+INPUT ./figures/citation_temp_cum_dist/Geometry.png
+INPUT ./figures/citation_temp_cum_dist/Geophysics.png
+INPUT figures/citation_temp_cum_dist/Geophysics.png
+INPUT ./figures/citation_temp_cum_dist/Geophysics.png
+INPUT ./figures/citation_temp_cum_dist/Geophysics.png
+INPUT ./figures/citation_temp_cum_dist/Human resources & organizations.png
+INPUT figures/citation_temp_cum_dist/Human resources & organizations.png
+INPUT ./figures/citation_temp_cum_dist/Human resources & organizations.png
+INPUT ./figures/citation_temp_cum_dist/Human resources & organizations.png
+INPUT ./figures/citation_temp_cum_dist/Immunology.png
+INPUT figures/citation_temp_cum_dist/Immunology.png
+INPUT ./figures/citation_temp_cum_dist/Immunology.png
+INPUT ./figures/citation_temp_cum_dist/Immunology.png
+INPUT ./figures/citation_temp_cum_dist/International business.png
+INPUT figures/citation_temp_cum_dist/International business.png
+INPUT ./figures/citation_temp_cum_dist/International business.png
+INPUT ./figures/citation_temp_cum_dist/International business.png
+INPUT ./figures/citation_temp_cum_dist/Language & linguistics.png
+INPUT figures/citation_temp_cum_dist/Language & linguistics.png
+INPUT ./figures/citation_temp_cum_dist/Language & linguistics.png
+INPUT ./figures/citation_temp_cum_dist/Language & linguistics.png
+INPUT ./figures/citation_temp_cum_dist/Material engineering.png
+INPUT figures/citation_temp_cum_dist/Material engineering.png
+INPUT ./figures/citation_temp_cum_dist/Material engineering.png
+INPUT ./figures/citation_temp_cum_dist/Material engineering.png
+INPUT ./figures/citation_temp_cum_dist/Neurology.png
+INPUT figures/citation_temp_cum_dist/Neurology.png
+INPUT ./figures/citation_temp_cum_dist/Neurology.png
+INPUT ./figures/citation_temp_cum_dist/Neurology.png
+INPUT ./figures/citation_temp_cum_dist/Political science.png
+INPUT figures/citation_temp_cum_dist/Political science.png
+INPUT ./figures/citation_temp_cum_dist/Political science.png
+INPUT ./figures/citation_temp_cum_dist/Political science.png
+INPUT ./figures/citation_temp_cum_dist/Probability & statistics.png
+INPUT figures/citation_temp_cum_dist/Probability & statistics.png
+INPUT ./figures/citation_temp_cum_dist/Probability & statistics.png
+INPUT ./figures/citation_temp_cum_dist/Probability & statistics.png
+INPUT ./figures/citation_temp_cum_dist/Sociology.png
+INPUT figures/citation_temp_cum_dist/Sociology.png
+INPUT ./figures/citation_temp_cum_dist/Sociology.png
+INPUT ./figures/citation_temp_cum_dist/Sociology.png
+INPUT ./figures/citation_deg_dist/Artificial intelligence.png
+INPUT figures/citation_deg_dist/Artificial intelligence.png
+INPUT ./figures/citation_deg_dist/Artificial intelligence.png
+INPUT ./figures/citation_deg_dist/Artificial intelligence.png
+INPUT ./figures/citation_deg_dist/Economics.png
+INPUT figures/citation_deg_dist/Economics.png
+INPUT ./figures/citation_deg_dist/Economics.png
+INPUT ./figures/citation_deg_dist/Economics.png
+INPUT ./figures/citation_deg_dist/Ethnic & cultural studies.png
+INPUT figures/citation_deg_dist/Ethnic & cultural studies.png
+INPUT ./figures/citation_deg_dist/Ethnic & cultural studies.png
+INPUT ./figures/citation_deg_dist/Ethnic & cultural studies.png
+INPUT ./figures/citation_deg_dist/Gender studies.png
+INPUT figures/citation_deg_dist/Gender studies.png
+INPUT ./figures/citation_deg_dist/Gender studies.png
+INPUT ./figures/citation_deg_dist/Gender studies.png
+INPUT ./figures/citation_deg_dist/Genetics & genomics.png
+INPUT figures/citation_deg_dist/Genetics & genomics.png
+INPUT ./figures/citation_deg_dist/Genetics & genomics.png
+INPUT ./figures/citation_deg_dist/Genetics & genomics.png
+INPUT ./figures/citation_deg_dist/Geometry.png
+INPUT figures/citation_deg_dist/Geometry.png
+INPUT ./figures/citation_deg_dist/Geometry.png
+INPUT ./figures/citation_deg_dist/Geometry.png
+INPUT ./figures/citation_deg_dist/Geophysics.png
+INPUT figures/citation_deg_dist/Geophysics.png
+INPUT ./figures/citation_deg_dist/Geophysics.png
+INPUT ./figures/citation_deg_dist/Geophysics.png
+INPUT ./figures/citation_deg_dist/Human resources & organizations.png
+INPUT figures/citation_deg_dist/Human resources & organizations.png
+INPUT ./figures/citation_deg_dist/Human resources & organizations.png
+INPUT ./figures/citation_deg_dist/Human resources & organizations.png
+INPUT ./figures/citation_deg_dist/Immunology.png
+INPUT figures/citation_deg_dist/Immunology.png
+INPUT ./figures/citation_deg_dist/Immunology.png
+INPUT ./figures/citation_deg_dist/Immunology.png
+INPUT ./figures/citation_deg_dist/International business.png
+INPUT figures/citation_deg_dist/International business.png
+INPUT ./figures/citation_deg_dist/International business.png
+INPUT ./figures/citation_deg_dist/International business.png
+INPUT ./figures/citation_deg_dist/Language & linguistics.png
+INPUT figures/citation_deg_dist/Language & linguistics.png
+INPUT ./figures/citation_deg_dist/Language & linguistics.png
+INPUT ./figures/citation_deg_dist/Language & linguistics.png
+INPUT ./figures/citation_deg_dist/Material engineering.png
+INPUT figures/citation_deg_dist/Material engineering.png
+INPUT ./figures/citation_deg_dist/Material engineering.png
+INPUT ./figures/citation_deg_dist/Material engineering.png
+INPUT ./figures/citation_deg_dist/Neurology.png
+INPUT figures/citation_deg_dist/Neurology.png
+INPUT ./figures/citation_deg_dist/Neurology.png
+INPUT ./figures/citation_deg_dist/Neurology.png
+INPUT ./figures/citation_deg_dist/Political science.png
+INPUT figures/citation_deg_dist/Political science.png
+INPUT ./figures/citation_deg_dist/Political science.png
+INPUT ./figures/citation_deg_dist/Political science.png
+INPUT ./figures/citation_deg_dist/Probability & statistics.png
+INPUT figures/citation_deg_dist/Probability & statistics.png
+INPUT ./figures/citation_deg_dist/Probability & statistics.png
+INPUT ./figures/citation_deg_dist/Probability & statistics.png
+INPUT ./figures/citation_deg_dist/Sociology.png
+INPUT figures/citation_deg_dist/Sociology.png
+INPUT ./figures/citation_deg_dist/Sociology.png
+INPUT ./figures/citation_deg_dist/Sociology.png
+INPUT ./tables/citation_desc_stats.tex
+INPUT ./tables/citation_desc_stats.tex
+INPUT ./tables/citation_desc_stats.tex
+INPUT tables/citation_desc_stats.tex
+INPUT ./tables/citation_desc_stats.tex
+INPUT ./tables/citation_desc_stats.tex
+INPUT tables/citation_desc_stats.tex
+INPUT ./tables/citation_ref_dates.tex
+INPUT ./tables/citation_ref_dates.tex
+INPUT ./tables/citation_ref_dates.tex
+INPUT tables/citation_ref_dates.tex
+INPUT ./tables/citation_ref_dates.tex
+INPUT ./tables/citation_ref_dates.tex
+INPUT tables/citation_ref_dates.tex
+INPUT ./figures/citation_ref_dates/Artificial intelligence.png
+INPUT figures/citation_ref_dates/Artificial intelligence.png
+INPUT ./figures/citation_ref_dates/Artificial intelligence.png
+INPUT ./figures/citation_ref_dates/Artificial intelligence.png
+INPUT ./figures/citation_ref_dates/Economics.png
+INPUT figures/citation_ref_dates/Economics.png
+INPUT ./figures/citation_ref_dates/Economics.png
+INPUT ./figures/citation_ref_dates/Economics.png
+INPUT ./figures/citation_ref_dates/Ethnic & cultural studies.png
+INPUT figures/citation_ref_dates/Ethnic & cultural studies.png
+INPUT ./figures/citation_ref_dates/Ethnic & cultural studies.png
+INPUT ./figures/citation_ref_dates/Ethnic & cultural studies.png
+INPUT ./figures/citation_ref_dates/Gender studies.png
+INPUT figures/citation_ref_dates/Gender studies.png
+INPUT ./figures/citation_ref_dates/Gender studies.png
+INPUT ./figures/citation_ref_dates/Gender studies.png
+INPUT ./figures/citation_ref_dates/Genetics & genomics.png
+INPUT figures/citation_ref_dates/Genetics & genomics.png
+INPUT ./figures/citation_ref_dates/Genetics & genomics.png
+INPUT ./figures/citation_ref_dates/Genetics & genomics.png
+INPUT ./figures/citation_ref_dates/Geometry.png
+INPUT figures/citation_ref_dates/Geometry.png
+INPUT ./figures/citation_ref_dates/Geometry.png
+INPUT ./figures/citation_ref_dates/Geometry.png
+INPUT ./figures/citation_ref_dates/Geophysics.png
+INPUT figures/citation_ref_dates/Geophysics.png
+INPUT ./figures/citation_ref_dates/Geophysics.png
+INPUT ./figures/citation_ref_dates/Geophysics.png
+INPUT ./figures/citation_ref_dates/Human resources & organizations.png
+INPUT figures/citation_ref_dates/Human resources & organizations.png
+INPUT ./figures/citation_ref_dates/Human resources & organizations.png
+INPUT ./figures/citation_ref_dates/Human resources & organizations.png
+INPUT ./figures/citation_ref_dates/Immunology.png
+INPUT figures/citation_ref_dates/Immunology.png
+INPUT ./figures/citation_ref_dates/Immunology.png
+INPUT ./figures/citation_ref_dates/Immunology.png
+INPUT ./figures/citation_ref_dates/International business.png
+INPUT figures/citation_ref_dates/International business.png
+INPUT ./figures/citation_ref_dates/International business.png
+INPUT ./figures/citation_ref_dates/International business.png
+INPUT ./figures/citation_ref_dates/Language & linguistics.png
+INPUT figures/citation_ref_dates/Language & linguistics.png
+INPUT ./figures/citation_ref_dates/Language & linguistics.png
+INPUT ./figures/citation_ref_dates/Language & linguistics.png
+INPUT ./figures/citation_ref_dates/Material engineering.png
+INPUT figures/citation_ref_dates/Material engineering.png
+INPUT ./figures/citation_ref_dates/Material engineering.png
+INPUT ./figures/citation_ref_dates/Material engineering.png
+INPUT ./figures/citation_ref_dates/Neurology.png
+INPUT figures/citation_ref_dates/Neurology.png
+INPUT ./figures/citation_ref_dates/Neurology.png
+INPUT ./figures/citation_ref_dates/Neurology.png
+INPUT ./figures/citation_ref_dates/Political science.png
+INPUT figures/citation_ref_dates/Political science.png
+INPUT ./figures/citation_ref_dates/Political science.png
+INPUT ./figures/citation_ref_dates/Political science.png
+INPUT ./figures/citation_ref_dates/Probability & statistics.png
+INPUT figures/citation_ref_dates/Probability & statistics.png
+INPUT ./figures/citation_ref_dates/Probability & statistics.png
+INPUT ./figures/citation_ref_dates/Probability & statistics.png
+INPUT ./figures/citation_ref_dates/Sociology.png
+INPUT figures/citation_ref_dates/Sociology.png
+INPUT ./figures/citation_ref_dates/Sociology.png
+INPUT ./figures/citation_ref_dates/Sociology.png
+INPUT ./figures/co_citation_node_distance_dist/Artificial intelligence.png
+INPUT figures/co_citation_node_distance_dist/Artificial intelligence.png
+INPUT ./figures/co_citation_node_distance_dist/Artificial intelligence.png
+INPUT ./figures/co_citation_node_distance_dist/Artificial intelligence.png
+INPUT ./figures/co_citation_node_distance_dist/Economics.png
+INPUT figures/co_citation_node_distance_dist/Economics.png
+INPUT ./figures/co_citation_node_distance_dist/Economics.png
+INPUT ./figures/co_citation_node_distance_dist/Economics.png
+INPUT ./figures/co_citation_node_distance_dist/Ethnic & cultural studies.png
+INPUT figures/co_citation_node_distance_dist/Ethnic & cultural studies.png
+INPUT ./figures/co_citation_node_distance_dist/Ethnic & cultural studies.png
+INPUT ./figures/co_citation_node_distance_dist/Ethnic & cultural studies.png
+INPUT ./figures/co_citation_node_distance_dist/Gender studies.png
+INPUT figures/co_citation_node_distance_dist/Gender studies.png
+INPUT ./figures/co_citation_node_distance_dist/Gender studies.png
+INPUT ./figures/co_citation_node_distance_dist/Gender studies.png
+INPUT ./figures/co_citation_node_distance_dist/Genetics & genomics.png
+INPUT figures/co_citation_node_distance_dist/Genetics & genomics.png
+INPUT ./figures/co_citation_node_distance_dist/Genetics & genomics.png
+INPUT ./figures/co_citation_node_distance_dist/Genetics & genomics.png
+INPUT ./figures/co_citation_node_distance_dist/Geometry.png
+INPUT figures/co_citation_node_distance_dist/Geometry.png
+INPUT ./figures/co_citation_node_distance_dist/Geometry.png
+INPUT ./figures/co_citation_node_distance_dist/Geometry.png
+INPUT ./figures/co_citation_node_distance_dist/Geophysics.png
+INPUT figures/co_citation_node_distance_dist/Geophysics.png
+INPUT ./figures/co_citation_node_distance_dist/Geophysics.png
+INPUT ./figures/co_citation_node_distance_dist/Geophysics.png
+INPUT ./figures/co_citation_node_distance_dist/Human resources & organizations.png
+INPUT figures/co_citation_node_distance_dist/Human resources & organizations.png
+INPUT ./figures/co_citation_node_distance_dist/Human resources & organizations.png
+INPUT ./figures/co_citation_node_distance_dist/Human resources & organizations.png
+INPUT ./figures/co_citation_node_distance_dist/Immunology.png
+INPUT figures/co_citation_node_distance_dist/Immunology.png
+INPUT ./figures/co_citation_node_distance_dist/Immunology.png
+INPUT ./figures/co_citation_node_distance_dist/Immunology.png
+INPUT ./figures/co_citation_node_distance_dist/International business.png
+INPUT figures/co_citation_node_distance_dist/International business.png
+INPUT ./figures/co_citation_node_distance_dist/International business.png
+INPUT ./figures/co_citation_node_distance_dist/International business.png
+INPUT ./figures/co_citation_node_distance_dist/Language & linguistics.png
+INPUT figures/co_citation_node_distance_dist/Language & linguistics.png
+INPUT ./figures/co_citation_node_distance_dist/Language & linguistics.png
+INPUT ./figures/co_citation_node_distance_dist/Language & linguistics.png
+INPUT ./figures/co_citation_node_distance_dist/Material engineering.png
+INPUT figures/co_citation_node_distance_dist/Material engineering.png
+INPUT ./figures/co_citation_node_distance_dist/Material engineering.png
+INPUT ./figures/co_citation_node_distance_dist/Material engineering.png
+INPUT ./figures/co_citation_node_distance_dist/Neurology.png
+INPUT figures/co_citation_node_distance_dist/Neurology.png
+INPUT ./figures/co_citation_node_distance_dist/Neurology.png
+INPUT ./figures/co_citation_node_distance_dist/Neurology.png
+INPUT ./figures/co_citation_node_distance_dist/Political science.png
+INPUT figures/co_citation_node_distance_dist/Political science.png
+INPUT ./figures/co_citation_node_distance_dist/Political science.png
+INPUT ./figures/co_citation_node_distance_dist/Political science.png
+INPUT ./figures/co_citation_node_distance_dist/Probability & statistics.png
+INPUT figures/co_citation_node_distance_dist/Probability & statistics.png
+INPUT ./figures/co_citation_node_distance_dist/Probability & statistics.png
+INPUT ./figures/co_citation_node_distance_dist/Probability & statistics.png
+INPUT ./figures/co_citation_node_distance_dist/Sociology.png
+INPUT figures/co_citation_node_distance_dist/Sociology.png
+INPUT ./figures/co_citation_node_distance_dist/Sociology.png
+INPUT ./figures/co_citation_node_distance_dist/Sociology.png
+INPUT ./figures/citation_temp_dag_longest_path/Artificial intelligence.png
+INPUT figures/citation_temp_dag_longest_path/Artificial intelligence.png
+INPUT ./figures/citation_temp_dag_longest_path/Artificial intelligence.png
+INPUT ./figures/citation_temp_dag_longest_path/Artificial intelligence.png
+INPUT ./figures/citation_temp_dag_longest_path/Economics.png
+INPUT figures/citation_temp_dag_longest_path/Economics.png
+INPUT ./figures/citation_temp_dag_longest_path/Economics.png
+INPUT ./figures/citation_temp_dag_longest_path/Economics.png
+INPUT ./figures/citation_temp_dag_longest_path/Ethnic & cultural studies.png
+INPUT figures/citation_temp_dag_longest_path/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_dag_longest_path/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_dag_longest_path/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_dag_longest_path/Gender studies.png
+INPUT figures/citation_temp_dag_longest_path/Gender studies.png
+INPUT ./figures/citation_temp_dag_longest_path/Gender studies.png
+INPUT ./figures/citation_temp_dag_longest_path/Gender studies.png
+INPUT ./figures/citation_temp_dag_longest_path/Genetics & genomics.png
+INPUT figures/citation_temp_dag_longest_path/Genetics & genomics.png
+INPUT ./figures/citation_temp_dag_longest_path/Genetics & genomics.png
+INPUT ./figures/citation_temp_dag_longest_path/Genetics & genomics.png
+INPUT ./figures/citation_temp_dag_longest_path/Geometry.png
+INPUT figures/citation_temp_dag_longest_path/Geometry.png
+INPUT ./figures/citation_temp_dag_longest_path/Geometry.png
+INPUT ./figures/citation_temp_dag_longest_path/Geometry.png
+INPUT ./figures/citation_temp_dag_longest_path/Geophysics.png
+INPUT figures/citation_temp_dag_longest_path/Geophysics.png
+INPUT ./figures/citation_temp_dag_longest_path/Geophysics.png
+INPUT ./figures/citation_temp_dag_longest_path/Geophysics.png
+INPUT ./figures/citation_temp_dag_longest_path/Human resources & organizations.png
+INPUT figures/citation_temp_dag_longest_path/Human resources & organizations.png
+INPUT ./figures/citation_temp_dag_longest_path/Human resources & organizations.png
+INPUT ./figures/citation_temp_dag_longest_path/Human resources & organizations.png
+INPUT ./figures/citation_temp_dag_longest_path/Immunology.png
+INPUT figures/citation_temp_dag_longest_path/Immunology.png
+INPUT ./figures/citation_temp_dag_longest_path/Immunology.png
+INPUT ./figures/citation_temp_dag_longest_path/Immunology.png
+INPUT ./figures/citation_temp_dag_longest_path/International business.png
+INPUT figures/citation_temp_dag_longest_path/International business.png
+INPUT ./figures/citation_temp_dag_longest_path/International business.png
+INPUT ./figures/citation_temp_dag_longest_path/International business.png
+INPUT ./figures/citation_temp_dag_longest_path/Language & linguistics.png
+INPUT figures/citation_temp_dag_longest_path/Language & linguistics.png
+INPUT ./figures/citation_temp_dag_longest_path/Language & linguistics.png
+INPUT ./figures/citation_temp_dag_longest_path/Language & linguistics.png
+INPUT ./figures/citation_temp_dag_longest_path/Material engineering.png
+INPUT figures/citation_temp_dag_longest_path/Material engineering.png
+INPUT ./figures/citation_temp_dag_longest_path/Material engineering.png
+INPUT ./figures/citation_temp_dag_longest_path/Material engineering.png
+INPUT ./figures/citation_temp_dag_longest_path/Neurology.png
+INPUT figures/citation_temp_dag_longest_path/Neurology.png
+INPUT ./figures/citation_temp_dag_longest_path/Neurology.png
+INPUT ./figures/citation_temp_dag_longest_path/Neurology.png
+INPUT ./figures/citation_temp_dag_longest_path/Political science.png
+INPUT figures/citation_temp_dag_longest_path/Political science.png
+INPUT ./figures/citation_temp_dag_longest_path/Political science.png
+INPUT ./figures/citation_temp_dag_longest_path/Political science.png
+INPUT ./figures/citation_temp_dag_longest_path/Probability & statistics.png
+INPUT figures/citation_temp_dag_longest_path/Probability & statistics.png
+INPUT ./figures/citation_temp_dag_longest_path/Probability & statistics.png
+INPUT ./figures/citation_temp_dag_longest_path/Probability & statistics.png
+INPUT ./figures/citation_temp_dag_longest_path/Sociology.png
+INPUT figures/citation_temp_dag_longest_path/Sociology.png
+INPUT ./figures/citation_temp_dag_longest_path/Sociology.png
+INPUT ./figures/citation_temp_dag_longest_path/Sociology.png
+INPUT ./figures/citation_temp_avg_geodesic/Artificial intelligence.png
+INPUT figures/citation_temp_avg_geodesic/Artificial intelligence.png
+INPUT ./figures/citation_temp_avg_geodesic/Artificial intelligence.png
+INPUT ./figures/citation_temp_avg_geodesic/Artificial intelligence.png
+INPUT ./figures/citation_temp_avg_geodesic/Economics.png
+INPUT figures/citation_temp_avg_geodesic/Economics.png
+INPUT ./figures/citation_temp_avg_geodesic/Economics.png
+INPUT ./figures/citation_temp_avg_geodesic/Economics.png
+INPUT ./figures/citation_temp_avg_geodesic/Gender studies.png
+INPUT figures/citation_temp_avg_geodesic/Gender studies.png
+INPUT ./figures/citation_temp_avg_geodesic/Gender studies.png
+INPUT ./figures/citation_temp_avg_geodesic/Gender studies.png
+INPUT ./figures/citation_temp_avg_geodesic/Genetics & genomics.png
+INPUT figures/citation_temp_avg_geodesic/Genetics & genomics.png
+INPUT ./figures/citation_temp_avg_geodesic/Genetics & genomics.png
+INPUT ./figures/citation_temp_avg_geodesic/Genetics & genomics.png
+INPUT ./figures/citation_temp_avg_geodesic/Geometry.png
+INPUT figures/citation_temp_avg_geodesic/Geometry.png
+INPUT ./figures/citation_temp_avg_geodesic/Geometry.png
+INPUT ./figures/citation_temp_avg_geodesic/Geometry.png
+INPUT ./figures/citation_temp_avg_geodesic/Geophysics.png
+INPUT figures/citation_temp_avg_geodesic/Geophysics.png
+INPUT ./figures/citation_temp_avg_geodesic/Geophysics.png
+INPUT ./figures/citation_temp_avg_geodesic/Geophysics.png
+INPUT ./figures/citation_temp_avg_geodesic/Immunology.png
+INPUT figures/citation_temp_avg_geodesic/Immunology.png
+INPUT ./figures/citation_temp_avg_geodesic/Immunology.png
+INPUT ./figures/citation_temp_avg_geodesic/Immunology.png
+INPUT ./figures/citation_temp_avg_geodesic/International business.png
+INPUT figures/citation_temp_avg_geodesic/International business.png
+INPUT ./figures/citation_temp_avg_geodesic/International business.png
+INPUT ./figures/citation_temp_avg_geodesic/International business.png
+INPUT ./figures/citation_temp_avg_geodesic/Language & linguistics.png
+INPUT figures/citation_temp_avg_geodesic/Language & linguistics.png
+INPUT ./figures/citation_temp_avg_geodesic/Language & linguistics.png
+INPUT ./figures/citation_temp_avg_geodesic/Language & linguistics.png
+INPUT ./figures/citation_temp_avg_geodesic/Material engineering.png
+INPUT figures/citation_temp_avg_geodesic/Material engineering.png
+INPUT ./figures/citation_temp_avg_geodesic/Material engineering.png
+INPUT ./figures/citation_temp_avg_geodesic/Material engineering.png
+INPUT ./figures/citation_temp_avg_geodesic/Political science.png
+INPUT figures/citation_temp_avg_geodesic/Political science.png
+INPUT ./figures/citation_temp_avg_geodesic/Political science.png
+INPUT ./figures/citation_temp_avg_geodesic/Political science.png
+INPUT ./figures/citation_temp_avg_geodesic/Probability & statistics.png
+INPUT figures/citation_temp_avg_geodesic/Probability & statistics.png
+INPUT ./figures/citation_temp_avg_geodesic/Probability & statistics.png
+INPUT ./figures/citation_temp_avg_geodesic/Probability & statistics.png
+INPUT ./figures/citation_temp_avg_geodesic/Sociology.png
+INPUT figures/citation_temp_avg_geodesic/Sociology.png
+INPUT ./figures/citation_temp_avg_geodesic/Sociology.png
+INPUT ./figures/citation_temp_avg_geodesic/Sociology.png
+INPUT ./figures/citation_temp_transitivity/Artificial intelligence.png
+INPUT figures/citation_temp_transitivity/Artificial intelligence.png
+INPUT ./figures/citation_temp_transitivity/Artificial intelligence.png
+INPUT ./figures/citation_temp_transitivity/Artificial intelligence.png
+INPUT ./figures/citation_temp_transitivity/Economics.png
+INPUT figures/citation_temp_transitivity/Economics.png
+INPUT ./figures/citation_temp_transitivity/Economics.png
+INPUT ./figures/citation_temp_transitivity/Economics.png
+INPUT ./figures/citation_temp_transitivity/Ethnic & cultural studies.png
+INPUT figures/citation_temp_transitivity/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_transitivity/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_transitivity/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_transitivity/Gender studies.png
+INPUT figures/citation_temp_transitivity/Gender studies.png
+INPUT ./figures/citation_temp_transitivity/Gender studies.png
+INPUT ./figures/citation_temp_transitivity/Gender studies.png
+INPUT ./figures/citation_temp_transitivity/Genetics & genomics.png
+INPUT figures/citation_temp_transitivity/Genetics & genomics.png
+INPUT ./figures/citation_temp_transitivity/Genetics & genomics.png
+INPUT ./figures/citation_temp_transitivity/Genetics & genomics.png
+INPUT ./figures/citation_temp_transitivity/Geometry.png
+INPUT figures/citation_temp_transitivity/Geometry.png
+INPUT ./figures/citation_temp_transitivity/Geometry.png
+INPUT ./figures/citation_temp_transitivity/Geometry.png
+INPUT ./figures/citation_temp_transitivity/Geophysics.png
+INPUT figures/citation_temp_transitivity/Geophysics.png
+INPUT ./figures/citation_temp_transitivity/Geophysics.png
+INPUT ./figures/citation_temp_transitivity/Geophysics.png
+INPUT ./figures/citation_temp_transitivity/Human resources & organizations.png
+INPUT figures/citation_temp_transitivity/Human resources & organizations.png
+INPUT ./figures/citation_temp_transitivity/Human resources & organizations.png
+INPUT ./figures/citation_temp_transitivity/Human resources & organizations.png
+INPUT ./figures/citation_temp_transitivity/Immunology.png
+INPUT figures/citation_temp_transitivity/Immunology.png
+INPUT ./figures/citation_temp_transitivity/Immunology.png
+INPUT ./figures/citation_temp_transitivity/Immunology.png
+INPUT ./figures/citation_temp_transitivity/International business.png
+INPUT figures/citation_temp_transitivity/International business.png
+INPUT ./figures/citation_temp_transitivity/International business.png
+INPUT ./figures/citation_temp_transitivity/International business.png
+INPUT ./figures/citation_temp_transitivity/Language & linguistics.png
+INPUT figures/citation_temp_transitivity/Language & linguistics.png
+INPUT ./figures/citation_temp_transitivity/Language & linguistics.png
+INPUT ./figures/citation_temp_transitivity/Language & linguistics.png
+INPUT ./figures/citation_temp_transitivity/Material engineering.png
+INPUT figures/citation_temp_transitivity/Material engineering.png
+INPUT ./figures/citation_temp_transitivity/Material engineering.png
+INPUT ./figures/citation_temp_transitivity/Material engineering.png
+INPUT ./figures/citation_temp_transitivity/Neurology.png
+INPUT figures/citation_temp_transitivity/Neurology.png
+INPUT ./figures/citation_temp_transitivity/Neurology.png
+INPUT ./figures/citation_temp_transitivity/Neurology.png
+INPUT ./figures/citation_temp_transitivity/Political science.png
+INPUT figures/citation_temp_transitivity/Political science.png
+INPUT ./figures/citation_temp_transitivity/Political science.png
+INPUT ./figures/citation_temp_transitivity/Political science.png
+INPUT ./figures/citation_temp_transitivity/Probability & statistics.png
+INPUT figures/citation_temp_transitivity/Probability & statistics.png
+INPUT ./figures/citation_temp_transitivity/Probability & statistics.png
+INPUT ./figures/citation_temp_transitivity/Probability & statistics.png
+INPUT ./figures/citation_temp_transitivity/Sociology.png
+INPUT figures/citation_temp_transitivity/Sociology.png
+INPUT ./figures/citation_temp_transitivity/Sociology.png
+INPUT ./figures/citation_temp_transitivity/Sociology.png
+INPUT ./figures/citation_temp_top_centrality/Artificial intelligence.png
+INPUT figures/citation_temp_top_centrality/Artificial intelligence.png
+INPUT ./figures/citation_temp_top_centrality/Artificial intelligence.png
+INPUT ./figures/citation_temp_top_centrality/Artificial intelligence.png
+INPUT ./figures/citation_temp_top_centrality/Economics.png
+INPUT figures/citation_temp_top_centrality/Economics.png
+INPUT ./figures/citation_temp_top_centrality/Economics.png
+INPUT ./figures/citation_temp_top_centrality/Economics.png
+INPUT ./figures/citation_temp_top_centrality/Ethnic & cultural studies.png
+INPUT figures/citation_temp_top_centrality/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_top_centrality/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_top_centrality/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_top_centrality/Gender studies.png
+INPUT figures/citation_temp_top_centrality/Gender studies.png
+INPUT ./figures/citation_temp_top_centrality/Gender studies.png
+INPUT ./figures/citation_temp_top_centrality/Gender studies.png
+INPUT ./figures/citation_temp_top_centrality/Genetics & genomics.png
+INPUT figures/citation_temp_top_centrality/Genetics & genomics.png
+INPUT ./figures/citation_temp_top_centrality/Genetics & genomics.png
+INPUT ./figures/citation_temp_top_centrality/Genetics & genomics.png
+INPUT ./figures/citation_temp_top_centrality/Geometry.png
+INPUT figures/citation_temp_top_centrality/Geometry.png
+INPUT ./figures/citation_temp_top_centrality/Geometry.png
+INPUT ./figures/citation_temp_top_centrality/Geometry.png
+INPUT ./figures/citation_temp_top_centrality/Geophysics.png
+INPUT figures/citation_temp_top_centrality/Geophysics.png
+INPUT ./figures/citation_temp_top_centrality/Geophysics.png
+INPUT ./figures/citation_temp_top_centrality/Geophysics.png
+INPUT ./figures/citation_temp_top_centrality/Human resources & organizations.png
+INPUT figures/citation_temp_top_centrality/Human resources & organizations.png
+INPUT ./figures/citation_temp_top_centrality/Human resources & organizations.png
+INPUT ./figures/citation_temp_top_centrality/Human resources & organizations.png
+INPUT ./figures/citation_temp_top_centrality/Immunology.png
+INPUT figures/citation_temp_top_centrality/Immunology.png
+INPUT ./figures/citation_temp_top_centrality/Immunology.png
+INPUT ./figures/citation_temp_top_centrality/Immunology.png
+INPUT ./figures/citation_temp_top_centrality/International business.png
+INPUT figures/citation_temp_top_centrality/International business.png
+INPUT ./figures/citation_temp_top_centrality/International business.png
+INPUT ./figures/citation_temp_top_centrality/International business.png
+INPUT ./figures/citation_temp_top_centrality/Language & linguistics.png
+INPUT figures/citation_temp_top_centrality/Language & linguistics.png
+INPUT ./figures/citation_temp_top_centrality/Language & linguistics.png
+INPUT ./figures/citation_temp_top_centrality/Language & linguistics.png
+INPUT ./figures/citation_temp_top_centrality/Material engineering.png
+INPUT figures/citation_temp_top_centrality/Material engineering.png
+INPUT ./figures/citation_temp_top_centrality/Material engineering.png
+INPUT ./figures/citation_temp_top_centrality/Material engineering.png
+INPUT ./figures/citation_temp_top_centrality/Neurology.png
+INPUT figures/citation_temp_top_centrality/Neurology.png
+INPUT ./figures/citation_temp_top_centrality/Neurology.png
+INPUT ./figures/citation_temp_top_centrality/Neurology.png
+INPUT ./figures/citation_temp_top_centrality/Political science.png
+INPUT figures/citation_temp_top_centrality/Political science.png
+INPUT ./figures/citation_temp_top_centrality/Political science.png
+INPUT ./figures/citation_temp_top_centrality/Political science.png
+INPUT ./figures/citation_temp_top_centrality/Probability & statistics.png
+INPUT figures/citation_temp_top_centrality/Probability & statistics.png
+INPUT ./figures/citation_temp_top_centrality/Probability & statistics.png
+INPUT ./figures/citation_temp_top_centrality/Probability & statistics.png
+INPUT ./figures/citation_temp_top_centrality/Sociology.png
+INPUT figures/citation_temp_top_centrality/Sociology.png
+INPUT ./figures/citation_temp_top_centrality/Sociology.png
+INPUT ./figures/citation_temp_top_centrality/Sociology.png
+INPUT ./figures/citation_temp_avg_clustering/Artificial intelligence.png
+INPUT figures/citation_temp_avg_clustering/Artificial intelligence.png
+INPUT ./figures/citation_temp_avg_clustering/Artificial intelligence.png
+INPUT ./figures/citation_temp_avg_clustering/Artificial intelligence.png
+INPUT ./figures/citation_temp_avg_clustering/Economics.png
+INPUT figures/citation_temp_avg_clustering/Economics.png
+INPUT ./figures/citation_temp_avg_clustering/Economics.png
+INPUT ./figures/citation_temp_avg_clustering/Economics.png
+INPUT ./figures/citation_temp_avg_clustering/Ethnic & cultural studies.png
+INPUT figures/citation_temp_avg_clustering/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_avg_clustering/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_avg_clustering/Ethnic & cultural studies.png
+INPUT ./figures/citation_temp_avg_clustering/Gender studies.png
+INPUT figures/citation_temp_avg_clustering/Gender studies.png
+INPUT ./figures/citation_temp_avg_clustering/Gender studies.png
+INPUT ./figures/citation_temp_avg_clustering/Gender studies.png
+INPUT ./figures/citation_temp_avg_clustering/Genetics & genomics.png
+INPUT figures/citation_temp_avg_clustering/Genetics & genomics.png
+INPUT ./figures/citation_temp_avg_clustering/Genetics & genomics.png
+INPUT ./figures/citation_temp_avg_clustering/Genetics & genomics.png
+INPUT ./figures/citation_temp_avg_clustering/Geometry.png
+INPUT figures/citation_temp_avg_clustering/Geometry.png
+INPUT ./figures/citation_temp_avg_clustering/Geometry.png
+INPUT ./figures/citation_temp_avg_clustering/Geometry.png
+INPUT ./figures/citation_temp_avg_clustering/Geophysics.png
+INPUT figures/citation_temp_avg_clustering/Geophysics.png
+INPUT ./figures/citation_temp_avg_clustering/Geophysics.png
+INPUT ./figures/citation_temp_avg_clustering/Geophysics.png
+INPUT ./figures/citation_temp_avg_clustering/Human resources & organizations.png
+INPUT figures/citation_temp_avg_clustering/Human resources & organizations.png
+INPUT ./figures/citation_temp_avg_clustering/Human resources & organizations.png
+INPUT ./figures/citation_temp_avg_clustering/Human resources & organizations.png
+INPUT ./figures/citation_temp_avg_clustering/Immunology.png
+INPUT figures/citation_temp_avg_clustering/Immunology.png
+INPUT ./figures/citation_temp_avg_clustering/Immunology.png
+INPUT ./figures/citation_temp_avg_clustering/Immunology.png
+INPUT ./figures/citation_temp_avg_clustering/International business.png
+INPUT figures/citation_temp_avg_clustering/International business.png
+INPUT ./figures/citation_temp_avg_clustering/International business.png
+INPUT ./figures/citation_temp_avg_clustering/International business.png
+INPUT ./figures/citation_temp_avg_clustering/Language & linguistics.png
+INPUT figures/citation_temp_avg_clustering/Language & linguistics.png
+INPUT ./figures/citation_temp_avg_clustering/Language & linguistics.png
+INPUT ./figures/citation_temp_avg_clustering/Language & linguistics.png
+INPUT ./figures/citation_temp_avg_clustering/Material engineering.png
+INPUT figures/citation_temp_avg_clustering/Material engineering.png
+INPUT ./figures/citation_temp_avg_clustering/Material engineering.png
+INPUT ./figures/citation_temp_avg_clustering/Material engineering.png
+INPUT ./figures/citation_temp_avg_clustering/Neurology.png
+INPUT figures/citation_temp_avg_clustering/Neurology.png
+INPUT ./figures/citation_temp_avg_clustering/Neurology.png
+INPUT ./figures/citation_temp_avg_clustering/Neurology.png
+INPUT ./figures/citation_temp_avg_clustering/Political science.png
+INPUT figures/citation_temp_avg_clustering/Political science.png
+INPUT ./figures/citation_temp_avg_clustering/Political science.png
+INPUT ./figures/citation_temp_avg_clustering/Political science.png
+INPUT ./figures/citation_temp_avg_clustering/Probability & statistics.png
+INPUT figures/citation_temp_avg_clustering/Probability & statistics.png
+INPUT ./figures/citation_temp_avg_clustering/Probability & statistics.png
+INPUT ./figures/citation_temp_avg_clustering/Probability & statistics.png
+INPUT ./figures/citation_temp_avg_clustering/Sociology.png
+INPUT figures/citation_temp_avg_clustering/Sociology.png
+INPUT ./figures/citation_temp_avg_clustering/Sociology.png
+INPUT ./figures/citation_temp_avg_clustering/Sociology.png
+INPUT ./figures/generational_doc_dist/Artificial intelligence.png
+INPUT figures/generational_doc_dist/Artificial intelligence.png
+INPUT ./figures/generational_doc_dist/Artificial intelligence.png
+INPUT ./figures/generational_doc_dist/Artificial intelligence.png
+INPUT ./figures/generational_doc_dist/Economics.png
+INPUT figures/generational_doc_dist/Economics.png
+INPUT ./figures/generational_doc_dist/Economics.png
+INPUT ./figures/generational_doc_dist/Economics.png
+INPUT ./figures/generational_doc_dist/Ethnic & cultural studies.png
+INPUT figures/generational_doc_dist/Ethnic & cultural studies.png
+INPUT ./figures/generational_doc_dist/Ethnic & cultural studies.png
+INPUT ./figures/generational_doc_dist/Ethnic & cultural studies.png
+INPUT ./figures/generational_doc_dist/Gender studies.png
+INPUT figures/generational_doc_dist/Gender studies.png
+INPUT ./figures/generational_doc_dist/Gender studies.png
+INPUT ./figures/generational_doc_dist/Gender studies.png
+INPUT ./figures/generational_doc_dist/Genetics & genomics.png
+INPUT figures/generational_doc_dist/Genetics & genomics.png
+INPUT ./figures/generational_doc_dist/Genetics & genomics.png
+INPUT ./figures/generational_doc_dist/Genetics & genomics.png
+INPUT ./figures/generational_doc_dist/Geometry.png
+INPUT figures/generational_doc_dist/Geometry.png
+INPUT ./figures/generational_doc_dist/Geometry.png
+INPUT ./figures/generational_doc_dist/Geometry.png
+INPUT ./figures/generational_doc_dist/Geophysics.png
+INPUT figures/generational_doc_dist/Geophysics.png
+INPUT ./figures/generational_doc_dist/Geophysics.png
+INPUT ./figures/generational_doc_dist/Geophysics.png
+INPUT ./figures/generational_doc_dist/Human resources & organizations.png
+INPUT figures/generational_doc_dist/Human resources & organizations.png
+INPUT ./figures/generational_doc_dist/Human resources & organizations.png
+INPUT ./figures/generational_doc_dist/Human resources & organizations.png
+INPUT ./figures/generational_doc_dist/Immunology.png
+INPUT figures/generational_doc_dist/Immunology.png
+INPUT ./figures/generational_doc_dist/Immunology.png
+INPUT ./figures/generational_doc_dist/Immunology.png
+INPUT ./figures/generational_doc_dist/International business.png
+INPUT figures/generational_doc_dist/International business.png
+INPUT ./figures/generational_doc_dist/International business.png
+INPUT ./figures/generational_doc_dist/International business.png
+INPUT ./figures/generational_doc_dist/Language & linguistics.png
+INPUT figures/generational_doc_dist/Language & linguistics.png
+INPUT ./figures/generational_doc_dist/Language & linguistics.png
+INPUT ./figures/generational_doc_dist/Language & linguistics.png
+INPUT ./figures/generational_doc_dist/Material engineering.png
+INPUT figures/generational_doc_dist/Material engineering.png
+INPUT ./figures/generational_doc_dist/Material engineering.png
+INPUT ./figures/generational_doc_dist/Material engineering.png
+INPUT ./figures/generational_doc_dist/Neurology.png
+INPUT figures/generational_doc_dist/Neurology.png
+INPUT ./figures/generational_doc_dist/Neurology.png
+INPUT ./figures/generational_doc_dist/Neurology.png
+INPUT ./figures/generational_doc_dist/Political science.png
+INPUT figures/generational_doc_dist/Political science.png
+INPUT ./figures/generational_doc_dist/Political science.png
+INPUT ./figures/generational_doc_dist/Political science.png
+INPUT ./figures/generational_doc_dist/Probability & statistics.png
+INPUT figures/generational_doc_dist/Probability & statistics.png
+INPUT ./figures/generational_doc_dist/Probability & statistics.png
+INPUT ./figures/generational_doc_dist/Probability & statistics.png
+INPUT ./figures/generational_doc_dist/Sociology.png
+INPUT figures/generational_doc_dist/Sociology.png
+INPUT ./figures/generational_doc_dist/Sociology.png
+INPUT ./figures/generational_doc_dist/Sociology.png
+INPUT ./figures/term_temp_rank/Artificial intelligence.png
+INPUT figures/term_temp_rank/Artificial intelligence.png
+INPUT ./figures/term_temp_rank/Artificial intelligence.png
+INPUT ./figures/term_temp_rank/Artificial intelligence.png
+INPUT ./figures/term_temp_rank/Economics.png
+INPUT figures/term_temp_rank/Economics.png
+INPUT ./figures/term_temp_rank/Economics.png
+INPUT ./figures/term_temp_rank/Economics.png
+INPUT ./figures/term_temp_rank/Ethnic & cultural studies.png
+INPUT figures/term_temp_rank/Ethnic & cultural studies.png
+INPUT ./figures/term_temp_rank/Ethnic & cultural studies.png
+INPUT ./figures/term_temp_rank/Ethnic & cultural studies.png
+INPUT ./figures/term_temp_rank/Gender studies.png
+INPUT figures/term_temp_rank/Gender studies.png
+INPUT ./figures/term_temp_rank/Gender studies.png
+INPUT ./figures/term_temp_rank/Gender studies.png
+INPUT ./figures/term_temp_rank/Genetics & genomics.png
+INPUT figures/term_temp_rank/Genetics & genomics.png
+INPUT ./figures/term_temp_rank/Genetics & genomics.png
+INPUT ./figures/term_temp_rank/Genetics & genomics.png
+INPUT ./figures/term_temp_rank/Geometry.png
+INPUT figures/term_temp_rank/Geometry.png
+INPUT ./figures/term_temp_rank/Geometry.png
+INPUT ./figures/term_temp_rank/Geometry.png
+INPUT ./figures/term_temp_rank/Geophysics.png
+INPUT figures/term_temp_rank/Geophysics.png
+INPUT ./figures/term_temp_rank/Geophysics.png
+INPUT ./figures/term_temp_rank/Geophysics.png
+INPUT ./figures/term_temp_rank/Human resources & organizations.png
+INPUT figures/term_temp_rank/Human resources & organizations.png
+INPUT ./figures/term_temp_rank/Human resources & organizations.png
+INPUT ./figures/term_temp_rank/Human resources & organizations.png
+INPUT ./figures/term_temp_rank/Immunology.png
+INPUT figures/term_temp_rank/Immunology.png
+INPUT ./figures/term_temp_rank/Immunology.png
+INPUT ./figures/term_temp_rank/Immunology.png
+INPUT ./figures/term_temp_rank/International business.png
+INPUT figures/term_temp_rank/International business.png
+INPUT ./figures/term_temp_rank/International business.png
+INPUT ./figures/term_temp_rank/International business.png
+INPUT ./figures/term_temp_rank/Language & linguistics.png
+INPUT figures/term_temp_rank/Language & linguistics.png
+INPUT ./figures/term_temp_rank/Language & linguistics.png
+INPUT ./figures/term_temp_rank/Language & linguistics.png
+INPUT ./figures/term_temp_rank/Material engineering.png
+INPUT figures/term_temp_rank/Material engineering.png
+INPUT ./figures/term_temp_rank/Material engineering.png
+INPUT ./figures/term_temp_rank/Material engineering.png
+INPUT ./figures/term_temp_rank/Neurology.png
+INPUT figures/term_temp_rank/Neurology.png
+INPUT ./figures/term_temp_rank/Neurology.png
+INPUT ./figures/term_temp_rank/Neurology.png
+INPUT ./figures/term_temp_rank/Political science.png
+INPUT figures/term_temp_rank/Political science.png
+INPUT ./figures/term_temp_rank/Political science.png
+INPUT ./figures/term_temp_rank/Political science.png
+INPUT ./figures/term_temp_rank/Probability & statistics.png
+INPUT figures/term_temp_rank/Probability & statistics.png
+INPUT ./figures/term_temp_rank/Probability & statistics.png
+INPUT ./figures/term_temp_rank/Probability & statistics.png
+INPUT ./figures/term_temp_rank/Sociology.png
+INPUT figures/term_temp_rank/Sociology.png
+INPUT ./figures/term_temp_rank/Sociology.png
+INPUT ./figures/term_temp_rank/Sociology.png
+INPUT ./figures/co_citation_graphs/Artificial intelligence.png
+INPUT figures/co_citation_graphs/Artificial intelligence.png
+INPUT ./figures/co_citation_graphs/Artificial intelligence.png
+INPUT ./figures/co_citation_graphs/Artificial intelligence.png
+INPUT ./figures/co_citation_graphs/Economics.png
+INPUT figures/co_citation_graphs/Economics.png
+INPUT ./figures/co_citation_graphs/Economics.png
+INPUT ./figures/co_citation_graphs/Economics.png
+INPUT ./figures/co_citation_graphs/Ethnic & cultural studies.png
+INPUT figures/co_citation_graphs/Ethnic & cultural studies.png
+INPUT ./figures/co_citation_graphs/Ethnic & cultural studies.png
+INPUT ./figures/co_citation_graphs/Ethnic & cultural studies.png
+INPUT ./figures/co_citation_graphs/Gender studies.png
+INPUT figures/co_citation_graphs/Gender studies.png
+INPUT ./figures/co_citation_graphs/Gender studies.png
+INPUT ./figures/co_citation_graphs/Gender studies.png
+INPUT ./figures/co_citation_graphs/Genetics & genomics.png
+INPUT figures/co_citation_graphs/Genetics & genomics.png
+INPUT ./figures/co_citation_graphs/Genetics & genomics.png
+INPUT ./figures/co_citation_graphs/Genetics & genomics.png
+INPUT ./figures/co_citation_graphs/Geometry.png
+INPUT figures/co_citation_graphs/Geometry.png
+INPUT ./figures/co_citation_graphs/Geometry.png
+INPUT ./figures/co_citation_graphs/Geometry.png
+INPUT ./figures/co_citation_graphs/Geophysics.png
+INPUT figures/co_citation_graphs/Geophysics.png
+INPUT ./figures/co_citation_graphs/Geophysics.png
+INPUT ./figures/co_citation_graphs/Geophysics.png
+INPUT ./figures/co_citation_graphs/Human resources & organizations.png
+INPUT figures/co_citation_graphs/Human resources & organizations.png
+INPUT ./figures/co_citation_graphs/Human resources & organizations.png
+INPUT ./figures/co_citation_graphs/Human resources & organizations.png
+INPUT ./figures/co_citation_graphs/Immunology.png
+INPUT figures/co_citation_graphs/Immunology.png
+INPUT ./figures/co_citation_graphs/Immunology.png
+INPUT ./figures/co_citation_graphs/Immunology.png
+INPUT ./figures/co_citation_graphs/International business.png
+INPUT figures/co_citation_graphs/International business.png
+INPUT ./figures/co_citation_graphs/International business.png
+INPUT ./figures/co_citation_graphs/International business.png
+INPUT ./figures/co_citation_graphs/Language & linguistics.png
+INPUT figures/co_citation_graphs/Language & linguistics.png
+INPUT ./figures/co_citation_graphs/Language & linguistics.png
+INPUT ./figures/co_citation_graphs/Language & linguistics.png
+INPUT ./figures/co_citation_graphs/Material engineering.png
+INPUT figures/co_citation_graphs/Material engineering.png
+INPUT ./figures/co_citation_graphs/Material engineering.png
+INPUT ./figures/co_citation_graphs/Material engineering.png
+INPUT ./figures/co_citation_graphs/Neurology.png
+INPUT figures/co_citation_graphs/Neurology.png
+INPUT ./figures/co_citation_graphs/Neurology.png
+INPUT ./figures/co_citation_graphs/Neurology.png
+INPUT ./figures/co_citation_graphs/Political science.png
+INPUT figures/co_citation_graphs/Political science.png
+INPUT ./figures/co_citation_graphs/Political science.png
+INPUT ./figures/co_citation_graphs/Political science.png
+INPUT ./figures/co_citation_graphs/Probability & statistics.png
+INPUT figures/co_citation_graphs/Probability & statistics.png
+INPUT ./figures/co_citation_graphs/Probability & statistics.png
+INPUT ./figures/co_citation_graphs/Probability & statistics.png
+INPUT ./figures/co_citation_graphs/Sociology.png
+INPUT figures/co_citation_graphs/Sociology.png
+INPUT ./figures/co_citation_graphs/Sociology.png
+INPUT ./figures/co_citation_graphs/Sociology.png
+INPUT ./tables/co_citation_desc_stats.tex
+INPUT ./tables/co_citation_desc_stats.tex
+INPUT ./tables/co_citation_desc_stats.tex
+INPUT tables/co_citation_desc_stats.tex
+INPUT ./tables/co_citation_desc_stats.tex
+INPUT ./tables/co_citation_desc_stats.tex
+INPUT tables/co_citation_desc_stats.tex
+INPUT ./figures/co_citation_deg_dist/Artificial intelligence.png
+INPUT figures/co_citation_deg_dist/Artificial intelligence.png
+INPUT ./figures/co_citation_deg_dist/Artificial intelligence.png
+INPUT ./figures/co_citation_deg_dist/Artificial intelligence.png
+INPUT ./figures/co_citation_deg_dist/Economics.png
+INPUT figures/co_citation_deg_dist/Economics.png
+INPUT ./figures/co_citation_deg_dist/Economics.png
+INPUT ./figures/co_citation_deg_dist/Economics.png
+INPUT ./figures/co_citation_deg_dist/Ethnic & cultural studies.png
+INPUT figures/co_citation_deg_dist/Ethnic & cultural studies.png
+INPUT ./figures/co_citation_deg_dist/Ethnic & cultural studies.png
+INPUT ./figures/co_citation_deg_dist/Ethnic & cultural studies.png
+INPUT ./figures/co_citation_deg_dist/Gender studies.png
+INPUT figures/co_citation_deg_dist/Gender studies.png
+INPUT ./figures/co_citation_deg_dist/Gender studies.png
+INPUT ./figures/co_citation_deg_dist/Gender studies.png
+INPUT ./figures/co_citation_deg_dist/Genetics & genomics.png
+INPUT figures/co_citation_deg_dist/Genetics & genomics.png
+INPUT ./figures/co_citation_deg_dist/Genetics & genomics.png
+INPUT ./figures/co_citation_deg_dist/Genetics & genomics.png
+INPUT ./figures/co_citation_deg_dist/Geometry.png
+INPUT figures/co_citation_deg_dist/Geometry.png
+INPUT ./figures/co_citation_deg_dist/Geometry.png
+INPUT ./figures/co_citation_deg_dist/Geometry.png
+INPUT ./figures/co_citation_deg_dist/Geophysics.png
+INPUT figures/co_citation_deg_dist/Geophysics.png
+INPUT ./figures/co_citation_deg_dist/Geophysics.png
+INPUT ./figures/co_citation_deg_dist/Geophysics.png
+INPUT ./figures/co_citation_deg_dist/Human resources & organizations.png
+INPUT figures/co_citation_deg_dist/Human resources & organizations.png
+INPUT ./figures/co_citation_deg_dist/Human resources & organizations.png
+INPUT ./figures/co_citation_deg_dist/Human resources & organizations.png
+INPUT ./figures/co_citation_deg_dist/Immunology.png
+INPUT figures/co_citation_deg_dist/Immunology.png
+INPUT ./figures/co_citation_deg_dist/Immunology.png
+INPUT ./figures/co_citation_deg_dist/Immunology.png
+INPUT ./figures/co_citation_deg_dist/International business.png
+INPUT figures/co_citation_deg_dist/International business.png
+INPUT ./figures/co_citation_deg_dist/International business.png
+INPUT ./figures/co_citation_deg_dist/International business.png
+INPUT ./figures/co_citation_deg_dist/Language & linguistics.png
+INPUT figures/co_citation_deg_dist/Language & linguistics.png
+INPUT ./figures/co_citation_deg_dist/Language & linguistics.png
+INPUT ./figures/co_citation_deg_dist/Language & linguistics.png
+INPUT ./figures/co_citation_deg_dist/Material engineering.png
+INPUT figures/co_citation_deg_dist/Material engineering.png
+INPUT ./figures/co_citation_deg_dist/Material engineering.png
+INPUT ./figures/co_citation_deg_dist/Material engineering.png
+INPUT ./figures/co_citation_deg_dist/Neurology.png
+INPUT figures/co_citation_deg_dist/Neurology.png
+INPUT ./figures/co_citation_deg_dist/Neurology.png
+INPUT ./figures/co_citation_deg_dist/Neurology.png
+INPUT ./figures/co_citation_deg_dist/Political science.png
+INPUT figures/co_citation_deg_dist/Political science.png
+INPUT ./figures/co_citation_deg_dist/Political science.png
+INPUT ./figures/co_citation_deg_dist/Political science.png
+INPUT ./figures/co_citation_deg_dist/Probability & statistics.png
+INPUT figures/co_citation_deg_dist/Probability & statistics.png
+INPUT ./figures/co_citation_deg_dist/Probability & statistics.png
+INPUT ./figures/co_citation_deg_dist/Probability & statistics.png
+INPUT ./figures/co_citation_deg_dist/Sociology.png
+INPUT figures/co_citation_deg_dist/Sociology.png
+INPUT ./figures/co_citation_deg_dist/Sociology.png
+INPUT ./figures/co_citation_deg_dist/Sociology.png
 INPUT ./tables/co_citation_ergm_model.tex
 INPUT ./tables/co_citation_ergm_model.tex
 INPUT ./tables/co_citation_ergm_model.tex
@@ -812,6 +1717,205 @@ INPUT tables/co_citation_ergm_model.tex
 INPUT ./tables/co_citation_ergm_model.tex
 INPUT ./tables/co_citation_ergm_model.tex
 INPUT tables/co_citation_ergm_model.tex
+INPUT ./figures/co_occurrence_graphs/Artificial intelligence.png
+INPUT figures/co_occurrence_graphs/Artificial intelligence.png
+INPUT ./figures/co_occurrence_graphs/Artificial intelligence.png
+INPUT ./figures/co_occurrence_graphs/Artificial intelligence.png
+INPUT ./figures/co_occurrence_graphs/Economics.png
+INPUT figures/co_occurrence_graphs/Economics.png
+INPUT ./figures/co_occurrence_graphs/Economics.png
+INPUT ./figures/co_occurrence_graphs/Economics.png
+INPUT ./figures/co_occurrence_graphs/Ethnic & cultural studies.png
+INPUT figures/co_occurrence_graphs/Ethnic & cultural studies.png
+INPUT ./figures/co_occurrence_graphs/Ethnic & cultural studies.png
+INPUT ./figures/co_occurrence_graphs/Ethnic & cultural studies.png
+INPUT ./figures/co_occurrence_graphs/Gender studies.png
+INPUT figures/co_occurrence_graphs/Gender studies.png
+INPUT ./figures/co_occurrence_graphs/Gender studies.png
+INPUT ./figures/co_occurrence_graphs/Gender studies.png
+INPUT ./figures/co_occurrence_graphs/Genetics & genomics.png
+INPUT figures/co_occurrence_graphs/Genetics & genomics.png
+INPUT ./figures/co_occurrence_graphs/Genetics & genomics.png
+INPUT ./figures/co_occurrence_graphs/Genetics & genomics.png
+INPUT ./figures/co_occurrence_graphs/Geometry.png
+INPUT figures/co_occurrence_graphs/Geometry.png
+INPUT ./figures/co_occurrence_graphs/Geometry.png
+INPUT ./figures/co_occurrence_graphs/Geometry.png
+INPUT ./figures/co_occurrence_graphs/Geophysics.png
+INPUT figures/co_occurrence_graphs/Geophysics.png
+INPUT ./figures/co_occurrence_graphs/Geophysics.png
+INPUT ./figures/co_occurrence_graphs/Geophysics.png
+INPUT ./figures/co_occurrence_graphs/Human resources & organizations.png
+INPUT figures/co_occurrence_graphs/Human resources & organizations.png
+INPUT ./figures/co_occurrence_graphs/Human resources & organizations.png
+INPUT ./figures/co_occurrence_graphs/Human resources & organizations.png
+INPUT ./figures/co_occurrence_graphs/Immunology.png
+INPUT figures/co_occurrence_graphs/Immunology.png
+INPUT ./figures/co_occurrence_graphs/Immunology.png
+INPUT ./figures/co_occurrence_graphs/Immunology.png
+INPUT ./figures/co_occurrence_graphs/International business.png
+INPUT figures/co_occurrence_graphs/International business.png
+INPUT ./figures/co_occurrence_graphs/International business.png
+INPUT ./figures/co_occurrence_graphs/International business.png
+INPUT ./figures/co_occurrence_graphs/Language & linguistics.png
+INPUT figures/co_occurrence_graphs/Language & linguistics.png
+INPUT ./figures/co_occurrence_graphs/Language & linguistics.png
+INPUT ./figures/co_occurrence_graphs/Language & linguistics.png
+INPUT ./figures/co_occurrence_graphs/Material engineering.png
+INPUT figures/co_occurrence_graphs/Material engineering.png
+INPUT ./figures/co_occurrence_graphs/Material engineering.png
+INPUT ./figures/co_occurrence_graphs/Material engineering.png
+INPUT ./figures/co_occurrence_graphs/Neurology.png
+INPUT figures/co_occurrence_graphs/Neurology.png
+INPUT ./figures/co_occurrence_graphs/Neurology.png
+INPUT ./figures/co_occurrence_graphs/Neurology.png
+INPUT ./figures/co_occurrence_graphs/Political science.png
+INPUT figures/co_occurrence_graphs/Political science.png
+INPUT ./figures/co_occurrence_graphs/Political science.png
+INPUT ./figures/co_occurrence_graphs/Political science.png
+INPUT ./figures/co_occurrence_graphs/Probability & statistics.png
+INPUT figures/co_occurrence_graphs/Probability & statistics.png
+INPUT ./figures/co_occurrence_graphs/Probability & statistics.png
+INPUT ./figures/co_occurrence_graphs/Probability & statistics.png
+INPUT ./figures/co_occurrence_graphs/Sociology.png
+INPUT figures/co_occurrence_graphs/Sociology.png
+INPUT ./figures/co_occurrence_graphs/Sociology.png
+INPUT ./figures/co_occurrence_graphs/Sociology.png
+INPUT ./tables/co_occurrence_desc_stats.tex
+INPUT ./tables/co_occurrence_desc_stats.tex
+INPUT ./tables/co_occurrence_desc_stats.tex
+INPUT tables/co_occurrence_desc_stats.tex
+INPUT ./tables/co_occurrence_desc_stats.tex
+INPUT ./tables/co_occurrence_desc_stats.tex
+INPUT tables/co_occurrence_desc_stats.tex
+INPUT ./figures/co_occurrence_deg_dist/Artificial intelligence.png
+INPUT figures/co_occurrence_deg_dist/Artificial intelligence.png
+INPUT ./figures/co_occurrence_deg_dist/Artificial intelligence.png
+INPUT ./figures/co_occurrence_deg_dist/Artificial intelligence.png
+INPUT ./figures/co_occurrence_deg_dist/Economics.png
+INPUT figures/co_occurrence_deg_dist/Economics.png
+INPUT ./figures/co_occurrence_deg_dist/Economics.png
+INPUT ./figures/co_occurrence_deg_dist/Economics.png
+INPUT ./figures/co_occurrence_deg_dist/Ethnic & cultural studies.png
+INPUT figures/co_occurrence_deg_dist/Ethnic & cultural studies.png
+INPUT ./figures/co_occurrence_deg_dist/Ethnic & cultural studies.png
+INPUT ./figures/co_occurrence_deg_dist/Ethnic & cultural studies.png
+INPUT ./figures/co_occurrence_deg_dist/Gender studies.png
+INPUT figures/co_occurrence_deg_dist/Gender studies.png
+INPUT ./figures/co_occurrence_deg_dist/Gender studies.png
+INPUT ./figures/co_occurrence_deg_dist/Gender studies.png
+INPUT ./figures/co_occurrence_deg_dist/Genetics & genomics.png
+INPUT figures/co_occurrence_deg_dist/Genetics & genomics.png
+INPUT ./figures/co_occurrence_deg_dist/Genetics & genomics.png
+INPUT ./figures/co_occurrence_deg_dist/Genetics & genomics.png
+INPUT ./figures/co_occurrence_deg_dist/Geometry.png
+INPUT figures/co_occurrence_deg_dist/Geometry.png
+INPUT ./figures/co_occurrence_deg_dist/Geometry.png
+INPUT ./figures/co_occurrence_deg_dist/Geometry.png
+INPUT ./figures/co_occurrence_deg_dist/Geophysics.png
+INPUT figures/co_occurrence_deg_dist/Geophysics.png
+INPUT ./figures/co_occurrence_deg_dist/Geophysics.png
+INPUT ./figures/co_occurrence_deg_dist/Geophysics.png
+INPUT ./figures/co_occurrence_deg_dist/Human resources & organizations.png
+INPUT figures/co_occurrence_deg_dist/Human resources & organizations.png
+INPUT ./figures/co_occurrence_deg_dist/Human resources & organizations.png
+INPUT ./figures/co_occurrence_deg_dist/Human resources & organizations.png
+INPUT ./figures/co_occurrence_deg_dist/Immunology.png
+INPUT figures/co_occurrence_deg_dist/Immunology.png
+INPUT ./figures/co_occurrence_deg_dist/Immunology.png
+INPUT ./figures/co_occurrence_deg_dist/Immunology.png
+INPUT ./figures/co_occurrence_deg_dist/International business.png
+INPUT figures/co_occurrence_deg_dist/International business.png
+INPUT ./figures/co_occurrence_deg_dist/International business.png
+INPUT ./figures/co_occurrence_deg_dist/International business.png
+INPUT ./figures/co_occurrence_deg_dist/Language & linguistics.png
+INPUT figures/co_occurrence_deg_dist/Language & linguistics.png
+INPUT ./figures/co_occurrence_deg_dist/Language & linguistics.png
+INPUT ./figures/co_occurrence_deg_dist/Language & linguistics.png
+INPUT ./figures/co_occurrence_deg_dist/Material engineering.png
+INPUT figures/co_occurrence_deg_dist/Material engineering.png
+INPUT ./figures/co_occurrence_deg_dist/Material engineering.png
+INPUT ./figures/co_occurrence_deg_dist/Material engineering.png
+INPUT ./figures/co_occurrence_deg_dist/Neurology.png
+INPUT figures/co_occurrence_deg_dist/Neurology.png
+INPUT ./figures/co_occurrence_deg_dist/Neurology.png
+INPUT ./figures/co_occurrence_deg_dist/Neurology.png
+INPUT ./figures/co_occurrence_deg_dist/Political science.png
+INPUT figures/co_occurrence_deg_dist/Political science.png
+INPUT ./figures/co_occurrence_deg_dist/Political science.png
+INPUT ./figures/co_occurrence_deg_dist/Political science.png
+INPUT ./figures/co_occurrence_deg_dist/Probability & statistics.png
+INPUT figures/co_occurrence_deg_dist/Probability & statistics.png
+INPUT ./figures/co_occurrence_deg_dist/Probability & statistics.png
+INPUT ./figures/co_occurrence_deg_dist/Probability & statistics.png
+INPUT ./figures/co_occurrence_deg_dist/Sociology.png
+INPUT figures/co_occurrence_deg_dist/Sociology.png
+INPUT ./figures/co_occurrence_deg_dist/Sociology.png
+INPUT ./figures/co_occurrence_deg_dist/Sociology.png
+INPUT ./figures/co_occurrence_node_distance_dist/Artificial intelligence.png
+INPUT figures/co_occurrence_node_distance_dist/Artificial intelligence.png
+INPUT ./figures/co_occurrence_node_distance_dist/Artificial intelligence.png
+INPUT ./figures/co_occurrence_node_distance_dist/Artificial intelligence.png
+INPUT ./figures/co_occurrence_node_distance_dist/Economics.png
+INPUT figures/co_occurrence_node_distance_dist/Economics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Economics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Economics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Ethnic & cultural studies.png
+INPUT figures/co_occurrence_node_distance_dist/Ethnic & cultural studies.png
+INPUT ./figures/co_occurrence_node_distance_dist/Ethnic & cultural studies.png
+INPUT ./figures/co_occurrence_node_distance_dist/Ethnic & cultural studies.png
+INPUT ./figures/co_occurrence_node_distance_dist/Gender studies.png
+INPUT figures/co_occurrence_node_distance_dist/Gender studies.png
+INPUT ./figures/co_occurrence_node_distance_dist/Gender studies.png
+INPUT ./figures/co_occurrence_node_distance_dist/Gender studies.png
+INPUT ./figures/co_occurrence_node_distance_dist/Genetics & genomics.png
+INPUT figures/co_occurrence_node_distance_dist/Genetics & genomics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Genetics & genomics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Genetics & genomics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Geometry.png
+INPUT figures/co_occurrence_node_distance_dist/Geometry.png
+INPUT ./figures/co_occurrence_node_distance_dist/Geometry.png
+INPUT ./figures/co_occurrence_node_distance_dist/Geometry.png
+INPUT ./figures/co_occurrence_node_distance_dist/Geophysics.png
+INPUT figures/co_occurrence_node_distance_dist/Geophysics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Geophysics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Geophysics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Human resources & organizations.png
+INPUT figures/co_occurrence_node_distance_dist/Human resources & organizations.png
+INPUT ./figures/co_occurrence_node_distance_dist/Human resources & organizations.png
+INPUT ./figures/co_occurrence_node_distance_dist/Human resources & organizations.png
+INPUT ./figures/co_occurrence_node_distance_dist/Immunology.png
+INPUT figures/co_occurrence_node_distance_dist/Immunology.png
+INPUT ./figures/co_occurrence_node_distance_dist/Immunology.png
+INPUT ./figures/co_occurrence_node_distance_dist/Immunology.png
+INPUT ./figures/co_occurrence_node_distance_dist/International business.png
+INPUT figures/co_occurrence_node_distance_dist/International business.png
+INPUT ./figures/co_occurrence_node_distance_dist/International business.png
+INPUT ./figures/co_occurrence_node_distance_dist/International business.png
+INPUT ./figures/co_occurrence_node_distance_dist/Language & linguistics.png
+INPUT figures/co_occurrence_node_distance_dist/Language & linguistics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Language & linguistics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Language & linguistics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Material engineering.png
+INPUT figures/co_occurrence_node_distance_dist/Material engineering.png
+INPUT ./figures/co_occurrence_node_distance_dist/Material engineering.png
+INPUT ./figures/co_occurrence_node_distance_dist/Material engineering.png
+INPUT ./figures/co_occurrence_node_distance_dist/Neurology.png
+INPUT figures/co_occurrence_node_distance_dist/Neurology.png
+INPUT ./figures/co_occurrence_node_distance_dist/Neurology.png
+INPUT ./figures/co_occurrence_node_distance_dist/Neurology.png
+INPUT ./figures/co_occurrence_node_distance_dist/Political science.png
+INPUT figures/co_occurrence_node_distance_dist/Political science.png
+INPUT ./figures/co_occurrence_node_distance_dist/Political science.png
+INPUT ./figures/co_occurrence_node_distance_dist/Political science.png
+INPUT ./figures/co_occurrence_node_distance_dist/Probability & statistics.png
+INPUT figures/co_occurrence_node_distance_dist/Probability & statistics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Probability & statistics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Probability & statistics.png
+INPUT ./figures/co_occurrence_node_distance_dist/Sociology.png
+INPUT figures/co_occurrence_node_distance_dist/Sociology.png
+INPUT ./figures/co_occurrence_node_distance_dist/Sociology.png
+INPUT ./figures/co_occurrence_node_distance_dist/Sociology.png
 INPUT ./tables/co_occurrence_ergm_model.tex
 INPUT ./tables/co_occurrence_ergm_model.tex
 INPUT ./tables/co_occurrence_ergm_model.tex
