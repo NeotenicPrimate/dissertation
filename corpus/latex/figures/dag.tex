@@ -1,0 +1,61 @@
+\begin{figure}[H]
+    \centering
+    % \begin{subfigure}[t]{0.1\textwidth}
+    %     \centering
+    %     \begin{tikzpicture}[node distance=2cm, thick, main/.style = {draw, circle}]
+    %         \node[draw=none] (1) [below left of=2] {};
+    %         \node[draw=none] (2) [above left of=2] {};
+    %         \path[->,draw,thick]
+    %         (1) edge node[pos=0.5, left] {$t$} (2);
+    %     \end{tikzpicture}
+    % \end{subfigure}
+    \begin{subfigure}[t]{0.2\textwidth}
+        \centering
+        \begin{tikzpicture}[node distance=2cm, thick, main/.style = {draw, circle}]
+            \node[main] (1) [] {$d_1$};
+            \node[main] (2) [below left of=1] {$d_2$};
+            \node[main] (3) [below right of=2] {$d_3$};
+            \path[->,draw,thick]
+            (1) edge node[] {} (2)
+            (1) edge node[] {} (3);
+        \end{tikzpicture}
+    \end{subfigure}
+    ~
+    \begin{subfigure}[t]{0.2\textwidth}
+        \centering
+        \begin{tikzpicture}[node distance=2cm, thick, main/.style = {draw, circle}]
+            \node[main] (1) [] {$d_1$};
+            \node[main] (2) [below left of=1] {$d_2$};
+            \node[main] (3) [below right of=2] {$d_3$};
+            \path[->,draw,thick]
+            (1) edge node[] {} (2)
+            (2) edge node[] {} (3);
+        \end{tikzpicture}
+    \end{subfigure}
+    ~
+    \begin{subfigure}[t]{0.2\textwidth}
+        \centering
+        \begin{tikzpicture}[node distance=2cm, thick, main/.style = {draw, circle}]
+            \node[main] (1) [] {$d_1$};
+            \node[main] (2) [below left of=1] {$d_2$};
+            \node[main] (3) [below right of=2] {$d_3$};
+            \path[->,draw,thick]
+            (1) edge node[] {} (3)
+            (2) edge node[] {} (3);
+        \end{tikzpicture}
+    \end{subfigure}
+    ~
+    \begin{subfigure}[t]{0.2\textwidth}
+        \centering
+        \begin{tikzpicture}[node distance=2cm, thick, main/.style = {draw, circle}]
+            \node[main] (1) [] {$d_1$};
+            \node[main] (2) [below left of=1] {$d_2$};
+            \node[main] (3) [below right of=2] {$d_3$};
+            \path[->,draw,thick]
+            (1) edge node[] {} (2)
+            (2) edge node[] {} (3)
+            (1) edge node[] {} (3);
+        \end{tikzpicture}
+     \end{subfigure}
+     \caption{DAG}
+\end{figure}

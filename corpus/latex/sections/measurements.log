@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.8)  19 APR 2023 23:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.3)  9 MAY 2023 14:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -115,8 +115,8 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 3--4
  []
 
 ! Undefined control sequence.
-l.6 \subsection
-               {Density effect (Edges)}
+l.5 \framesubtitle
+                  {Density effect (Edges)}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -130,8 +130,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \subsection{D
-                 ensity effect (Edges)}
+l.5 \framesubtitle{D
+                    ensity effect (Edges)}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -156,7 +156,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 6--7
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
 []
  []
 
@@ -167,7 +167,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 D
+l.7 D
      ensity refers to the proportion of connections in a social network rela...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -269,7 +269,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 8--9
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--8
 []
  []
 
@@ -280,8 +280,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 T
-      his is interpreted as the intercept of the model. The entry of the `de...
+l.9 T
+     his is interpreted as the intercept of the model. The entry of the `den...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -357,9 +357,9 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no x in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <7> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 10.
+(Font)              <5> on input line 9.
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
@@ -540,18 +540,18 @@ Missing character: There is no k in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 10--14
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--10
 []
  []
 
 
-Overfull \hbox (16.74425pt too wide) in paragraph at lines 10--14
+Overfull \hbox (16.74425pt too wide) in paragraph at lines 9--10
 \OML/cmm/m/it/10 M[]$
  []
 
 ! Undefined control sequence.
-l.15 \subsection
-                {Small-World effect (Triangles)}
+l.11 \framesubtitle
+                   {Small-World effect (Triangles)}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -565,8 +565,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 \subsection{S
-                  mall-World effect (Triangles)}
+l.11 \framesubtitle{S
+                     mall-World effect (Triangles)}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -599,7 +599,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 15--16
+Overfull \hbox (20.0pt too wide) in paragraph at lines 11--12
 []
  []
 
@@ -610,7 +610,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 S
+l.13 S
       ocial networks tend to exhibit a much higher number of triangles and t...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -751,7 +751,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 17--19
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--14
 []
  []
 
@@ -762,7 +762,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.20 T
+l.15 T
       riangles, which represent a set of three documents or concepts who are...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -949,7 +949,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-l.20 ...cial cohesion and network structure \citep
+l.15 ...cial cohesion and network structure \citep
                                                   {kossinets2006, newman2018}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -983,7 +983,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 20--21
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--16
 []
  []
 
@@ -994,7 +994,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.22 T
+l.17 T
       he entry of the triangle matrix $M_{ij}$ indicates how the presence of...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1134,12 +1134,12 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 22--23
+Overfull \hbox (20.0pt too wide) in paragraph at lines 17--18
 []
  []
 
 
-Overfull \hbox (16.74425pt too wide) in paragraph at lines 22--23
+Overfull \hbox (16.74425pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 M[]$
  []
 
@@ -1150,7 +1150,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24 O
+l.19 O
       verall tendency of networks to be composed of local densities (closure...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1387,7 +1387,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no h in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 24--25
+Overfull \hbox (20.0pt too wide) in paragraph at lines 19--20
 []
  []
 
@@ -1398,7 +1398,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 L
+l.21 L
       umps appear (local structures)
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1432,13 +1432,13 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 26--27
+Overfull \hbox (20.0pt too wide) in paragraph at lines 21--22
 []
  []
 
 ! Undefined control sequence.
-l.28 \subsection
-                {Closure effect (Transitivity)}
+l.23 \framesubtitle
+                   {Closure effect (Transitivity)}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1452,8 +1452,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28 \subsection{C
-                  losure effect (Transitivity)}
+l.23 \framesubtitle{C
+                     losure effect (Transitivity)}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1485,7 +1485,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 28--29
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--24
 []
  []
 
@@ -1496,7 +1496,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 A
+l.25 A
        triad is a group of three nodes in a graph. A triad can either be ope...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1634,7 +1634,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...ence `fig:open_triad' on page \thepage 
                                                   \space undefined\on@line .
-l.30 ... by two edges (Figure \ref{fig:open_triad}
+l.25 ... by two edges (Figure \ref{fig:open_triad}
                                                   ), while a closed triad is...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1643,7 +1643,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:open_triad' on page  undefined on input line 30.
+LaTeX Warning: Reference `fig:open_triad' on page  undefined on input line 25.
 
 Missing character: There is no ) in font nullfont!
 Missing character: There is no , in font nullfont!
@@ -1722,7 +1722,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...ce `fig:closed_triad' on page \thepage 
                                                   \space undefined\on@line .
-l.30 ...three edges (Figure \ref{fig:closed_triad}
+l.25 ...three edges (Figure \ref{fig:closed_triad}
                                                   ).
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1731,23 +1731,23 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:closed_triad' on page  undefined on input line 30
+LaTeX Warning: Reference `fig:closed_triad' on page  undefined on input line 25
 .
 
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 30--31
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--26
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 30--31
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 25--26
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 30--31
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 25--26
 [] 
  []
 
@@ -1758,7 +1758,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \begin{figure}
+l.27 \begin{figure}
                    [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1771,7 +1771,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \begin{figure}[
+l.27 \begin{figure}[
                     H]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1780,31 +1780,13 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-! LaTeX Error: \caption outside float.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33     \caption
-                 {Triads}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no T in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no s in font nullfont!
-
 ! LaTeX Error: Environment subfigure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35     \begin{subfigure}
+l.29     \begin{subfigure}
                           [t]{0.4\textwidth}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1819,7 +1801,7 @@ Missing character: There is no 4 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.35     \begin{subfigure}[t]{0.4\textwidth}
+l.29     \begin{subfigure}[t]{0.4\textwidth}
                                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1828,7 +1810,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.35     \begin{subfigure}[t]{0.4\textwidth}
+l.29     \begin{subfigure}[t]{0.4\textwidth}
                                             
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1844,7 +1826,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37         \begin{tikzpicture}
+l.31         \begin{tikzpicture}
                                 [node distance=2cm, thick, main/.style = {dr...
 
 Your command was ignored.
@@ -1900,7 +1882,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.38             \node
+l.32             \node
                       [main] (1) [] {$d_1$};
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1921,7 +1903,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no ] in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.39             \node
+l.33             \node
                       [main] (2) [below left of=1] {$d_2$};
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1955,7 +1937,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no ] in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.40             \node
+l.34             \node
                       [main] (3) [below right of=1] {$d_3$};
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1990,7 +1972,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no ] in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.41             \draw
+l.35             \draw
                       [] (1) to (2);
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2010,7 +1992,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.42             \draw
+l.36             \draw
                       [] (1) to (3);
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2036,7 +2018,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.43         \end{tikzpicture}
+l.37         \end{tikzpicture}
                               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2049,7 +2031,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44         \caption
+l.38         \caption
                      {Open Triad}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2070,7 +2052,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.46      \end{subfigure}
+l.40      \end{subfigure}
                          
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2083,7 +2065,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.48      \begin{subfigure}
+l.42      \begin{subfigure}
                            [t]{0.4\textwidth}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2098,7 +2080,7 @@ Missing character: There is no 4 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.48      \begin{subfigure}[t]{0.4\textwidth}
+l.42      \begin{subfigure}[t]{0.4\textwidth}
                                              
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -2107,7 +2089,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.48      \begin{subfigure}[t]{0.4\textwidth}
+l.42      \begin{subfigure}[t]{0.4\textwidth}
                                              
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -2123,7 +2105,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.50         \begin{tikzpicture}
+l.44         \begin{tikzpicture}
                                 [node distance=2cm, thick, main/.style = {dr...
 
 Your command was ignored.
@@ -2179,7 +2161,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.51             \node
+l.45             \node
                       [main] (1) [] {$d_1$};
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2200,7 +2182,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no ] in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.52             \node
+l.46             \node
                       [main] (2) [below left of=1] {$d_2$};
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2234,7 +2216,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no ] in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.53             \node
+l.47             \node
                       [main] (3) [below right of=1] {$d_3$};
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2269,7 +2251,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no ] in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.54             \draw
+l.48             \draw
                       [] (1) to (2);
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2289,7 +2271,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.55             \draw
+l.49             \draw
                       [] (1) to (3);
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2309,7 +2291,7 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.56             \draw
+l.50             \draw
                       [] (2) to (3);
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2335,7 +2317,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.57         \end{tikzpicture}
+l.51         \end{tikzpicture}
                               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2348,7 +2330,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.58         \caption
+l.52         \caption
                      {Closed Triad}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2371,12 +2353,30 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.60      \end{subfigure}
+l.54      \end{subfigure}
                          
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55      \caption
+                  {Triads}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
 
 ! LaTeX Error: \begin{document} ended by \end{figure}.
 
@@ -2384,44 +2384,44 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 \end{figure}
+l.56 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 32--62
+Overfull \hbox (20.0pt too wide) in paragraph at lines 27--57
 []
  []
 
 
-Overfull \hbox (9.691pt too wide) in paragraph at lines 32--62
+Overfull \hbox (9.691pt too wide) in paragraph at lines 27--57
 \OML/cmm/m/it/10 d[]$
  []
 
 
-Overfull \hbox (9.691pt too wide) in paragraph at lines 32--62
+Overfull \hbox (9.691pt too wide) in paragraph at lines 27--57
 \OML/cmm/m/it/10 d[]$
  []
 
 
-Overfull \hbox (9.691pt too wide) in paragraph at lines 32--62
+Overfull \hbox (9.691pt too wide) in paragraph at lines 27--57
 \OML/cmm/m/it/10 d[]$
  []
 
 
-Overfull \hbox (9.691pt too wide) in paragraph at lines 32--62
+Overfull \hbox (9.691pt too wide) in paragraph at lines 27--57
 \OML/cmm/m/it/10 d[]$
  []
 
 
-Overfull \hbox (9.691pt too wide) in paragraph at lines 32--62
+Overfull \hbox (9.691pt too wide) in paragraph at lines 27--57
 \OML/cmm/m/it/10 d[]$
  []
 
 
-Overfull \hbox (9.691pt too wide) in paragraph at lines 32--62
+Overfull \hbox (9.691pt too wide) in paragraph at lines 27--57
 \OML/cmm/m/it/10 d[]$
  []
 
@@ -2432,7 +2432,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 T
+l.58 T
       ransitivity is defined as the ratio of the number of closed triads in ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2539,7 +2539,7 @@ Missing character: There is no p in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 63--64
+Overfull \hbox (20.0pt too wide) in paragraph at lines 58--59
 []
  []
 
@@ -2550,18 +2550,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.65 $
+l.60 $
       $
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 65--65
+Overfull \hbox (20.0pt too wide) in paragraph at lines 60--60
 [] 
  []
 
 
-Overfull \hbox (35.65074pt too wide) detected at line 67
+Overfull \hbox (35.65074pt too wide) detected at line 62
 \OML/cmm/m/it/10 T \OT1/cmr/m/n/10 = []
  []
 
@@ -2572,7 +2572,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69 W
+l.64 W
       here $t_c$ is the number of closed triads and $t_o$ is the number of o...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2636,23 +2636,23 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 69--70
+Overfull \hbox (20.0pt too wide) in paragraph at lines 64--65
 []
  []
 
 
-Overfull \hbox (7.68486pt too wide) in paragraph at lines 69--70
+Overfull \hbox (7.68486pt too wide) in paragraph at lines 64--65
 \OML/cmm/m/it/10 t[]$
  []
 
 
-Overfull \hbox (8.05833pt too wide) in paragraph at lines 69--70
+Overfull \hbox (8.05833pt too wide) in paragraph at lines 64--65
 \OML/cmm/m/it/10 t[]$
  []
 
 ! Undefined control sequence.
-l.72 \subsection
-                {Clique effect (Cliques)}
+l.67 \framesubtitle
+                   {Clique effect (Cliques)}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2666,8 +2666,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72 \subsection{C
-                  lique effect (Cliques)}
+l.67 \framesubtitle{C
+                     lique effect (Cliques)}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2693,7 +2693,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 72--73
+Overfull \hbox (20.0pt too wide) in paragraph at lines 67--68
 []
  []
 
@@ -2704,7 +2704,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.74 T
+l.69 T
       endecy for there to be parts of the graph where multiple nodes all co-...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2796,7 +2796,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no e in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 74--75
+Overfull \hbox (20.0pt too wide) in paragraph at lines 69--70
 []
  []
 
@@ -2807,7 +2807,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.76 I
+l.71 I
       f I discuss
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2935,7 +2935,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no k in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 76--79
+Overfull \hbox (20.0pt too wide) in paragraph at lines 71--74
 []
  []
 
@@ -2946,7 +2946,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80 T
+l.75 T
       his build on triangles (which are a clique) but captures more information
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3016,7 +3016,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 80--81
+Overfull \hbox (20.0pt too wide) in paragraph at lines 75--76
 []
  []
 
@@ -3027,7 +3027,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.82 I
+l.77 I
       t asks whether triangles overlap to form larger structurees rather tha...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3125,7 +3125,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 82--83
+Overfull \hbox (20.0pt too wide) in paragraph at lines 77--78
 []
  []
 
@@ -3136,7 +3136,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.84 D
+l.79 D
       ensly connected always connected
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3172,13 +3172,13 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 84--85
+Overfull \hbox (20.0pt too wide) in paragraph at lines 79--80
 []
  []
 
 ! Undefined control sequence.
-l.86 \subsection
-                {Silo effect (Components)}
+l.81 \framesubtitle
+                   {Silo effect (Components)}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3192,8 +3192,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.86 \subsection{S
-                  ilo effect (Components)}
+l.81 \framesubtitle{S
+                     ilo effect (Components)}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -3220,7 +3220,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 86--87
+Overfull \hbox (20.0pt too wide) in paragraph at lines 81--82
 []
  []
 
@@ -3231,7 +3231,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.88 s
+l.83 s
       ilos refer to isolated areas of research or knowledge that are not wel...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3476,13 +3476,13 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no p in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 88--91
+Overfull \hbox (20.0pt too wide) in paragraph at lines 83--86
 []
  []
 
 ! Undefined control sequence.
-l.92 \subsection
-                {Popularity effect ($k$-star)}
+l.87 \framesubtitle
+                   {Popularity effect ($k$-star)}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3496,8 +3496,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.92 \subsection{P
-                  opularity effect ($k$-star)}
+l.87 \framesubtitle{P
+                     opularity effect ($k$-star)}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -3525,12 +3525,12 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 92--93
+Overfull \hbox (20.0pt too wide) in paragraph at lines 87--88
 []
  []
 
 
-Overfull \hbox (5.52084pt too wide) in paragraph at lines 92--93
+Overfull \hbox (5.52084pt too wide) in paragraph at lines 87--88
 \OML/cmm/m/it/10 k$ 
  []
 
@@ -3541,7 +3541,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.94 T
+l.89 T
       he popularity effects in most classes were not obvious, which meant th...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3711,7 +3711,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 94--95
+Overfull \hbox (20.0pt too wide) in paragraph at lines 89--90
 []
  []
 
@@ -3722,7 +3722,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 \begin{figure}
+l.91 \begin{figure}
                    [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3735,7 +3735,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 \begin{figure}[
+l.91 \begin{figure}[
                     H]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3750,7 +3750,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98     \begin{tikzpicture}
+l.93     \begin{tikzpicture}
                             [node distance=2cm, thick, main/.style = {draw, ...
 
 Your command was ignored.
@@ -3806,7 +3806,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.99         \node
+l.94         \node
                   [main] (1) at (360:0mm) (center) {$d_1$};
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3844,8 +3844,8 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.100         \node
-                   [main] (1) [] {$d_1$};
+l.95         \node
+                  [main] (1) [] {$d_1$};
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3865,8 +3865,8 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no ] in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.101         \foreach
-                       \n in {2,...,6}{
+l.96         \foreach
+                      \n in {2,...,6}{
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3874,8 +3874,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.101         \foreach \n
-                          in {2,...,6}{
+l.96         \foreach \n
+                         in {2,...,6}{
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3892,8 +3892,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no 6 in font nullfont!
 ! Undefined control sequence.
-l.102             \node
-                       [main] at ({\n*360/5}:2cm) (n\n) {$d_\n$};
+l.97             \node
+                      [main] at ({\n*360/5}:2cm) (n\n) {$d_\n$};
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3910,8 +3910,8 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ( in font nullfont!
 ! Undefined control sequence.
-l.102             \node[main] at ({\n
-                                     *360/5}:2cm) (n\n) {$d_\n$};
+l.97             \node[main] at ({\n
+                                    *360/5}:2cm) (n\n) {$d_\n$};
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3932,7 +3932,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no ( in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.102 ...     \node[main] at ({\n*360/5}:2cm) (n\n
+l.97 ...      \node[main] at ({\n*360/5}:2cm) (n\n
                                                   ) {$d_\n$};
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3942,7 +3942,7 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.102 ...de[main] at ({\n*360/5}:2cm) (n\n) {$d_\n
+l.97 ...ode[main] at ({\n*360/5}:2cm) (n\n) {$d_\n
                                                   $};
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3953,7 +3953,7 @@ and I'll forget about whatever was undefined.
 ! Missing { inserted.
 <to be read again> 
                    $
-l.102 ...e[main] at ({\n*360/5}:2cm) (n\n) {$d_\n$
+l.97 ...de[main] at ({\n*360/5}:2cm) (n\n) {$d_\n$
                                                   };
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
@@ -3963,7 +3963,7 @@ so that I will find a matching right brace soon.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.102 ...e[main] at ({\n*360/5}:2cm) (n\n) {$d_\n$
+l.97 ...de[main] at ({\n*360/5}:2cm) (n\n) {$d_\n$
                                                   };
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3973,8 +3973,8 @@ my insertion and my current dilemma will both disappear.
 
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.103             \draw
-                        (center)--(n\n);
+l.98             \draw
+                       (center)--(n\n);
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3994,8 +3994,8 @@ Missing character: There is no - in font nullfont!
 Missing character: There is no ( in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.103             \draw (center)--(n\n
-                                      );
+l.98             \draw (center)--(n\n
+                                     );
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -4011,7 +4011,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105     \end{tikzpicture}
+l.100     \end{tikzpicture}
                            
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -4024,12 +4024,11 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.106     \caption
-                  {$k$-Star} \label{fig:k_star}
+l.101     \caption
+                  {Star} \label{fig:k_star}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no - in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -4041,35 +4040,30 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.107 \end{figure}
+l.102 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 96--108
+Overfull \hbox (20.0pt too wide) in paragraph at lines 91--103
 []
  []
 
 
-Overfull \hbox (9.691pt too wide) in paragraph at lines 96--108
+Overfull \hbox (9.691pt too wide) in paragraph at lines 91--103
 \OML/cmm/m/it/10 d[]$
  []
 
 
-Overfull \hbox (9.691pt too wide) in paragraph at lines 96--108
+Overfull \hbox (9.691pt too wide) in paragraph at lines 91--103
 \OML/cmm/m/it/10 d[]$
  []
 
 
-Overfull \hbox (5.70486pt too wide) in paragraph at lines 96--108
+Overfull \hbox (5.70486pt too wide) in paragraph at lines 91--103
 \OML/cmm/m/it/10 d[]$
- []
-
-
-Overfull \hbox (5.52084pt too wide) in paragraph at lines 96--108
-\OML/cmm/m/it/10 k$
  []
 
 
@@ -4079,7 +4073,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.109 W
+l.104 W
        hat we mean by a strong k star effect
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4192,13 +4186,13 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 109--112
+Overfull \hbox (20.0pt too wide) in paragraph at lines 104--107
 []
  []
 
 ! Undefined control sequence.
-l.113 \subsection
-                 {Mediating effect (betweenness centrality)}
+l.108 \framesubtitle
+                    {Mediating effect (betweenness centrality)}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -4212,8 +4206,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.113 \subsection{M
-                   ediating effect (betweenness centrality)}
+l.108 \framesubtitle{M
+                      ediating effect (betweenness centrality)}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -4256,7 +4250,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 113--114
+Overfull \hbox (20.0pt too wide) in paragraph at lines 108--109
 []
  []
 
@@ -4267,7 +4261,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.115 N
+l.110 N
        odes with high betweenness centrality in this type of network may rep...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4472,17 +4466,17 @@ Missing character: There is no b in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 115--116
+Overfull \hbox (20.0pt too wide) in paragraph at lines 110--111
 []
  []
 
 
-Overfull \hbox (8.34422pt too wide) in paragraph at lines 115--116
+Overfull \hbox (8.34422pt too wide) in paragraph at lines 110--111
 \OML/cmm/m/it/10 c[]$
  []
 
 
-Overfull \hbox (6.00235pt too wide) in paragraph at lines 115--116
+Overfull \hbox (6.00235pt too wide) in paragraph at lines 110--111
 \OML/cmm/m/it/10 n$
  []
 
@@ -4493,18 +4487,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.117 $
+l.112 $
        $
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 117--117
+Overfull \hbox (20.0pt too wide) in paragraph at lines 112--112
 [] 
  []
 
 
-Overfull \hbox (76.98225pt too wide) detected at line 119
+Overfull \hbox (76.98225pt too wide) detected at line 114
 \OML/cmm/m/it/10 c[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 i\OT1/cmr/m/n/10 ) = [] [
 ]
  []
@@ -4516,7 +4510,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.121 W
+l.116 W
        here $\sigma_{ij}$ is the total number of shortest paths from node $i...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4790,47 +4784,47 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 121--122
+Overfull \hbox (20.0pt too wide) in paragraph at lines 116--117
 []
  []
 
 
-Overfull \hbox (12.75697pt too wide) in paragraph at lines 121--122
+Overfull \hbox (12.75697pt too wide) in paragraph at lines 116--117
 \OML/cmm/m/it/10 ^^[[]$
  []
 
 
-Overfull \hbox (3.44513pt too wide) in paragraph at lines 121--122
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 116--117
 \OML/cmm/m/it/10 i$
  []
 
 
-Overfull \hbox (4.69049pt too wide) in paragraph at lines 121--122
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 116--117
 \OML/cmm/m/it/10 j$
  []
 
 
-Overfull \hbox (26.53712pt too wide) in paragraph at lines 121--122
+Overfull \hbox (26.53712pt too wide) in paragraph at lines 116--117
 \OML/cmm/m/it/10 ^^[[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (6.00235pt too wide) in paragraph at lines 121--122
+Overfull \hbox (6.00235pt too wide) in paragraph at lines 116--117
 \OML/cmm/m/it/10 n$
  []
 
 
-Overfull \hbox (3.44513pt too wide) in paragraph at lines 121--122
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 116--117
 \OML/cmm/m/it/10 i$
  []
 
 
-Overfull \hbox (4.69049pt too wide) in paragraph at lines 121--122
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 116--117
 \OML/cmm/m/it/10 j$
  []
 
 
-Overfull \hbox (6.00235pt too wide) in paragraph at lines 121--122
+Overfull \hbox (6.00235pt too wide) in paragraph at lines 116--117
 \OML/cmm/m/it/10 n$
  []
 
@@ -4841,7 +4835,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.123 I
+l.118 I
        ndicates good integration but maybe structural fragility (if central ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4945,13 +4939,13 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 123--124
+Overfull \hbox (20.0pt too wide) in paragraph at lines 118--119
 []
  []
 
 ! Undefined control sequence.
-l.125 \subsection
-                 {Community effect (Louvain)}
+l.120 \framesubtitle
+                    {Community effect (Louvain)}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -4965,8 +4959,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.125 \subsection{C
-                   ommunity effect (Louvain)}
+l.120 \framesubtitle{C
+                      ommunity effect (Louvain)}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -4995,7 +4989,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 125--126
+Overfull \hbox (20.0pt too wide) in paragraph at lines 120--121
 []
  []
 
@@ -5006,7 +5000,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.127 T
+l.122 T
        he Louvain community detection method consists of two main steps. Ini...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5344,7 +5338,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 127--131
+Overfull \hbox (20.0pt too wide) in paragraph at lines 122--126
 []
  []
 
@@ -5355,7 +5349,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.132 I
+l.127 I
        n the second step, a new network is constructed where each node repre...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5707,7 +5701,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 132--137
+Overfull \hbox (20.0pt too wide) in paragraph at lines 127--132
 []
  []
 
@@ -5718,7 +5712,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.138 M
+l.133 M
        odularity is a measure of the degree of segregation of a network into...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -6026,12 +6020,12 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 138--142
+Overfull \hbox (20.0pt too wide) in paragraph at lines 133--137
 []
  []
 
 
-Overfull \hbox (16.2389pt too wide) in paragraph at lines 138--142
+Overfull \hbox (16.2389pt too wide) in paragraph at lines 133--137
 \OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 Q$
  []
 
@@ -6042,18 +6036,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.143 $
+l.138 $
        $
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 143--143
+Overfull \hbox (20.0pt too wide) in paragraph at lines 138--138
 [] 
  []
 
 
-Overfull \hbox (135.00426pt too wide) detected at line 145
+Overfull \hbox (135.00426pt too wide) detected at line 140
 \OML/cmm/m/it/10 Q \OT1/cmr/m/n/10 = [] [][\OML/cmm/m/it/10 A[] \OMS/cmsy/m/n/1
 0 ^^@ []\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 ^^N\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 
 c[]; c[]\OT1/cmr/m/n/10 )
@@ -6066,7 +6060,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.147 w
+l.142 w
        here:
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6078,7 +6072,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 147--148
+Overfull \hbox (20.0pt too wide) in paragraph at lines 142--143
 [] 
  []
 
@@ -6103,7 +6097,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no x in font nullfont!
 
-Overfull \hbox (7.90555pt too wide) in paragraph at lines 149--150
+Overfull \hbox (7.90555pt too wide) in paragraph at lines 144--145
 \OML/cmm/m/it/10 Q$
  []
 
@@ -6143,7 +6137,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no k in font nullfont!
 
-Overfull \hbox (8.78014pt too wide) in paragraph at lines 150--151
+Overfull \hbox (8.78014pt too wide) in paragraph at lines 145--146
 \OML/cmm/m/it/10 m$
  []
 
@@ -6183,17 +6177,17 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 
-Overfull \hbox (14.54286pt too wide) in paragraph at lines 151--152
+Overfull \hbox (14.54286pt too wide) in paragraph at lines 146--147
 \OML/cmm/m/it/10 A[]$
  []
 
 
-Overfull \hbox (3.44513pt too wide) in paragraph at lines 151--152
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 146--147
 \OML/cmm/m/it/10 i$
  []
 
 
-Overfull \hbox (4.69049pt too wide) in paragraph at lines 151--152
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 146--147
 \OML/cmm/m/it/10 j$ 
  []
 
@@ -6237,22 +6231,22 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no y in font nullfont!
 
-Overfull \hbox (8.53532pt too wide) in paragraph at lines 152--153
+Overfull \hbox (8.53532pt too wide) in paragraph at lines 147--148
 \OML/cmm/m/it/10 k[]$
  []
 
 
-Overfull \hbox (9.4196pt too wide) in paragraph at lines 152--153
+Overfull \hbox (9.4196pt too wide) in paragraph at lines 147--148
 \OML/cmm/m/it/10 k[]$
  []
 
 
-Overfull \hbox (3.44513pt too wide) in paragraph at lines 152--153
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 147--148
 \OML/cmm/m/it/10 i$
  []
 
 
-Overfull \hbox (4.69049pt too wide) in paragraph at lines 152--153
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 147--148
 \OML/cmm/m/it/10 j$ 
  []
 
@@ -6296,22 +6290,22 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 
-Overfull \hbox (7.65685pt too wide) in paragraph at lines 153--154
+Overfull \hbox (7.65685pt too wide) in paragraph at lines 148--149
 \OML/cmm/m/it/10 c[]$
  []
 
 
-Overfull \hbox (8.54112pt too wide) in paragraph at lines 153--154
+Overfull \hbox (8.54112pt too wide) in paragraph at lines 148--149
 \OML/cmm/m/it/10 c[]$
  []
 
 
-Overfull \hbox (3.44513pt too wide) in paragraph at lines 153--154
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 148--149
 \OML/cmm/m/it/10 i$
  []
 
 
-Overfull \hbox (4.69049pt too wide) in paragraph at lines 153--154
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 148--149
 \OML/cmm/m/it/10 j$ 
  []
 
@@ -6396,18 +6390,18 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (33.24309pt too wide) in paragraph at lines 154--155
+Overfull \hbox (33.24309pt too wide) in paragraph at lines 149--150
 \OML/cmm/m/it/10 ^^N\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 c[]; c[]\OT1/cmr/m/n/10 )
 $
  []
 
 
-Overfull \hbox (3.44513pt too wide) in paragraph at lines 154--155
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 149--150
 \OML/cmm/m/it/10 i$
  []
 
 
-Overfull \hbox (4.69049pt too wide) in paragraph at lines 154--155
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 149--150
 \OML/cmm/m/it/10 j$
  []
 

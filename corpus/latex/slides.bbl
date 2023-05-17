@@ -1,0 +1,36 @@
+\begin{thebibliography}{}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem[\protect\citeauthoryear{Abbott}{Abbott}{2001}]{abbott2001}
+Abbott, Andrew. 2001.
+\newblock {\em Chaos of {{Disciplines}}\/}.
+\newblock {Chicago, IL}: {University of Chicago Press}.
+
+\bibitem[\protect\citeauthoryear{Collins}{Collins}{1994}]{collins1994}
+Collins, Randall. 1994.
+\newblock \enquote{Why the Social Sciences Won't Become High-Consensus,
+  Rapid-Discovery Science.}
+\newblock {\em Sociological Forum\/} 9:155--177.
+
+\bibitem[\protect\citeauthoryear{Collins}{Collins}{2000}]{collins2000}
+Collins, Randall. 2000.
+\newblock \enquote{The {{Sociology}} of {{Philosophies}}: {{A Pr\'ecis}}.}
+\newblock {\em Philosophy of the Social Sciences\/} 30:157--201.
+
+\bibitem[\protect\citeauthoryear{Harty and Shove}{Harty and
+  Shove}{2004}]{harty2004}
+Harty, Chris and Elizabeth Shove. 2004.
+\newblock \enquote{Disciplines and Their Dynamics.} .
+
+\bibitem[\protect\citeauthoryear{Kuhn}{Kuhn}{2012}]{kuhn2012}
+Kuhn, Thomas~S. 2012.
+\newblock {\em The {{Structure}} of {{Scientific Revolutions}}\/}.
+\newblock {University of Chicago Press}.
+
+\bibitem[\protect\citeauthoryear{Latour}{Latour}{1988}]{latour1988}
+Latour, Bruno. 1988.
+\newblock {\em Science in {{Action}}: {{How}} to {{Follow Scientists}} and
+  {{Engineers}} through {{Society}}\/}.
+\newblock {Cambridge, MA}: {Harvard University Press}.
+
+\end{thebibliography}

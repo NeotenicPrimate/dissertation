@@ -1,12 +1,12 @@
 # Fdb version 4
-["pdflatex"] 1681971019 "measurements.tex" "measurements.pdf" "measurements" 1681971020 2
+["pdflatex"] 1683666392 "measurements.tex" "measurements.pdf" "measurements" 1683666392 2
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
-  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1680997865 7883463 30309497023c6415ea8072af6496571e ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1683146015 7883466 711a7223994cb1a6f307a57c28444c06 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "measurements.aux" 1681872921 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "measurements.tex" 1681971017 10221 56cbc5970580e3e37d5aabede828dccd ""
+  "measurements.tex" 1683666391 10237 cccc54d877dc50e2608c7e6046f3138a ""
   (generated)
   "measurements.aux"
   "measurements.log"

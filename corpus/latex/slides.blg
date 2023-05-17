@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: slides.aux
+The style file: utils/ajs.bst
+Database file #1: sections/bibliography.bib
+Warning--empty journal in harty2004
+You've used 6 entries,
+            2436 wiz_defined-function locations,
+            568 strings with 4799 characters,
+and the built_in function-call counts, 2370 in all, are:
+= -- 240
+> -- 83
+< -- 12
++ -- 25
+- -- 21
+* -- 167
+:= -- 415
+add.period$ -- 31
+call.type$ -- 6
+change.case$ -- 31
+chr.to.int$ -- 6
+cite$ -- 7
+duplicate$ -- 112
+empty$ -- 169
+format.name$ -- 37
+if$ -- 470
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 9
+newline$ -- 33
+num.names$ -- 30
+pop$ -- 36
+preamble$ -- 1
+purify$ -- 37
+quote$ -- 0
+skip$ -- 86
+stack$ -- 0
+substring$ -- 131
+swap$ -- 8
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 1
+while$ -- 22
+width$ -- 0
+write$ -- 83
+(There was 1 warning)

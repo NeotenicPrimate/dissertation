@@ -1,5 +1,5 @@
 
-\newcommand{\insertfig}[2]{
+\newcommand{\insertfigs}[2]{
     \begin{figure}[H]
         \caption{#1}
         \label{fig:#2}
@@ -12,6 +12,14 @@
                 \caption{\name}
             \end{subfigure}\quad
         }
+    \end{figure}
+}
+
+\newcommand{\insertfig}[2]{
+    \begin{figure}[H]
+        \caption{#1}
+        \label{fig:#2}
+        \includegraphics[width=\textwidth]{figures/#2}
     \end{figure}
 }
 
@@ -59,3 +67,26 @@
     Probability \string& statistics,
     Sociology
 }
+
+\newcommand{\insertfigsslides}[2]{
+    \begin{adjustwidth}{-2em}{-2em}
+        \begin{figure}[hbtp]
+            % \caption{#1}
+            \label{fig:#2}
+            \foreach \name in \fields {
+                \begin{subfigure}[p]{0.19\textheight}
+                    \centering
+                    \resizebox{0.75\textwidth}{!}{%
+                        \includegraphics[width=\textwidth]{figures/#2/\name}
+                    }
+                    \caption{\name}
+                \end{subfigure}\quad
+            }
+        \end{figure}
+    \end{adjustwidth}
+}
+
+\newcommand{\insertfigslides}[1]{
+    \includegraphics[keepaspectratio=true,width=\paperwidth, height=\paperheight]{figures/#1}
+}
+

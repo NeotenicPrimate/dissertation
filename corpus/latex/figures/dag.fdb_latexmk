@@ -1,0 +1,12 @@
+# Fdb version 4
+["pdflatex"] 1683666005 "dag.tex" "dag.pdf" "dag" 1683666005 2
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1683146015 7883466 711a7223994cb1a6f307a57c28444c06 ""
+  "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "dag.aux" 1683666005 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "dag.tex" 1683666004 2296 76afe467e2511ebd069c19cf78d80a74 ""
+  (generated)
+  "dag.aux"
+  "dag.log"
+  "dag.pdf"
+  (rewritten before read)

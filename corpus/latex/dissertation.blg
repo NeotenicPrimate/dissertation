@@ -6,43 +6,43 @@ Database file #1: sections/bibliography.bib
 Warning--empty journal in hagberg2008
 You've used 32 entries,
             2436 wiz_defined-function locations,
-            745 strings with 10597 characters,
-and the built_in function-call counts, 17478 in all, are:
-= -- 1666
-> -- 1211
-< -- 48
-+ -- 377
-- -- 359
-* -- 1556
-:= -- 3063
-add.period$ -- 184
+            740 strings with 10693 characters,
+and the built_in function-call counts, 17626 in all, are:
+= -- 1667
+> -- 1251
+< -- 46
++ -- 389
+- -- 371
+* -- 1579
+:= -- 3090
+add.period$ -- 183
 call.type$ -- 32
-change.case$ -- 250
+change.case$ -- 254
 chr.to.int$ -- 32
 cite$ -- 33
 duplicate$ -- 605
-empty$ -- 943
-format.name$ -- 459
-if$ -- 3419
+empty$ -- 941
+format.name$ -- 475
+if$ -- 3447
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 36
+missing$ -- 37
 newline$ -- 163
 num.names$ -- 162
-pop$ -- 228
+pop$ -- 238
 preamble$ -- 1
-purify$ -- 279
+purify$ -- 283
 quote$ -- 0
-skip$ -- 442
+skip$ -- 440
 stack$ -- 0
-substring$ -- 914
-swap$ -- 63
+substring$ -- 898
+swap$ -- 62
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 360
+type$ -- 356
 warning$ -- 1
-while$ -- 138
+while$ -- 136
 width$ -- 0
 write$ -- 451
 (There was 1 warning)

@@ -1,11 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1681953788 "figures.tex" "figures.pdf" "figures" 1681953789 2
+["pdflatex"] 1682503113 "figures.tex" "figures.pdf" "figures" 1682503114 2
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1680997905 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1680997865 7883463 30309497023c6415ea8072af6496571e ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "figures.aux" 1681944576 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "figures.tex" 1681953786 1278 dfdc575c56f63ab99c30c61ebd7635e4 ""
+  "figures.tex" 1682503112 3112 b318a0c63fb36c6d5ef16d1566fe9c09 ""
   (generated)
   "figures.aux"
   "figures.log"

@@ -1,135 +1,201 @@
 
-    \section{Figures}
 
-    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    \subsection{Citation Network}
-    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %% All Networks
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-    \newpage
-    
-    \insertfig{Citation Graphs}{citation_graphs}
+\inserttable{Number of Communities}{all_louvain_communities}
 
-    \newpage
+\newpage
 
-    \insertfig{Citation Temporal Cumulative Distribution}{citation_temp_cum_dist}
+\inserttable{Number of Components}{all_components}
 
-    \newpage
-    
-    \insertfig{Citation Degree Distribution}{citation_deg_dist}
+\newpage
 
-    \newpage
+\insertfig{All fields}{all_tfidf_umap}
 
-    \inserttable{Citation Descriptive Statistics}{citation_desc_stats}
+\newpage
 
-    \newpage
+\insertfig{All fields Centroid Distance}{all_tfidf_umap_distance_heatmap}
 
-    \inserttable{Citation Reference Dates}{citation_ref_dates}
+\newpage
 
-    \newpage
+\includegraphics[width=\textwidth]{figures/all_bivariate/AvgClustering_Centralization}
 
-    \insertfig{Citation Reference Dates Distribution}{citation_ref_dates}
+\newpage
 
-    \newpage
+\includegraphics[width=\textwidth]{figures/all_bivariate/AvgClustering_Transitivity}
 
-    \insertfig{Co-Citation Node Distance Distribution}{co_citation_node_distance_dist}
+\newpage
 
-    \newpage
+\includegraphics[width=\textwidth]{figures/all_bivariate/Density_Triangles}
 
-    \insertfig{Citation Temporal DAG Longest Patg}{citation_temp_dag_longest_path}
+\newpage
 
-    \newpage
+\includegraphics[width=\textwidth]{figures/all_bivariate/Density_AvgDegree}
 
-    \insertfig{Citation Temporal Geodesic}{citation_temp_avg_geodesic}    
+\newpage
 
-    \newpage
+\includegraphics[width=\textwidth]{figures/all_bivariate/Density_Triangles}
 
-    \insertfig{Citation Temporal Transitivity}{citation_temp_transitivity}
 
-    \newpage
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %% Citation Network
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-    \insertfig{Centrality \\ (Top 10)}{citation_temp_top_centrality}
+% \newpage
 
-    \newpage
+% \insertfigs{Citation Graphs}{citation_graphs}
 
-    \insertfig{Citation Temporal Average Clustering}{citation_temp_avg_clustering}
+% \newpage
 
-    %% Genealogy
+% \insertfigs{Citation Temporal Cumulative Distribution}{citation_temp_cum_dist}
 
-    \newpage
+% \newpage
 
-    \insertfig{Generational Document Distribution}{generational_doc_dist}
+% \insertfigs{Citation Degree Distribution}{citation_deg_dist}
 
-    \newpage
+% \newpage
 
-    \insertfig{Genealogy Tree}{genealogy_trees}
+% \inserttable{Citation Descriptive Statistics}{citation_desc_stats}
 
-    %% Terms
+% \newpage
 
-    \newpage
+% \inserttable{Citation Reference Dates}{citation_ref_dates}
 
-    \insertfig{Term Temporal Ranking}{term_temp_rank}
+% \newpage
 
-    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    \subsection{Co-Citation Network}
-    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \insertfigs{Citation Reference Dates Distribution}{citation_ref_dates}
 
-    \newpage
+% \newpage
 
-    \insertfig{Co-Citation Graphs\\$(e = 50)$}{co_citation_graphs}
-    
-    \newpage
+% \insertfigs{Co-Citation Node Distance Distribution}{co_citation_node_distance_dist}
 
-    \inserttable{Co-Citation Descriptive Statistics}{co_citation_desc_stats}
+% \newpage
 
-    \newpage
+% \insertfigs{Citation Temporal DAG Longest Patg}{citation_temp_dag_longest_path}
 
-    \insertfig{Co-Citation Degree Distribution}{co_citation_deg_dist}
+% \newpage
 
-    \newpage
+% % \insertfigs{Citation Temporal Geodesic}{citation_temp_avg_geodesic}    
 
-    \inserttable{Co-Citation ERGM Model}{co_citation_ergm_model}
+% \newpage
 
-    %% Communities
+% \insertfigs{Citation Temporal Number of Louvain Communities}{citation_temporal_louvain_comms}
 
-    \newpage
+% \newpage
 
-    \insertfig{Co-Citation Louvain Hierarchical Communities}{co_citation_louvain_hier_comm}
+% \insertfigs{Citation Temporal Transitivity}{citation_temp_transitivity}
 
-    \newpage
+% \newpage
 
-    \insertfig{Co-Citation Girvan-Newman Hierarchical Communities}{co_citation_girvan_newman_hier_comm}
+% \insertfigs{Citation Temporal Centrality}{citation_temp_top_centrality}
 
-    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    \subsection{Co-Occurrence Network}
-    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \newpage
 
-    \newpage
+% \insertfigs{Citation Temporal Average Clustering}{citation_temp_avg_clustering}
 
-    \insertfig{Co-Occurrence Graphs\\$(e = 50)$}{co_occurrence_graphs}
+% %% Genealogy
 
-    \newpage
+% \newpage
 
-    \inserttable{Co-Occurrence Descriptive Statistics}{co_occurrence_desc_stats}
+% \insertfigs{Generational Document Distribution}{generational_doc_dist}
 
-    \newpage
+% \newpage
 
-    \insertfig{Co-Occurrence Degree Distribution$}{co_occurrence_deg_dist}
+% \insertfig{Genealogy Trees}{genealogy_trees/10.1109-34.121785}
 
-    \newpage
+% %% Terms
 
-    \insertfig{Co-Occurrence Node Distance Distribution}{co_occurrence_node_distance_dist}
+% \newpage
 
-    \newpage
+% \insertfigs{Term Temporal Ranking}{term_temp_rank}
 
-    \inserttable{Co-Occurrence ERGM Model}{co_occurrence_ergm_model}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %% Co-Citation Network
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-    %% Communities
+% \newpage
 
-    \newpage
+% \insertfigs{Co-Citation Full Graphs}{co_citation_full_graphs}
 
-    \insertfig{Co-Occurrence Louvain Hierarchical Communities}{co_occurrence_louvain_hier_comm}
+% \newpage
 
-    \newpage
+% \insertfigs{Co-Citation Graphs}{co_citation_graphs}
 
-    \insertfig{Co-Occurrence Girvan-Newman Hierarchical Communities}{co_occurrence_girvan_newman_hier_comm}
+% \newpage
+
+% \insertfigs{Co-Citation HeatMap}{co_citation_heatmap}
+
+% \newpage
+
+% \inserttable{Co-Citation Descriptive Statistics}{co_citation_desc_stats}
+
+% \newpage
+
+% \insertfigs{Co-Citation Degree Distribution}{co_citation_deg_dist}
+
+% \newpage
+
+% \inserttable{Co-Citation ERGM Model}{co_citation_ergm_model}
+
+% %% Communities
+
+% \newpage
+
+% \insertfigs{Co-Citation Louvain Hierarchical Communities}{co_citation_louvain_hier_comm}
+
+% \newpage
+
+% \insertfigs{Co-Citation Girvan-Newman Hierarchical Communities}{co_citation_girvan_newman_hier_comm}
+
+% \newpage
+
+% \insertfigs{Co-Citation Louvain Community Distribution}{co_occurrence_louvain_comm_dist}
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %% Co-Occurrence Network
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \newpage
+
+% \insertfigs{Co-Occurrence Full Graphs}{co_occurrence_full_graphs}
+
+% \newpage
+
+% \insertfigs{Co-Occurrence Graphs}{co_occurrence_graphs}
+
+% \newpage
+
+% \insertfigs{Co-Occurrence HeatMap}{co_occurrence_heatmap}
+
+% \newpage
+
+% \inserttable{Co-Occurrence Descriptive Statistics}{co_occurrence_desc_stats}
+
+% \newpage
+
+% \insertfigs{Co-Occurrence Degree Distribution}{co_occurrence_deg_dist}
+
+% \newpage
+
+% \insertfigs{Co-Occurrence Node Distance Distribution}{co_occurrence_node_distance_dist}
+
+% \newpage
+
+% \inserttable{Co-Occurrence ERGM Model}{co_occurrence_ergm_model}
+
+% %% Communities
+
+% \newpage
+
+% \insertfigs{Co-Occurrence Louvain Hierarchical Communities}{co_occurrence_louvain_hier_comm}
+
+% \newpage
+
+% \insertfigs{Co-Occurrence Girvan-Newman Hierarchical Communities}{co_occurrence_girvan_newman_hier_comm}
+
+% \newpage
+
+% \insertfigs{Co-Occurrence Louvain Community Distribution}{co_occurrence_louvain_comm_dist}
 

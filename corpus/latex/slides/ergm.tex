@@ -1,0 +1,66 @@
+The probability of observing a particular network structure is modeled as a function of various network statistics or features.
+
+In their general form, ERGMs are written as \citep{hunter2008}:
+
+$$
+P(Y=y) = \frac{exp[\beta_1 s_1(g) + \beta_2 s_2(g) + ... + \beta_p s_p(g)]}{\sum\limits_{g'} exp[\beta_1 s_1(g') + \beta_2 s_2(g') + ... + \beta_p s_p(g')]}
+$$
+
+\begin{itemize}
+    \item Y is the random variable for the state of the network (with realization y)
+    \item $s_k(g)$ is a $k$th model statistics (ERGM term) for the network $g$
+    \item $\beta_k$ is the coefficients the sufficient statistic $k$
+\end{itemize}
+
+\break
+
+Denominator:
+
+\begin{itemize}
+	\item Undirected: $2^{(n(n-1)/2)}$ 
+	\item Directed: $2^{(n(n-1))}$
+\end{itemize}
+
+Because of this, Markov Chain Monte Carlo Maximum Likelihood Estimation (MCMC MLE) is used to estimate the denominator. It samples from the space of all possible networks producing a representative sample and estimate of the true denominator. 
+
+\break
+
+The ergm equation can be re-written in terms of change statistics. The log-odds of a tie $ij$ is:
+
+$$
+logit(Y_{ij} = 1 | y_{ij}^c) = \theta' \delta(y_{ij})
+$$
+
+Where:
+\begin{itemize}
+	\item $y_{ij}^c$ is the complement of $y_{ij}$, i.e. all dyads in the network other than $y_{ij}$
+	\item $\theta'$ is the vector of coefficients for the sufficient statistics
+	\item $y_{ij}^+$ as the same network as $y$ except that $y_{ij} = 1$
+	\item $y_{ij}^-$ as the same network as $y$ except that $y_{ij} = 0$
+	\item $\delta(y_{ij})$ is given by $g(y_{ij}^+) - g(y_{ij}^-)$ which measures how the sufficient 
+	statistic $g(y)$ changes if the $(i, j)$th edge is toggled on or off.
+\end{itemize}
+
+To obtain the probability of observing an edge, the expit (or inverse logit) of $\beta$ is taken:
+
+$$
+P(e) = \frac{\exp(\beta)}{(1 + exp(\beta))}
+$$
+
+Quantifying the importance of a structure in the network formation process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
