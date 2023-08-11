@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex slides"] 1684348649 "slides.aux" "slides.bbl" "slides" 1684348651 0
+["bibtex slides"] 1684526660 "slides.aux" "slides.bbl" "slides" 1684527635 0
   "./sections/bibliography.bib" 1684307686 99526 73b8256682831242b37bb6ba6ca50d90 ""
   "./utils/ajs.bst" 1681372785 24661 5d7a2cc14cd1f23cb39d7098a8ad4fe5 ""
-  "slides.aux" 1684348651 2490 66ae1768609b28814e543b55d8e79040 "pdflatex"
+  "slides.aux" 1684527634 2532 a5af209f9bf600104afe4d335fd8cf05 "pdflatex"
   (generated)
   "slides.bbl"
   "slides.blg"
   (rewritten before read)
-["pdflatex"] 1684348650 "slides.tex" "slides.pdf" "slides" 1684348651 0
+["pdflatex"] 1684527630 "slides.tex" "slides.pdf" "slides" 1684527635 0
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecso0800.tfm" 1136768653 3584 9d213a5e33aba09782ffab939fc38a6f ""
@@ -178,6 +178,7 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty" 1642805339 13080 71b38252cbe3d689bcd03161d205eb84 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty" 1663185823 6910 04edbf3b8c0cef06702e5c6b5546b504 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemedefault.sty" 1513642141 355 75c98e7b8f427eb7c625ed391b140c5b ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty" 1579038678 6078 f1cb470c9199e7110a27851508ed7a5c ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption-beamer.sto" 1645391520 4350 a9295a4610cd29113396b45a37d92606 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty" 1678653221 55778 14d5c99aa26410e440820bb9ea5b8b3a ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty" 1678653221 71836 1a735454ad10692452eb2f2fc37f3865 ""
@@ -242,14 +243,16 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1683146124 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1683146015 7883466 711a7223994cb1a6f307a57c28444c06 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "slides.aux" 1684348651 2490 66ae1768609b28814e543b55d8e79040 "pdflatex"
-  "slides.bbl" 1684348650 1389 4345f18e4759447fc931ad86da52bb47 "bibtex slides"
-  "slides.nav" 1684348651 749 228356d102660b3b87322328812ce0a3 "pdflatex"
-  "slides.out" 1684348651 93 aea4b6a8ae45636c75679c2f0dfa4493 "pdflatex"
-  "slides.tex" 1684348646 2815 ce25801a5ea66bd42ce37438ee8e52d6 ""
-  "slides/introduction.tex" 1684348645 3021 43ebfbd2a5e4eb48069310c80eda34cf ""
-  "slides/theory.tex" 1684348647 8954 4f51907d4021b7d22618d22722b17aa0 ""
-  "utils/utils.tex" 1684045203 2251 a87230ba8bfeb4844bb7faa99c698b8d ""
+  "figures/all_tfidf_umap.png" 1683936277 14081215 6b03e7867fdb2ae6f6ab326f8e3290ca ""
+  "figures/fractal_distinctions.tex" 1683838689 500 ff6798cfcd668aec46854e3cd99ff29d ""
+  "slides.aux" 1684527634 2532 a5af209f9bf600104afe4d335fd8cf05 "pdflatex"
+  "slides.bbl" 1684526660 1389 4345f18e4759447fc931ad86da52bb47 "bibtex slides"
+  "slides.nav" 1684527634 846 e870e0117b2b01f4c17247dd7c505938 "pdflatex"
+  "slides.out" 1684527634 93 aea4b6a8ae45636c75679c2f0dfa4493 "pdflatex"
+  "slides.tex" 1684527629 3787 dde07b9bbb1f2f7bac28391d8af9269d ""
+  "slides/introduction.tex" 1684527625 3093 946cb262fa60f3279dd7cc2dc3e9688d ""
+  "slides/theory.tex" 1684527520 8032 7106e8f6463c9edbdacba134b187d93a ""
+  "utils/utils.tex" 1684409389 3053 ad864adbebb8425b3a9bd6e46404c1ef ""
   (generated)
   "slides.aux"
   "slides.log"

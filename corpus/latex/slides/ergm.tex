@@ -12,34 +12,36 @@ $$
     \item $\beta_k$ is the coefficients the sufficient statistic $k$
 \end{itemize}
 
+% \break
+
+% Denominator:
+
+% \begin{itemize}
+% 	\item Undirected: $2^{(n(n-1)/2)}$ 
+% 	\item Directed: $2^{(n(n-1))}$
+% \end{itemize}
+
+% Because of this, Markov Chain Monte Carlo Maximum Likelihood Estimation (MCMC MLE) is used to estimate the denominator. It samples from the space of all possible networks producing a representative sample and estimate of the true denominator. 
+
+% \break
+
+% The ergm equation can be re-written in terms of change statistics. The log-odds of a tie $ij$ is:
+
+% $$
+% logit(Y_{ij} = 1 | y_{ij}^c) = \theta' \delta(y_{ij})
+% $$
+
+% Where:
+% \begin{itemize}
+% 	\item $y_{ij}^c$ is the complement of $y_{ij}$, i.e. all dyads in the network other than $y_{ij}$
+% 	\item $\theta'$ is the vector of coefficients for the sufficient statistics
+% 	\item $y_{ij}^+$ as the same network as $y$ except that $y_{ij} = 1$
+% 	\item $y_{ij}^-$ as the same network as $y$ except that $y_{ij} = 0$
+% 	\item $\delta(y_{ij})$ is given by $g(y_{ij}^+) - g(y_{ij}^-)$ which measures how the sufficient 
+% 	statistic $g(y)$ changes if the $(i, j)$th edge is toggled on or off.
+% \end{itemize}
+
 \break
-
-Denominator:
-
-\begin{itemize}
-	\item Undirected: $2^{(n(n-1)/2)}$ 
-	\item Directed: $2^{(n(n-1))}$
-\end{itemize}
-
-Because of this, Markov Chain Monte Carlo Maximum Likelihood Estimation (MCMC MLE) is used to estimate the denominator. It samples from the space of all possible networks producing a representative sample and estimate of the true denominator. 
-
-\break
-
-The ergm equation can be re-written in terms of change statistics. The log-odds of a tie $ij$ is:
-
-$$
-logit(Y_{ij} = 1 | y_{ij}^c) = \theta' \delta(y_{ij})
-$$
-
-Where:
-\begin{itemize}
-	\item $y_{ij}^c$ is the complement of $y_{ij}$, i.e. all dyads in the network other than $y_{ij}$
-	\item $\theta'$ is the vector of coefficients for the sufficient statistics
-	\item $y_{ij}^+$ as the same network as $y$ except that $y_{ij} = 1$
-	\item $y_{ij}^-$ as the same network as $y$ except that $y_{ij} = 0$
-	\item $\delta(y_{ij})$ is given by $g(y_{ij}^+) - g(y_{ij}^-)$ which measures how the sufficient 
-	statistic $g(y)$ changes if the $(i, j)$th edge is toggled on or off.
-\end{itemize}
 
 To obtain the probability of observing an edge, the expit (or inverse logit) of $\beta$ is taken:
 

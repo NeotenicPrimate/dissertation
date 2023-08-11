@@ -8,17 +8,22 @@
 % Conclusion
 % Limitations/Future
 
+% Invariant
+
 % Previous research:
 
 % - Focus on one field
 % - Focus on qualitative
 
-\documentclass[xcolor=dvipsnames]{beamer}
+% \documentclass[]{beamer}
+
+\documentclass[xcolor=dvipsnames,notes]{beamer}
 
 \usepackage{tikz}
 \usetikzlibrary{quotes}
 
 \usepackage{multicol}
+\usepackage{booktabs}
 \usepackage{subcaption}
 \usepackage{natbib}
 \usepackage{hyperref}
@@ -63,8 +68,13 @@
 \end{frame}
 
 % \begin{frame}
-% \frametitle{DAG}
-% \input{figures/dag}
+% \frametitle{Data}
+% \input{slides/data}
+% \end{frame}
+
+% \begin{frame}
+% \frametitle{Analysis}
+% \input{slides/analysis}
 % \end{frame}
 
 % \begin{frame}
@@ -73,8 +83,8 @@
 % \end{frame}
 
 % \begin{frame}
-% \frametitle{Data}
-% \input{slides/data}
+% \frametitle{Citation Networks}
+% \insertfigsslides{Degree Distribution}{citation_deg_dist}
 % \end{frame}
 
 % \begin{frame}
@@ -112,6 +122,9 @@
 % \insertfigslides{co_occurrence_graphs/Geophysics}
 % \end{frame}
 
+% % Just quick overview of the model
+% % Basically here is how the coefficients are interpreted
+
 % \begin{frame}[allowframebreaks]
 % \frametitle{ERGM}
 % \input{slides/ergm}
@@ -123,8 +136,37 @@
 % \end{frame}
 
 % \begin{frame}
-% \frametitle{Analysis}
-% \input{slides/analysis}
+% \frametitle{Bivariate}
+% \insertbivariatesslides{}
+% \end{frame}
+
+% \begin{frame}
+% \frametitle{Results}
+% \input{slides/results}
+% \end{frame}
+
+% \begin{frame}
+% \frametitle{Citation Louvain Communities}
+% \insertfigsslides{}{citation_temporal_louvain_comms}
+% \end{frame}
+
+% \begin{frame}
+% \frametitle{Citation Temporal Centrality}
+% \insertfigsslides{}{citation_temp_top_centrality}
+% \end{frame}
+
+% \begin{frame}
+% \frametitle{Citation Term Ranks}
+% \insertfigsslides{}{term_temp_rank}
+% \end{frame}
+
+% \begin{frame}
+% \frametitle{E.g., Citation Temporal Centrality Sociology}
+
+% \begin{center}
+%     \includegraphics[width=\textwidth,height=0.8\textheight,keepaspectratio]{figures/term_temp_rank/Sociology}
+% \end{center}
+
 % \end{frame}
 
 % \begin{frame}
@@ -132,10 +174,10 @@
 % \input{slides/future_work}
 % \end{frame}
 
-% \begin{frame}
-% \frametitle{Questions?}
-% \insertfigslides{all_tfidf_umap}
-% \end{frame}
+\begin{frame}
+\frametitle{Questions?}
+\insertfigslides{all_tfidf_umap}
+\end{frame}
 
 \begin{frame}[allowframebreaks]
     \frametitle{References}

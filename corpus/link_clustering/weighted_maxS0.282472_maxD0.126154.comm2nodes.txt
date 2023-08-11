@@ -1,0 +1,24 @@
+1	variable	model
+2	student	school
+3	inequality	country
+4	inequality	income
+5	race	racial
+6	work	family	woman	child	social	gender
+7	state	united	welfare
+8	black	racial	white
+9	family	parent	child
+10	woman	men	gender
+11	individual	level
+12	inequality	gender
+13	collective	action
+14	gap	gender
+15	research	inequality
+16	social	difference
+17	life	course
+18	labor	market
+19	labor	woman
+20	organizational	organization
+21	work	woman	family
+22	political	network	analysis	data	survey	using	research	movement	policy	state	result	level	article	model
+23	influence	network	group	inequality	level	public	finding	relationship	two	data	survey	status	economic	life	change	behavior	context	neighborhood	capital	cultural	role	model	form	one	sociology	theory	science	show	social	result	organization	based	article	time	health	political	individual	analysis	using	support	process	tie	research	movement	class	policy	community	find	state	structure
+24	gender	difference

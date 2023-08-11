@@ -90,3 +90,31 @@
     \includegraphics[keepaspectratio=true,width=\paperwidth, height=\paperheight]{figures/#1}
 }
 
+\newcommand*{\bivariates}{
+    Density\_AvgDegree,
+    Density\_Triangles,
+    Density\_Louvain,
+    Density\_Components,
+    Density\_AvgClustering,
+    Density\_Transitivity,
+    Density\_Centralization,
+    AvgClustering\_Centralization
+}
+
+\newcommand{\insertbivariatesslides}[1]{
+    \begin{adjustwidth}{-2em}{-2em}
+        \begin{figure}[hbtp]
+            % \label{fig:#2}
+            \foreach \name in \bivariates {
+                \begin{subfigure}[p]{0.25\textheight}
+                    \centering
+                    \resizebox{0.75\textwidth}{!}{%
+                        \includegraphics[width=\textwidth]{figures/all_bivariate/\name}
+                    }
+                    \caption{\name}
+                \end{subfigure}\quad
+            }
+        \end{figure}
+    \end{adjustwidth}
+}
+
