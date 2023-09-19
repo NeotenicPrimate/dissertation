@@ -1,0 +1,54 @@
+1	model	using
+2	subduction	mantle	zone
+3	sea	level
+4	model	region
+5	earthquake	slip	fault
+6	frequency	wave
+7	model	climate	ocean	similar	water	sea	high	global	surface	change	temperature	ice
+8	model	data	time
+9	variability	model
+10	plume	mantle
+11	model	simulation
+12	time	data
+13	variability	climate
+14	pacific	ocean
+15	water	isotope
+16	wave	electron
+17	mantle	earth
+18	rate	model
+19	climate	warming
+20	mantle	composition
+21	result	model
+22	change	increase
+23	mantle	slab
+24	beneath	mantle
+25	composition	isotope
+26	mantle	crust
+27	plate	mantle
+28	high	degree	temperature	similar
+29	model	show
+30	zone	fault
+31	delta	isotope
+32	lower	mantle
+33	atlantic	ocean
+34	subduction	zone
+35	high	low
+36	sheet	ice
+37	climate	ocean	water	sea	global	surface	change	temperature	ice
+38	solar	wind
+39	mantle	high	temperature	low	similar
+40	melting	melt
+41	arctic	ice
+42	observation	model
+43	result	mantle
+44	mantle	velocity
+45	mantle	core
+46	mantle	melting	melt
+47	shelf	ice
+48	model	observed
+49	mantle	upper
+50	mantle	model
+51	magnetic	field
+52	depth	mantle
+53	earthquake	seismic
+54	mantle	seismic

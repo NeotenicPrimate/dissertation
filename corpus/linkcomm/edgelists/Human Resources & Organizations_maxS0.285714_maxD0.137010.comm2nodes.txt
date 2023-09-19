@@ -1,0 +1,13 @@
+1	literature	knowledge	network	innovation	social	role	transfer	learning	sharing	level	context	aim	individual	result	practical	purpose	strategy	data	using	design	originality	creation	implication	factor	methodology	limitation
+2	job	work
+3	employee	knowledge
+4	employee	work
+5	related	work	support	conflict	family
+6	research	work	relationship	career
+7	career	success
+8	success	project
+9	review	research
+10	job	satisfaction	search
+11	adaptability	career	self
+12	apm	manager	governance	development	ipma	project	right	reserved	risk	construction
+13	research	team	knowledge	model	analysis	firm	approach	based	relationship	value	organizational	performance	practice	process	organization	finding	management	project

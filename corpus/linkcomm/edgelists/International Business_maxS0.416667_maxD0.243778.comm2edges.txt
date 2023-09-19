@@ -1,0 +1,43 @@
+1	firm,impact
+2	business,international	international,research	business,research
+3	relationship,work
+4	firm,theory
+5	family,work
+6	corporate,firm
+7	market,result
+8	firm,strategy
+9	finding,firm
+10	firm,human	firm,performance	firm,practice	firm,management	firm,resource
+11	high,performance
+12	country,institutional	country,level
+13	based,firm
+14	firm,relationship
+15	foreign,investment
+16	firm,industry
+17	country,host
+18	firm,institutional	firm,level
+19	firm,result
+20	employee,organization
+21	firm,risk
+22	firm,innovation
+23	firm,ownership
+24	market,stock
+25	country,performance	international,management	international,performance	performance,research	market,performance	management,research
+26	job,satisfaction
+27	country,foreign	foreign,international	country,international	international,market	foreign,market	country,market
+28	firm,reserved
+29	cross,cultural
+30	international,internationalization	international,knowledge
+31	firm,internationalization	firm,knowledge
+32	performance,resource	hrm,practice	human,performance	human,practice	organizational,performance	employee,relationship	management,resource	employee,hrm	performance,practice	commitment,organizational	employee,resource	hrm,resource	organizational,relationship	management,organizational	management,performance	human,resource	commitment,employee	management,practice	employee,management	performance,relationship	hrm,management	hrm,human	employee,organizational	employee,performance	human,management	hrm,performance	practice,resource	employee,practice
+33	find,firm
+34	performance,result
+35	export,firm
+36	firm,market	business,firm	country,firm	firm,foreign	firm,international	firm,investment	firm,research
+37	employee,job	employee,work	practice,work
+38	firm,right
+39	emerging,market	financial,market
+40	financial,firm	emerging,firm
+41	job,work
+42	cultural,culture
+43	firm,using

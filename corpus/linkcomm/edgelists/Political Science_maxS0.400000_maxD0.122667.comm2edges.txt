@@ -1,0 +1,45 @@
+1	decision,policy
+2	political,public	opinion,policy	policy,public
+3	policy,process
+4	election,voting	voter,voting
+5	foreign,policy
+6	model,policy	policy,support	government,policy	model,political	government,political	political,support
+7	data,political
+8	democracy,democratic
+9	american,political
+10	change,policy
+11	data,party
+12	european,party	party,state
+13	political,voter	election,political	policy,voter	electoral,political
+14	policy,union	national,policy
+15	european,union	european,national
+16	political,using
+17	group,interest
+18	issue,party
+19	democratic,political	democracy,political
+20	participation,political
+21	making,policy
+22	political,show
+23	evidence,political
+24	opinion,public
+25	issue,policy
+26	party,position
+27	electoral,party	party,vote	election,party	candidate,party	party,voter
+28	party,political	party,policy
+29	court,supreme
+30	economic,political	institution,policy	find,policy	political,social	political,result	influence,policy	policy,social	institution,political	analysis,policy	policy,politics	political,theory	political,politics	find,political	economic,policy	policy,theory	influence,political	policy,result	analysis,political
+31	level,state	european,state	article,state	article,european
+32	party,system
+33	election,electoral
+34	state,welfare
+35	european,integration
+36	policy,preference
+37	group,political	interest,policy	group,policy
+38	political,two
+39	citizen,political
+40	government,party	model,party	party,support
+41	individual,political
+42	policy,political
+43	vote,voter	election,voter	candidate,voter	candidate,election	election,vote
+44	policy,state	level,political	european,policy	article,political	european,political	article,policy	level,policy	political,state
+45	partisan,party

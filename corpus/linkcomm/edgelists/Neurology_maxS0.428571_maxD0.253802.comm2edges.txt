@@ -1,0 +1,38 @@
+1	brain,time
+2	cortex,prefrontal
+3	brain,human
+4	based,brain
+5	brain,change
+6	brain,patient
+7	brain,result
+8	brain,matter
+9	brain,related
+10	processing,visual
+11	matter,white
+12	cell,neuron
+13	activity,neural
+14	cortex,human
+15	cognitive,task
+16	brain,using
+17	left,right
+18	brain,pattern
+19	brain,subject
+20	cortex,motor
+21	area,visual
+22	functional,imaging	brain,imaging
+23	analysis,data
+24	data,model
+25	area,cortical
+26	processing,task
+27	brain,reserved
+28	connectivity,state
+29	area,cortex	cortex,cortical
+30	data,functional	analysis,functional	brain,data	brain,model	data,fmri	analysis,brain
+31	brain,neural
+32	area,brain	brain,cortical
+33	related,task
+34	brain,method
+35	brain,mri
+36	group,patient
+37	memory,task
+38	brain,functional	cortex,visual	functional,region	brain,cortex	brain,state	functional,network	activation,cortex	activation,functional	activity,fmri	activity,stimulus	functional,task	response,stimulus	activity,functional	right,task	activity,cortex	region,task	fmri,functional	task,visual	activation,brain	activity,visual	cortex,right	stimulus,task	connectivity,network	activity,brain	brain,right	cortex,response	functional,state	brain,response	brain,network	cortex,region	brain,region	cortex,task	brain,task	activity,response	fmri,right	network,region	fmri,response	activation,task	network,task	stimulus,visual	connectivity,functional	functional,right	brain,connectivity	activity,region	cortex,fmri	brain,fmri	fmri,network	cortex,stimulus	fmri,region	activity,task	response,task	fmri,task	activation,fmri	region,right	cortex,functional

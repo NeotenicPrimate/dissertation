@@ -1,0 +1,45 @@
+1	decision	policy
+2	opinion	public	policy	political
+3	process	policy
+4	election	voting	voter
+5	foreign	policy
+6	support	policy	political	model	government
+7	data	political
+8	democracy	democratic
+9	american	political
+10	change	policy
+11	party	data
+12	party	european	state
+13	election	policy	electoral	political	voter
+14	union	national	policy
+15	union	national	european
+16	using	political
+17	interest	group
+18	party	issue
+19	democracy	democratic	political
+20	political	participation
+21	making	policy
+22	political	show
+23	political	evidence
+24	opinion	public
+25	issue	policy
+26	party	position
+27	party	election	voter	candidate	electoral	vote
+28	party	political	policy
+29	court	supreme
+30	politics	economic	policy	institution	political	influence	social	theory	result	find	analysis
+31	level	article	state	european
+32	party	system
+33	election	electoral
+34	welfare	state
+35	integration	european
+36	preference	policy
+37	policy	political	interest	group
+38	two	political
+39	citizen	political
+40	party	support	model	government
+41	political	individual
+42	political	policy
+43	election	voter	candidate	vote
+44	level	state	article	policy	political	european
+45	party	partisan

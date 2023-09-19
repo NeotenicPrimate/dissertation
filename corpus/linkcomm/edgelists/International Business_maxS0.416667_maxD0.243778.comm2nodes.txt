@@ -1,0 +1,43 @@
+1	firm	impact
+2	international	business	research
+3	work	relationship
+4	theory	firm
+5	family	work
+6	corporate	firm
+7	result	market
+8	firm	strategy
+9	finding	firm
+10	management	firm	human	resource	performance	practice
+11	high	performance
+12	institutional	country	level
+13	based	firm
+14	firm	relationship
+15	foreign	investment
+16	firm	industry
+17	host	country
+18	firm	institutional	level
+19	result	firm
+20	organization	employee
+21	firm	risk
+22	firm	innovation
+23	ownership	firm
+24	market	stock
+25	international	management	country	market	performance	research
+26	job	satisfaction
+27	international	foreign	country	market
+28	firm	reserved
+29	cultural	cross
+30	knowledge	international	internationalization
+31	knowledge	firm	internationalization
+32	management	commitment	employee	resource	performance	relationship	practice	organizational	human	hrm
+33	find	firm
+34	result	performance
+35	export	firm
+36	country	market	business	research	international	firm	foreign	investment
+37	employee	job	work	practice
+38	firm	right
+39	financial	market	emerging
+40	financial	emerging	firm
+41	job	work
+42	cultural	culture
+43	firm	using

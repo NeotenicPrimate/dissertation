@@ -1,0 +1,65 @@
+1	generalized,model
+2	design,optimal
+3	data,using
+4	distribution,model	function,model	model,regression	data,model	method,model	estimation,model	estimator,model
+5	model,variable
+6	dimensional,model
+7	model,test
+8	model,parameter
+9	approach,model
+10	data,estimate
+11	data,sample
+12	model,using
+13	estimate,model
+14	design,model
+15	selection,variable
+16	model,one
+17	model,rate
+18	approach,data
+19	model,prior
+20	likelihood,model
+21	regression,variable	data,variable	method,variable
+22	process,time
+23	model,nonparametric
+24	inference,model
+25	model,show
+26	model,simulation
+27	model,sample
+28	model,selection
+29	case,model
+30	model,property
+31	model,modeling
+32	data,time	data,process
+33	process,random
+34	markov,model
+35	model,response
+36	distribution,method	data,estimation	method,regression	estimator,function	estimator,regression	estimation,function	function,regression	estimation,regression	data,function	estimator,method	estimation,estimator	function,method	data,regression	estimation,method	distribution,function	data,distribution	data,estimator	data,method	distribution,estimator
+37	error,model
+38	data,test
+39	analysis,model	model,proposed	based,model
+40	data,parameter
+41	linear,regression
+42	article,model
+43	distribution,test
+44	application,model
+45	component,model
+46	statistic,test
+47	random,walk
+48	model,result
+49	mixture,model
+50	algorithm,model
+51	based,method	method,proposed	data,proposed	analysis,data	based,data	analysis,method
+52	article,data
+53	model,process	model,time
+54	high,model
+55	asymptotic,model
+56	model,two
+57	model,problem
+58	linear,model
+59	model,random
+60	model,procedure
+61	data,likelihood
+62	bayesian,model
+63	model,number
+64	model,used
+65	class,model

@@ -1,0 +1,54 @@
+1	model,using
+2	mantle,subduction	mantle,zone
+3	level,sea
+4	model,region
+5	earthquake,fault	earthquake,slip	fault,slip
+6	frequency,wave
+7	global,model	change,model	ice,model	model,water	model,temperature	model,similar	model,sea	climate,model	model,ocean	model,surface	high,model
+8	data,model	model,time
+9	model,variability
+10	mantle,plume
+11	model,simulation
+12	data,time
+13	climate,variability
+14	ocean,pacific
+15	isotope,water
+16	electron,wave
+17	earth,mantle
+18	model,rate
+19	climate,warming
+20	composition,mantle
+21	model,result
+22	change,increase
+23	mantle,slab
+24	beneath,mantle
+25	composition,isotope
+26	crust,mantle
+27	mantle,plate
+28	degree,similar	high,temperature	degree,temperature	high,similar	similar,temperature
+29	model,show
+30	fault,zone
+31	delta,isotope
+32	lower,mantle
+33	atlantic,ocean
+34	subduction,zone
+35	high,low
+36	ice,sheet
+37	change,global	climate,water	sea,surface	change,ocean	ocean,surface	change,water	surface,water	global,ocean	ocean,sea	ice,ocean	change,surface	change,sea	ice,surface	sea,temperature	ocean,temperature	climate,temperature	ice,sea	climate,global	change,climate	surface,temperature	sea,water	change,ice	change,temperature	ocean,water	climate,ocean
+38	solar,wind
+39	high,mantle	mantle,similar	mantle,temperature	low,mantle
+40	melt,melting
+41	arctic,ice
+42	model,observation
+43	mantle,result
+44	mantle,velocity
+45	core,mantle
+46	mantle,melt	mantle,melting
+47	ice,shelf
+48	model,observed
+49	mantle,upper
+50	mantle,model
+51	field,magnetic
+52	depth,mantle
+53	earthquake,seismic
+54	mantle,seismic

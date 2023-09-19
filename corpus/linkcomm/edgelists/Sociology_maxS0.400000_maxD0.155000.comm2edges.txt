@@ -1,0 +1,71 @@
+1	social,support
+2	organization,social
+3	show,social
+4	gap,gender
+5	analysis,social	data,social	model,social	research,social	social,using
+6	life,social
+7	capital,social
+8	model,variable
+9	context,social
+10	influence,social
+11	relationship,social
+12	social,theory
+13	inequality,social
+14	analysis,state
+15	neighborhood,social
+16	inequality,research
+17	policy,social	social,state
+18	social,survey	result,social
+19	network,social	article,social
+20	income,inequality
+21	state,united
+22	social,sociology
+23	woman,work	family,work	family,woman
+24	policy,state
+25	child,family	family,parent	child,parent
+26	movement,political
+27	family,social	social,woman	child,social	social,work
+28	social,status
+29	article,model	model,network
+30	social,structure
+31	social,time
+32	role,social
+33	organization,organizational
+34	country,inequality
+35	public,social
+36	gender,social	difference,social
+37	race,racial
+38	science,social
+39	political,state
+40	finding,social
+41	find,social
+42	social,two
+43	class,social
+44	cultural,social
+45	health,social
+46	individual,level
+47	state,welfare
+48	social,tie
+49	change,social
+50	individual,social	level,social
+51	men,woman	gender,woman	gender,men
+52	data,level
+53	school,student
+54	process,social
+55	gender,inequality
+56	difference,gender
+57	behavior,social
+58	community,social
+59	based,social
+60	form,social
+61	labor,market
+62	movement,social	political,social
+63	one,social
+64	black,racial	black,white	racial,white
+65	data,result	data,survey
+66	labor,woman
+67	course,life
+68	economic,social
+69	group,social
+70	analysis,data	analysis,model	data,using	data,model	model,using	analysis,research	data,research
+71	action,collective

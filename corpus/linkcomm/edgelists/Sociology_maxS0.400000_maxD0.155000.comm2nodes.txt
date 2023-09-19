@@ -1,0 +1,71 @@
+1	support	social
+2	organization	social
+3	show	social
+4	gender	gap
+5	social	using	model	analysis	data	research
+6	life	social
+7	capital	social
+8	variable	model
+9	context	social
+10	influence	social
+11	relationship	social
+12	theory	social
+13	inequality	social
+14	analysis	state
+15	neighborhood	social
+16	inequality	research
+17	policy	state	social
+18	survey	result	social
+19	article	network	social
+20	inequality	income
+21	united	state
+22	sociology	social
+23	woman	work	family
+24	policy	state
+25	child	family	parent
+26	political	movement
+27	social	child	woman	work	family
+28	status	social
+29	article	model	network
+30	structure	social
+31	time	social
+32	role	social
+33	organization	organizational
+34	country	inequality
+35	public	social
+36	gender	difference	social
+37	racial	race
+38	science	social
+39	political	state
+40	social	finding
+41	find	social
+42	two	social
+43	class	social
+44	cultural	social
+45	health	social
+46	individual	level
+47	state	welfare
+48	tie	social
+49	change	social
+50	individual	level	social
+51	gender	woman	men
+52	data	level
+53	school	student
+54	social	process
+55	gender	inequality
+56	gender	difference
+57	behavior	social
+58	community	social
+59	based	social
+60	form	social
+61	labor	market
+62	movement	political	social
+63	one	social
+64	black	racial	white
+65	data	survey	result
+66	labor	woman
+67	life	course
+68	social	economic
+69	group	social
+70	using	model	analysis	data	research
+71	action	collective

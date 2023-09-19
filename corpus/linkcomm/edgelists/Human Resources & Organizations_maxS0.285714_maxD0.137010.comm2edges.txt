@@ -1,0 +1,13 @@
+1	knowledge,using	individual,knowledge	aim,knowledge	knowledge,result	knowledge,strategy	knowledge,role	knowledge,sharing	knowledge,learning	knowledge,transfer	knowledge,methodology	design,knowledge	knowledge,practical	data,knowledge	knowledge,network	knowledge,level	implication,knowledge	knowledge,purpose	factor,knowledge	innovation,knowledge	knowledge,originality	context,knowledge	creation,knowledge	knowledge,social	knowledge,literature	knowledge,limitation
+2	job,work
+3	employee,knowledge
+4	employee,work
+5	family,work	support,work	related,work	conflict,work
+6	career,research	research,work	career,work	career,relationship	relationship,work
+7	career,success
+8	project,success
+9	research,review
+10	job,search	job,satisfaction
+11	adaptability,career	career,self
+12	ipma,project	project,right	construction,project	governance,project	apm,project	project,risk	manager,project	project,reserved	development,project
+13	knowledge,organization	finding,knowledge	performance,research	knowledge,performance	management,project	knowledge,management	model,project	firm,knowledge	organization,organizational	project,research	based,management	knowledge,organizational	management,value	knowledge,practice	organizational,research	process,project	organization,project	management,model	management,process	based,knowledge	knowledge,project	organizational,performance	performance,project	knowledge,team	analysis,knowledge	based,project	practice,project	performance,team	knowledge,relationship	management,research	approach,management	management,organization	performance,relationship	management,performance	analysis,project	knowledge,value	knowledge,process	project,team	knowledge,model	finding,management	approach,knowledge	project,relationship	management,organizational	management,practice	approach,project	firm,performance	knowledge,research

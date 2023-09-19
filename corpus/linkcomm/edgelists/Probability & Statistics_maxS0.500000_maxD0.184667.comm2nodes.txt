@@ -1,0 +1,65 @@
+1	generalized	model
+2	design	optimal
+3	data	using
+4	regression	estimation	data	function	method	estimator	distribution	model
+5	model	variable
+6	dimensional	model
+7	model	test
+8	model	parameter
+9	approach	model
+10	estimate	data
+11	sample	data
+12	model	using
+13	estimate	model
+14	model	design
+15	selection	variable
+16	model	one
+17	model	rate
+18	data	approach
+19	prior	model
+20	likelihood	model
+21	regression	data	variable	method
+22	time	process
+23	nonparametric	model
+24	model	inference
+25	show	model
+26	simulation	model
+27	sample	model
+28	model	selection
+29	case	model
+30	model	property
+31	model	modeling
+32	time	data	process
+33	random	process
+34	model	markov
+35	model	response
+36	regression	estimation	data	function	method	estimator	distribution
+37	error	model
+38	data	test
+39	proposed	based	model	analysis
+40	data	parameter
+41	regression	linear
+42	article	model
+43	distribution	test
+44	model	application
+45	model	component
+46	test	statistic
+47	walk	random
+48	model	result
+49	mixture	model
+50	algorithm	model
+51	data	proposed	method	based	analysis
+52	article	data
+53	time	process	model
+54	high	model
+55	model	asymptotic
+56	model	two
+57	problem	model
+58	model	linear
+59	random	model
+60	model	procedure
+61	likelihood	data
+62	bayesian	model
+63	number	model
+64	model	used
+65	model	class

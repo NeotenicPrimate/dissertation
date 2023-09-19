@@ -1,0 +1,34 @@
+1	firm,public
+2	firm,investment
+3	liquidity,market
+4	bank,risk
+5	firm,growth
+6	firm,level
+7	bank,loan
+8	financial,firm	equity,firm	firm,result	increase,market	firm,increase	market,result	financial,market	equity,market
+9	bank,firm	bank,market
+10	interest,rate
+11	fund,performance
+12	change,price
+13	debt,firm
+14	dynamic,model
+15	firm,value
+16	capital,model	price,return	asset,return	market,model	asset,market	risk,stock	market,stock	model,stock	return,stock	model,show	model,risk	investor,return	return,risk	market,show	market,risk	firm,price	investor,market	find,model	firm,return	asset,model	evidence,price	cost,price	evidence,firm	firm,market	cost,firm	price,stock	evidence,find	asset,risk	capital,firm	price,risk	model,price	investor,stock	firm,using	market,price	evidence,market	cost,market	market,return	firm,model	model,return	capital,market	firm,stock	find,price	market,using	find,firm	firm,show	firm,risk	asset,price	model,using	evidence,model	cost,model	find,return	find,market
+17	firm,industry
+18	model,pricing
+19	return,volatility
+20	portfolio,return
+21	market,trading	price,trading
+22	model,trade	data,market	market,trade	data,model	equilibrium,market	equilibrium,model
+23	rate,risk
+24	corporate,firm
+25	fund,mutual
+26	option,price
+27	model,volatility
+28	model,time
+29	firm,higher
+30	firm,structure
+31	firm,performance
+32	factor,model
+33	model,rate	market,rate
+34	expected,return

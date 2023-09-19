@@ -1,0 +1,38 @@
+1	time	brain
+2	prefrontal	cortex
+3	human	brain
+4	based	brain
+5	brain	change
+6	patient	brain
+7	brain	result
+8	brain	matter
+9	related	brain
+10	processing	visual
+11	white	matter
+12	neuron	cell
+13	activity	neural
+14	human	cortex
+15	cognitive	task
+16	using	brain
+17	left	right
+18	brain	pattern
+19	brain	subject
+20	motor	cortex
+21	visual	area
+22	imaging	brain	functional
+23	analysis	data
+24	data	model
+25	cortical	area
+26	processing	task
+27	brain	reserved
+28	state	connectivity
+29	area	cortical	cortex
+30	analysis	model	functional	fmri	data	brain
+31	brain	neural
+32	cortical	brain	area
+33	related	task
+34	method	brain
+35	mri	brain
+36	group	patient
+37	task	memory
+38	connectivity	activation	visual	response	fmri	right	network	region	task	functional	state	activity	brain	stimulus	cortex

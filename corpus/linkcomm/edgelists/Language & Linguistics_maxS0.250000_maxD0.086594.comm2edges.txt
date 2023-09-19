@@ -1,0 +1,8 @@
+1	prime,priming
+2	english,speaker	native,speaker
+3	memory,working	false,memory	list,memory	memory,recall	item,memory
+4	language,reading	language,participant	processing,sentence	speech,word	production,word	experiment,participant	language,model	language,task	language,processing	memory,model	memory,task	language,production	model,word	test,word	context,language	memory,test	language,test	memory,processing	experiment,task	language,learning	experiment,processing	experiment,priming	english,language	language,sentence	experiment,learning	second,word	experiment,sentence	result,word	sentence,word	context,word	experiment,language	processing,word	lexical,word	memory,recognition	learning,word	language,speaker	experiment,recognition	reading,word	language,lexical	processing,result	experiment,memory	english,word	language,two	task,word	language,native	experiment,lexical	experiment,two	two,word	language,word	memory,word	language,second	language,result	priming,word	experiment,word	language,learner	memory,result	recognition,word	experiment,result	language,speech	participant,word
+5	learner,learning	learner,second	learning,second	learner,task	english,learner
+6	sentence,verb
+7	time,word	phonological,word	target,word	vocabulary,word	form,word	frequency,word	semantic,word	meaning,word
+8	finding,language	foreign,language	analysis,language	acquisition,language	difference,language	group,language	child,language	data,language	language,linguistic	comprehension,language	language,spanish	based,language	development,language	bilingual,language	knowledge,language	language,research	language,proficiency	language,level

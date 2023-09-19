@@ -3,46 +3,48 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: slides.aux
 The style file: utils/ajs.bst
 Database file #1: sections/bibliography.bib
+Warning--I didn't find a database entry for "ben-david1960"
+Warning--I didn't find a database entry for "ben-david1966"
 Warning--empty journal in harty2004
-You've used 6 entries,
+You've used 5 entries,
             2436 wiz_defined-function locations,
-            568 strings with 4799 characters,
-and the built_in function-call counts, 2370 in all, are:
-= -- 240
-> -- 83
-< -- 12
-+ -- 25
-- -- 21
-* -- 167
-:= -- 415
-add.period$ -- 31
-call.type$ -- 6
-change.case$ -- 31
-chr.to.int$ -- 6
-cite$ -- 7
-duplicate$ -- 112
-empty$ -- 169
-format.name$ -- 37
-if$ -- 470
+            564 strings with 4668 characters,
+and the built_in function-call counts, 1931 in all, are:
+= -- 192
+> -- 71
+< -- 10
++ -- 20
+- -- 18
+* -- 135
+:= -- 341
+add.period$ -- 25
+call.type$ -- 5
+change.case$ -- 27
+chr.to.int$ -- 5
+cite$ -- 6
+duplicate$ -- 93
+empty$ -- 137
+format.name$ -- 32
+if$ -- 383
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 9
-newline$ -- 33
-num.names$ -- 30
-pop$ -- 36
+missing$ -- 8
+newline$ -- 28
+num.names$ -- 25
+pop$ -- 32
 preamble$ -- 1
-purify$ -- 37
+purify$ -- 31
 quote$ -- 0
-skip$ -- 86
+skip$ -- 72
 stack$ -- 0
-substring$ -- 131
-swap$ -- 8
+substring$ -- 91
+swap$ -- 6
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 60
+type$ -- 48
 warning$ -- 1
-while$ -- 22
+while$ -- 17
 width$ -- 0
-write$ -- 83
-(There was 1 warning)
+write$ -- 70
+(There were 3 warnings)

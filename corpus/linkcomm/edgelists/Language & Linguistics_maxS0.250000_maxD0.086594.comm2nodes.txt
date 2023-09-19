@@ -1,0 +1,8 @@
+1	priming	prime
+2	english	speaker	native
+3	working	recall	list	item	memory	false
+4	language	word	speaker	learning	memory	production	learner	processing	task	english	test	priming	participant	experiment	native	result	lexical	reading	model	second	sentence	context	recognition	two	speech
+5	learning	task	english	learner	second
+6	verb	sentence
+7	semantic	word	frequency	vocabulary	meaning	phonological	form	target	time
+8	language	level	research	acquisition	linguistic	finding	data	proficiency	difference	group	bilingual	based	spanish	development	child	comprehension	knowledge	analysis	foreign

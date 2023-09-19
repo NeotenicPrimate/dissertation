@@ -1,0 +1,41 @@
+1	device	light
+2	device	energy	high	material	based
+3	solar	efficiency
+4	cell	device	performance	application	organic	high	material	based
+5	high	efficiency
+6	nanotube	carbon
+7	high	material	metal	carbon
+8	solid	electrolyte
+9	high	stability
+10	electrolyte	battery
+11	high	property	material	surface	structure
+12	battery	electrode
+13	anode	battery
+14	ion	battery	energy
+15	battery	metal	carbon
+16	graphene	oxide
+17	quantum	dot
+18	battery	cathode
+19	high	temperature
+20	solar	perovskite
+21	cancer	tumor
+22	battery	performance
+23	cell	using
+24	cell	cancer	tumor
+25	cell	device	film	high	material	layer	polymer
+26	therapy	tumor
+27	capacity	ion	battery	lithium
+28	density	storage	energy
+29	high	material	capacity	ion	battery	lithium
+30	high	electrode
+31	graphene	high
+32	surface	property	structure
+33	cell	nanoparticles
+34	cell	surface
+35	low	high
+36	density	storage	high
+37	solid	state
+38	film	thin
+39	film	layer	polymer
+40	cell	device	solar	perovskite	efficiency
+41	self	assembly

@@ -1,0 +1,47 @@
+1	migrant,policy	migration,social	article,migrant	migration,state	migrant,social	integration,migrant	migrant,state	migration,policy	article,migration
+2	migration,process
+3	muslim,religious
+4	labour,market
+5	migrant,transnational	migration,transnational
+6	policy,state
+7	race,theory
+8	migrant,political
+9	ethnic,immigrant	group,immigrant	immigrant,policy	identity,immigrant	immigrant,integration	immigrant,social	article,immigrant	immigrant,state
+10	ethnic,ethnicity
+11	american,identity	american,racial	american,ethnic
+12	border,migration
+13	article,state
+14	black,school
+15	ethnic,minority
+16	ethnic,political
+17	ethnic,migrant
+18	labour,migration	labour,migrant
+19	country,migrant	country,migration
+20	migration,research	migration,mobility	family,migration	migrant,mobility	migrant,research	family,migrant
+21	race,racial	article,social	article,race	group,social	racial,social	ethnic,racial	racial,white	article,identity	group,identity	race,social	race,white	black,racial	identity,racial	ethnic,social	article,ethnic	ethnic,group	ethnic,identity	identity,social	black,white	black,race	identity,race	identity,white
+22	white,whiteness
+23	immigration,policy
+24	analysis,migration
+25	child,immigrant
+26	migrant,migration
+27	integration,social
+28	immigrant,political
+29	education,race	race,teacher	race,student
+30	american,asian
+31	racial,racism	race,racism
+32	economic,migrant
+33	capital,social
+34	network,social
+35	integration,policy
+36	social,transnational
+37	immigrant,migration
+38	immigrant,immigration
+39	student,teacher	education,teacher	school,teacher	education,student	school,student
+40	generation,second
+41	country,immigrant
+42	community,ethnic
+43	migrant,worker
+44	international,migration
+45	identity,national
+46	discrimination,ethnic
+47	critical,race

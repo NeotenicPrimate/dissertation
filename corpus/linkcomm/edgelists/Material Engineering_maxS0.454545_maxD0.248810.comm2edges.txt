@@ -1,0 +1,41 @@
+1	device,light
+2	energy,high	energy,material	device,energy	based,energy
+3	efficiency,solar
+4	material,organic	high,material	based,high	cell,device	application,high	device,performance	based,cell	based,material	device,organic	cell,performance	high,performance	application,material	based,device	cell,organic	high,organic	device,high	application,device	cell,high	based,performance	device,material	material,performance	cell,material
+5	efficiency,high
+6	carbon,nanotube
+7	carbon,high	carbon,material	material,metal	high,metal
+8	electrolyte,solid
+9	high,stability
+10	battery,electrolyte
+11	material,structure	high,structure	material,surface	high,surface	high,property	material,property
+12	battery,electrode
+13	anode,battery
+14	battery,energy	energy,ion
+15	battery,carbon	battery,metal
+16	graphene,oxide
+17	dot,quantum
+18	battery,cathode
+19	high,temperature
+20	perovskite,solar
+21	cancer,tumor
+22	battery,performance
+23	cell,using
+24	cell,tumor	cancer,cell
+25	cell,layer	device,film	film,high	high,layer	film,material	device,layer	cell,polymer	high,polymer
+26	therapy,tumor
+27	battery,ion	capacity,ion	battery,lithium	battery,capacity	ion,lithium
+28	density,energy	energy,storage
+29	high,lithium	ion,material	battery,high	battery,material	high,ion	capacity,high
+30	electrode,high
+31	graphene,high
+32	property,structure	structure,surface
+33	cell,nanoparticles
+34	cell,surface
+35	high,low
+36	high,storage	density,high
+37	solid,state
+38	film,thin
+39	film,polymer	film,layer
+40	cell,efficiency	device,solar	cell,perovskite	cell,solar	device,efficiency
+41	assembly,self

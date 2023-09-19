@@ -1,0 +1,34 @@
+1	firm	public
+2	investment	firm
+3	liquidity	market
+4	bank	risk
+5	growth	firm
+6	firm	level
+7	bank	loan
+8	firm	result	equity	financial	increase	market
+9	bank	firm	market
+10	interest	rate
+11	fund	performance
+12	price	change
+13	firm	debt
+14	dynamic	model
+15	value	firm
+16	asset	risk	using	price	model	firm	cost	market	capital	find	evidence	show	stock	investor	return
+17	industry	firm
+18	pricing	model
+19	volatility	return
+20	portfolio	return
+21	price	trading	market
+22	equilibrium	trade	model	data	market
+23	risk	rate
+24	corporate	firm
+25	fund	mutual
+26	price	option
+27	model	volatility
+28	model	time
+29	firm	higher
+30	structure	firm
+31	performance	firm
+32	factor	model
+33	model	market	rate
+34	expected	return
